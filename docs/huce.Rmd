@@ -1,0 +1,402 @@
+---
+# TODO add name and email to all slides
+# knit: ( function(input, ...){rmarkdown::render(input) } )
+# rmarkdown::render("docs/present/methods-pres.Rmd")
+knit: ( function(input, ...){xaringan::infinite_moon_reader(input) } )
+title: "Money, Expertise, Public Pressure, and Democratic Capacity in Federal Agencies"
+# author: "Devin Judge-Lord <br>  Harvard University"
+link_col: cyan
+date: "judgelord.github.io/HUCE"
+titletext_fontfamily: "Roboto:wght@100"
+middle_fontfamily: "Roboto"
+font_family: "Roboto:wght@100"
+urlcolor: cyan
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    footer: These slides available at http://bit.ly/myslides
+    lib_dir: libs
+    mathjax: "default" # "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"
+    css: ["footer-header.css", "xaringan-themer.css"]
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%/16"           # 12/42 
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+```{r setup, include = FALSE}
+short = "false"
+exclude_stepwise = "false"
+exclude_extra = "false"
+
+# cache everything 
+knitr::opts_chunk$set(warning = FALSE, 
+                      message = FALSE,
+                      echo = FALSE, 
+                      #fig.path = "Figs/",
+                      fig.topcaption=TRUE,
+                      cache = TRUE, 
+                      fig.align = 'center',
+                      fig.retina = 2,
+                      fig.show="hold",
+                      fig.pos= "htbp",
+                      fig.path = "Figs/",
+                      fig.cap = '   ',
+                      out.width = "100%",
+                      out.extra = "")
+
+
+
+# Xaringan: https://slides.yihui.name/xaringan/
+library("xaringan")
+library("xaringanthemer")
+library("here")
+library("tidyverse")
+library("magrittr")
+library("knitr")
+library("kableExtra")
+
+
+
+
+style_mono_light(base_color = "#236D94",# "#3b444b",
+          link_color	
+ = "#247980" ,# "#92d6b6",
+          inverse_link_color	
+ = "B7E4CF", # "#751B55", ##B7E4CF",
+          #background_image = "Figs/ej-superfund-light.jpeg",
+          background_color = "#FFFFFF", #FAF0E6", # linen
+          header_background_content_padding_top = "7rem",
+ header_font_google = google_font("Open Sans"), 
+          text_font_google = google_font("Open Sans"), 
+ #text_font_family = "cm-web-fonts",
+ #text_font_url = "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css",
+          base_font_size = "30px",
+  text_font_size = "1rem",
+ code_font_size = "1rem",
+ header_h1_font_size = "1.75rem",
+  header_h2_font_size = "1.5rem",
+  header_h3_font_size = "1.25rem",
+          padding = "15px",
+          code_font_google = google_font("Inconsolata"), 
+          code_inline_background_color    = "#FFFFFF", 
+          #table_row_even_background_color = "grey"#, extra_css = list(".remark-slide-number" = list("display" = "none"))
+ )
+```
+
+layout: true
+
+<div class="my-footer"><span>Devin Judge-Lord&emsp;&emsp;</span></div> 
+
+---
+
+## Motivation
+
+- Large majorities want stronger environmental policy
+
+- Massive youth and activist energy behind climate and environmental justice
+
+- Policy fights don't end with legislation
+
+- But agency policymaking is technocratic  
+$\rightarrow$ hostile terrain for mass politics and activism  
+$\rightarrow$ good for incumbent industries
+
+
+???
+
+Legal theorists debate the normative value of public participation in agency rulemaking.
+The role of agency policymaking in a large democracy unsettled
+
+Big push from this administration increase participation and democratize agency decision-making, but the aim is unclear
+
+Moreover, Bureaucratic inertia frustrates any "all of government" initiatives
+
+As a political scientist, I take a more empirical large-scale quantitative approach to figure out the potential and limits of activism targeting agencies
+
+
+---
+
+## The IRA fight isn't over 
+
+"energy community".  
+$\rightarrow$ already [300+ pages of guidance from Treasury](https://arcgis.netl.doe.gov/portal/apps/experiencebuilder/experience/?id=a2ce47d4721a477a8701bd0e08495e1d) &  [maps from DOE](https://energycommunities.gov/energy-community-tax-credit-bonus/)
+
+"disadvantaged community"   
+$\rightarrow$ "a community that the Secretary determines [is] disadvantaged"
+
+"life cycle emissions" <!--$\rightarrow$ "additional"/"new" generation -->    
+$\rightarrow$ $0 – ∞ billion for hydrogen
+
+"facility"   
+$\rightarrow$  0 – massive reductions in methane 
+
+
+---
+
+layout: true
+
+<div class="my-footer"><span>Devin Judge-Lord&emsp;&emsp;(Results from Powell, Judge-Lord, & Grimmer 2023)</span></div> 
+
+---
+
+## Money buys allies in Congress who pressure agencies
+
+```{r, out.width= c("60%", "40%")}
+knitr::include_graphics("Figs/pac_amounts-2.png")
+knitr::include_graphics("Figs/full-logit-pro-1.png")
+```
+
+---
+
+layout: true
+
+<div class="my-footer"><span>Devin Judge-Lord&emsp;&emsp;(Results from Carpenter et al. "Inequality in Administrative Democracy")</span></div> 
+
+
+---
+
+
+## Agency rulemaking tilts toward the rich
+
+
+```{r, commenters-noncommenters, out.width= c("55%", "45%")}
+knitr::include_graphics("Figs/compustat-density-1.png")
+knitr::include_graphics("Figs/assets-efficacy-6.png")
+```
+
+???
+
+The other day I mentioned work I'm doing with my mentor Dan Carpenter here on how the banks successfully pushed back on financial regulation after the financial crisis and Dodd-Frank Act by lobbying the regulatory agencies. 
+
+There may be lessons here for how powerful incumbent interests responding to the IRA and especially if we get more regulatory legislation.
+
+---
+
+## Why? 
+
+### $\rightarrow$ Big companies hire experts and lawyers
+
+```{r, out.width= "100%"}
+knitr::include_graphics("Figs/mediation-4way-acme-1.png")
+```
+
+
+---
+
+layout: true
+
+<div class="my-footer"><span>Devin Judge-Lord&emsp;&emsp;</span></div> 
+
+---
+
+## When does public pressure affect agency rulemaking? 
+
+
+Campaigns succeed when
+
+1. They have broad **public support** & **showing support is easy**
+
+???
+
+Public support can be a resource. Presidents "go public" to get their agenda through Congress. Similarly, activists mobilize public attention when it shifts politics in their favor. 
+
+--
+1. They have **experts and lawyers**
+
+--
+2. They **shift the terms of debate** or **mobilize elected officials**
+
+--
+2. The agency has **capacity** (e.g. to address climate or environmental justice issues)
+
+
+???
+
+Pushing back against some of the skepticism about pressure.
+It can help, but only in certain conditions
+ involved, ideally both
+
+
+The work that Carrie and Arie do at ELP is really important 
+
+???
+Framing values-based decisions as scientific may hurt more than it helps.
+
+
+---
+
+name: orgs
+
+Pressure results from **organized campaigns**. Of 58 million public comments on proposed agency rules, 2005-2020    
+- The top 100 organizations mobilized 43,938,811
+- The top 10 organizations mobilized 25,947,612
+
+Organization | Rules Lobbied On | Comments
+:---- | ---- | ----:
+NRDC | 530 | 5,939,264 
+Sierra Club | 591 | 5,111,922 
+CREDO  | 90  | 3,019,150 
+Environmental Defense Fund  | 111 | 2,849,517 
+Center For Biological Diversity | 572 | 2,815,509 
+Earthjustice  | 235  | 2,080,583 
+
+
+---
+
+
+### Getting policymakers talking about climate & EJ
+
+```{r, out.width="90%"}
+knitr::include_graphics("Figs/cj-data-agencies100-2.png")
+```
+
+---
+
+```{r, out.width="89%"}
+knitr::include_graphics("Figs/cj-data-agencies-2.png")
+```
+
+---
+
+### Getting policymakers talking about climate & EJ
+
+From 2005 to 2020
+
+- 8% of relevant agency rules addressed climate change, 15% mentioned EJ 
+
+- 20% of all public comments mentioned climate change, 12% mentioned EJ 
+
+- 1000 supporters = ~ 65 percentage point increase in the probability that the agency addresses climate change, 46 percentage point increase that the agency addresses EJ 
+
+- Responsiveness is surprisingly stable across administrations but varies wildly across agencies
+
+
+---
+
+ .left-column[  
+### Agencies that more often address EJ are more responsive to comments demanding attention to EJ
+
+
+Logit (N = 11,315 rules)
+
+ ]
+ 
+ .right-column[
+```{r, fig.cap = "", out.width = "65%", fig.show = "hold", fig.subcap=""}
+
+knitr::include_graphics("Figs/ej-m-PR-shareI-pres-1.png")
+
+```
+]
+
+
+
+
+---
+
+include: short 
+
+.right-column[
+```{r,  out.width = "75%"}
+knitr::include_graphics("Figs/ej-m-PR-ejcomments-agencyFE-pres-1.png")
+```
+
+]
+
+ .left-column[  
+### Agencies respond to larger coalitions demanding attention to EJ
+
+Logit (N = 11,315 rules)
+ ]
+
+
+---
+
+.left-column[
+### When agencies adopt EJ language, environmental coalitions do better 
+
+Cross-sectional OLS model of coalition-level lobbying success (N = 284)
+
+]
+
+.right-column[
+```{r, out.width = "90%"}
+knitr::include_graphics("Figs/mc1ej-obama.png")
+```
+]
+
+---
+
+name: ej-org-success
+
+.left-column[
+
+### When agencies adopt EJ language, environmental groups do better
+
+Within-organization (DiD) OLS model (N = 3,932 organizations)
+
+]
+
+.right-column[
+
+```{r, out.width = "90%"}
+knitr::include_graphics("Figs/mo1ej-obama.png")
+```
+]
+
+---
+
+
+name: substantive
+
+.left-column[
+
+### Who gets their substantive policy demands met?
+
+
+- Business Associations
+- Law Firms & National Advocacy Organizations
+
+
+]
+
+.right-column[
+
+```{r substantive, out.width = "85%", fig.show = "hold"}
+
+knitr::include_graphics("Figs/ej-success-table.png")
+
+```
+]
+
+???
+
+In line with previous scholarship 
+
+Beyond previous scholarship 
+
+---
+
+class: inverse
+
+## What do we do? 
+
+- Make it someone's job inside the agency
+- Consider group representation
+- Make it easy to show support
+- Hire lawyers
+- Mobilize elected allies and issue frames
+
+
+???
+
+The work that Carrie and Arie do at ELP is really important 
+
+
