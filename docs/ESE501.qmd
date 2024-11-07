@@ -120,6 +120,10 @@ $\rightarrow$ $0 – ∞ billion for hydrogen
 "facility"   
 $\rightarrow$  0 – massive reductions in methane 
 
+
+## {background-image="figs/biden.jpg" background-size="contain"}
+
+
 # How Lobbying Works
 
 "quid pro quo" vs. "subsidy" vs. "capture" lobbying
@@ -139,7 +143,7 @@ knitr::include_graphics("figs/full-logit-pro-1.png")
 
 
 ```{r, out.width= c("60%", "40%")}
-knitr::include_graphics("figs/full-logit-pro-1.png")
+knitr::include_graphics("figs/pac_amounts-2.png")
 ```
 
 
