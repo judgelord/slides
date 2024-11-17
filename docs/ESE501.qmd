@@ -121,6 +121,19 @@ $\rightarrow$ $0 – ∞ billion for hydrogen
 $\rightarrow$  0 – massive reductions in methane 
 
 
+## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain"}
+
+
+## 
+
+<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_15c.html" width="1970px" height="1900px"></iframe>
+
+
+##
+
+<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="1770px" height="1500px"></iframe>
+
+
 ## {background-image="figs/biden.jpg" background-size="contain"}
 
 
