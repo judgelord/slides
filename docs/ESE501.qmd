@@ -2,7 +2,7 @@
 title: "Making Policy in the Executive Branch: Money, Expertise, Issue Framing, and Public Pressure"
 format:
   revealjs:
-    incremental: true   
+    incremental: false   
     scrollable: true 
     theme: [default, michigan.scss]
     footer: "[judgelord.github.io/slides/ESE501](https://judgelord.github.io/slides/ESE501.html)"
@@ -57,6 +57,8 @@ title-slide-attributes:
 `stranded assets`: things you can no longer sell
 
 `political economy`: explanations of behavior rooted in how economic power shapes political behavior and political power shapes economic behavior
+
+`lobbying`: any effort to influence policy
 
 `issue frame`: a way of thinking about an issue; a set of associations in one's mind or in public discourse
 
@@ -153,32 +155,6 @@ $\rightarrow$ $0 – ∞ billion for hydrogen
 
 "facility"   
 $\rightarrow$  0 – massive reductions in methane 
-
-
-## {background-image="https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2024/03/PR_fig3_timeseries_era5_2t_daily_anomalies_relative_to_preindustrial_1940-2024-1024x663.png" background-size="contain"}
-
-## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain"}
-
-
-## 
-
-<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_15c.html" width="770px" height="500px"></iframe>
-
-- 90% coral death
-- 14% of people endure extreme heat waves every 5 years 
-- Some ice in Arctic most years, 21-37% permafrost lost  <!--; sea level rise ~1m (3 feet)--> 
-
-
-##
-
-<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="770px" height="500px"></iframe>
-
-- 98-99%% coral death
-- 37% of people endure extreme heat waves every 5 years 
-- Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
-
-
-## {background-image="figs/biden.jpg" background-size="contain"}
 
 
 # How Lobbying Works

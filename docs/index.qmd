@@ -1,7 +1,20 @@
 ---
 title: "Slides"
-format: html
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+
 ---
+
 
 - [ESE501](ESE501)
 - [Climate Change](news)
