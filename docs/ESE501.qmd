@@ -23,12 +23,46 @@ title-slide-attributes:
 
 ## Today's talk
 
-1. What is at stake in energy policy
+1.  [Where are we in addressing climate change?](news)
+
+  - Science (bad news)
+  - Technology (good news)
+  - Public opinion (good news)
+  
+1. How to think about [recent policy changes](policy)
 1. How the U.S. federal government makes policy
 2. How money and lobbying affect policy
-3. How advocacy campaigns and fights over issue framing affect policy 
+3. How advocacy and fights over issue framing affect policy 
 
    - e.g., what counts as "climate policy"  and what counts as "environmental justice?"
+   
+   
+## Key terms 
+
+`Federalism`: Authority divided between a sovereign federal government and sovereign state and tribal governments
+
+`Separation of Powers`: Authority to legislate, execute legislation, and adjudicate disputes in separate coequal branches.
+
+`veto point`: A person who can say no
+
+`public policy`: statements of what *government* intends to do
+
+- Legislation 
+- Executive Order
+- Agency Rulemaking
+- Court opinion
+
+`industrial policy`: policy aimed at shaping the economy, especially what is produced and where 
+
+`stranded assets`: things you can no longer sell
+
+`political economy`: explanations of behavior rooted in how economic power shapes political behavior and political power shapes economic behavior
+
+`issue frame`: a way of thinking about an issue; a set of associations in one's mind or in public discourse
+
+
+
+
 
 ## Why understanding agency rulemaking matters
 
@@ -48,11 +82,11 @@ $\rightarrow$ good for incumbent industries
 Legal theorists debate the normative value of public participation in agency rulemaking.
 The role of agency policymaking in a large democracy unsettled
 
-Big push from this administration increase participation and democratize agency decision-making, but the aim is unclear
+Big push from this administration to increase participation and democratize agency decision-making, but the aim is unclear.
 
-Moreover, Bureaucratic inertia frustrates any "all of government" initiatives
+Moreover, Bureaucratic inertia frustrates any "all of government" initiatives.
 
-As a political scientist, I take a more empirical large-scale quantitative approach to figure out the potential and limits of activism targeting agencies
+As a political scientist, I take a more empirical, large-scale quantitative approach to figure out the potential and limits of activism targeting agencies.
 
 :::
 
@@ -158,7 +192,7 @@ knitr::include_graphics("figs/full-logit-pro-1.png")
 ```
 
 ::: footer
-(Results from Powell, Judge-Lord, & Grimmer 2023)
+(Results from Powell, Judge-Lord, & Grimmer, 2023)
 :::
 
 
@@ -171,7 +205,7 @@ knitr::include_graphics("figs/pac_amounts-2.png")
 
 
 ::: footer
-(Results from Powell, Judge-Lord, & Grimmer 2023)
+(Results from Powell, Judge-Lord, & Grimmer, 2023)
 :::
 
 
@@ -192,14 +226,12 @@ knitr::include_graphics("figs/assets-efficacy-6.png")
 
 :::{.notes}
 
-The other day I mentioned work I'm doing with my mentor Dan Carpenter here on how the banks successfully pushed back on financial regulation after the financial crisis and Dodd-Frank Act by lobbying the regulatory agencies. 
-
-There may be lessons here for how powerful incumbent interests responding to the IRA and, especially if we get more regulatory legislation.
+There may be lessons here for how powerful incumbent interests respond to the IRA and, especially if we get more regulatory legislation.
 :::
 
 
 ::: footer
-(Results from Carpenter et al. "Inequality in Administrative Democracy")
+(Results from Carpenter et al., "Inequality in Administrative Democracy")
 :::
 
 ## Why? 
@@ -215,7 +247,7 @@ knitr::include_graphics("figs/mediation-4way-acme-1.png")
 
 
 ::: footer
-(Results from Carpenter et al. "Inequality in Administrative Democracy")
+(Results from Carpenter et al., "Inequality in Administrative Democracy")
 :::
 
 # Advocacy 
@@ -280,7 +312,7 @@ Public support can be a resource. Presidents "go public" to get their agenda thr
 
 Pushing back against some of the skepticism about pressure.
 It can help, but only in certain conditions
- involved, ideally both
+ involved; ideally, both.
 :::
 
 
@@ -325,7 +357,7 @@ Executive Order 14096 (2023)
  
 ## Preview: **Part 2** 
 
-Medium-scale hand-coded sample of all 11,000 comments from organizations on 200 rules 
+Medium-scale hand-coded sample of all 11,000 comments from organizations on 200 rules. 
 
 - adding EJ language may correlate with substantive policy change favoring public interest groups ("lobbying success")
 - mostly Big Greens using generic EJ language
@@ -383,7 +415,7 @@ TOM ALLEN
 
 I grew up in Wisconsin, in the center of the Great Lakes, and despite Friday fish fries, these regulations probably protected people in my family, BUT 
 
-There is a large Hmong population that came over after the Vietnam war, and other commenters produced studies that certain Southeast Asian immigrant populations like the Hmong also ate a lot of freshwater fish and thus had higher rates of Mercury poisoning. Similarly,  Ojibwe people in the Great Lakes region had higher rates of mercury poisoning. 
+There is a large Hmong population that came over after the Vietnam War, and other commenters produced studies that certain Southeast Asian immigrant populations, like the Hmong, also ate a lot of freshwater fish and thus had higher rates of Mercury poisoning. Similarly,  Ojibwe people in the Great Lakes region had higher rates of mercury poisoning. 
 
 :::
 
@@ -711,9 +743,9 @@ Place-based EJ Groups:
 
 - Hotspots caused by averaging or trading among pollution sources  $\rightsquigarrow$ less pollution reduction (local EJ groups)
 - Cumulative impacts caused by multiple co-located harms 
-   - permitting decisions should account for nearby facilities that impact the same area
+   - Permitting decisions should account for nearby facilities that impact the same area
 - Cumulative impacts caused harms that persist over time
-   - permitting decisions for a facility should account for historic or naturally occurring harms
+   - Permitting decisions for a facility should account for historic or naturally occurring harms
 - EJScreen, MiEJScreen
 
 Big Greens
@@ -733,7 +765,7 @@ National Emission Standards for Hazardous Air Pollutants: Plywood and Composite 
 
 ## Claims about unequal spatial distributions of environmental harms
 
-Many groups don't even assert marginalization or historic oppression
+Many groups don't even assert marginalization or historic oppression.
 
 . . . 
 
@@ -747,7 +779,7 @@ In addition to geographic-based inequality, commenters raise inequalities linked
 disadvantaged populations are more likely
 to be employed in occupations with higher
 levels of exposure (e.g., mining, construction,
-manufacturing, agriculture, certain service
+manufacturing, agriculture, and certain service
 sector occupations) and to live in more highly
 contaminated communities. The reality of
 this unequal burden is not just a health issue,
@@ -808,7 +840,7 @@ Similarly, the Bush EPA cited other policies as backstops, arguing that deregula
 
 
 
-## Coopting the frame
+## Co-opting the frame
 
 Consumer prices as an environmental justice issue
 
@@ -818,7 +850,7 @@ Consumer prices as an environmental justice issue
 When the Trump Administration repealed the Clean Power Plan (CPP) regulations on power plants (Electric Generating Units or EGUs), the Trump EPA advanced an argument that, despite harming air quality, the repeal served environmental justice because it preserved jobs and lowered utility bills in low-income communities near power plants. This section of the proposed rule on environmental justice then went on to link job loss to health risks and substance abuse.
 :::
 
-## Coopting the frame
+## Co-opting the frame
 
 "Job-killing" regulation as an environmental justice issue
 
@@ -963,7 +995,7 @@ This was incorrect. A comment from Hudson River Sloop Clearwater, Inc. raised se
 
 > The rules and guidance are based on a fantasy world in which the terrain around nuclear power stations is perfectly flat, radiation plumes do not move up and down, the wind blows at the same speed in a constant direction throughout an accident, and most people follow the instructions they are given about the need to evacuate.
 
-> **Need for Site-Specific Analysis of Transport-Dependent Populations:** The present guidance suggests that because 50% of residents would offer rides to those in need, approximately 50% of the transit-dependent population in the EPZ would rideshare. Criteria for Development of ETE Studies (April 23, 2009) at 13. This assumption fails to account for the likely separation of transit-dependent environmental justice populations from more affluent populations. Furthermore, it takes no account of attitudes towards race and the potential reluctance of whites to offer rides to African- Americans. Instead of presuming that 50% of the transit-dependent population will rideshare, the presumption should be that only a small percentage will rideshare unless the licensee can show that there are no geographical concentrations of transit-dependent populations and that there is no racial or sociological bias with regard to ridesharing.
+> **Need for Site-Specific Analysis of Transport-Dependent Populations:** The present guidance suggests that because 50% of residents would offer rides to those in need, approximately 50% of the transit-dependent population in the EPZ would rideshare. Criteria for Development of ETE Studies (April 23, 2009) at 13. This assumption fails to account for the likely separation of transit-dependent environmental justice populations from more affluent populations. Furthermore, it takes no account of attitudes towards race and the potential reluctance of whites to offer rides to African-Americans. Instead of presuming that 50% of the transit-dependent population will rideshare, the presumption should be that only a small percentage will rideshare unless the licensee can show that there are no geographical concentrations of transit-dependent populations and that there is no racial or sociological bias with regard to ridesharing.
 
 > ...people would be foolish to follow the directions of first responders if they are based on totally unrealistic modeling. Indeed, it is doubtful whether people would follow instructions even if they were based on the best predictions possible. The experiences during Hurricane Katrina also underline that it is even more doubtful whether the response planned for environmental justice communities would actually materialize.
 
