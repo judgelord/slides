@@ -1,0 +1,119 @@
+---
+title: "Institutioal Honor"
+format: html
+warning: false
+echo: false
+---
+
+
+```{r}
+#| label: time
+#| fig-height: 2.5
+#| fig-width: 3
+#| out-width: "100%"
+
+
+library(tidyverse)
+library(ggrepel)
+#library(pBrackets) 
+#devtools::install_github("NicolasH2/ggbrace")
+library(ggbrace)
+#install.packages("ggplot2")
+
+x <- seq(0, 1, by = 0.05)    
+
+
+
+y <- dexp(x, rate = 5)      
+
+#x = 1-x
+
+
+
+ggplot() +
+  aes(x = x, y = y) +
+  geom_col(width = .04) + 
+  geom_col(aes(x = 0, y =5), fill = "#c90016", width = .0) + 
+    geom_text_repel(aes(x = 0, y = max(y)), 
+            label = "Harvard",
+            color = "#c90016") + 
+  geom_col(aes(x = 1, y = min(y) ), fill = "#9bddff", width = .04) + 
+  geom_text(aes(x = 1, y = min(y)+.4), 
+            label = "Columbia", hjust = 1,
+            color = "#9bddff") + 
+  geom_text(aes(x = .5, y = max(y), 
+                label = "τιμή TBD")) + 
+  labs(x = "",
+       y = "τιμή") + # (timé: honor/value/respect)
+  theme_classic() + 
+  theme(axis.text = element_blank(),
+        axis.ticks.x = element_blank()) + 
+    stat_brace(aes(x=c(0.05,.95), y=c(3, 4)), inherit.data=F, rotate= 0) 
+
+
+```
+
+
+
+```{r}
+#| label: time-law
+#| fig-height: 3
+#| fig-width: 4
+#| out-width: "100%"
+
+
+good <-c("Perkins Coie",
+         "Jenner & Block",
+         "WilmerHale")
+
+bad <- c(
+         "Skadden, Arps",
+         "Willkie",
+         "Milbank",
+         "A&O Shearman","Simpson Thacher & Bartlett",
+         "Cadwalader",
+         "Kirkland",
+         "Latham",
+         "Paul, Weiss"
+         )
+
+d <- tibble(
+  x = x,
+  y = y, 
+  label = c(good,
+            rep(NA, length(x) - length(good) - length(bad)),
+            bad)
+)
+
+
+
+x2 <- seq(0.15, .55 , by = 0.02)   
+
+
+ggplot(d) +
+  aes(x = x, 
+      y = y, 
+      label = label) +
+  geom_col(width = .04, 
+           alpha = .5) + 
+  geom_text_repel(nudge_y = .1, 
+                  min.segment.length = .5, 
+                  color = "blue",
+                  force = 20,
+                  ylim = c(.3,5.4),
+                  direction = "y", 
+                  alpha = .5 ) + 
+  annotate("text", x = mean(x2), y = 3.2, label = "τιμή TBD") + 
+  labs(x = "",
+       y = "τιμή") + # (timé: honor/value/respect)
+  theme_classic() + 
+  theme(axis.text = element_blank(),
+        axis.ticks.x = element_blank()) + 
+    stat_brace(
+      aes(x = x2), 
+               distance = -2.5,
+               width = .4, 
+      bending = 0.01) +
+  scale_x_continuous(limits = c(-.05, 1.1))
+
+```
