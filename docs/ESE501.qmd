@@ -56,7 +56,7 @@ title-slide-attributes:
 
 `stranded assets`: things you can no longer sell
 
-`political economy`: explanations of behavior rooted in how economic power shapes political behavior and political power shapes economic behavior
+`political economy`: explanations of behavior rooted in how economic power shapes political behavior and how <br> political power shapes economic behavior
 
 `lobbying`: any effort to influence policy
 
