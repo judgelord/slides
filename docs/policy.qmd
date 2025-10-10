@@ -3,12 +3,11 @@ title: "2025 Changes to U.S. Climate-Relevant Policy"
 subtitle: ""
 format:
  revealjs:
-#   footer: "(more at [judgelord.github.io/PP495/policy](https://judgelord.github.io/PP495/policy#/title-slide) )"
+   footer: "[<judgelord.github.io/slides>](https://judgelord.github.io/slides/policy)"
    incremental: false   
    smaller: false
    scrollable: true
    theme: [michigan.scss, oil.scss]
-css: styles.css
 execute:
   echo: false
   engine: knitr
@@ -192,7 +191,7 @@ Government agencies should:
 
 - Department of the Interior to put [all wind and solar projects through “elevated review”](https://grist.org/energy/trumps-interior-department-is-turning-environmentalists-legal-playbook-against-them/) from the Secretary's office, and may assert that the purpose of windmills is to [kill protected birds](https://heatmap.news/plus/the-fight/spotlight/migratory-bird-act-trump?utm_source=substack&utm_medium=email#), making them illegal
 - DOI [cancels the lease for Lava Ridge Wind Project signed with BLM in 2024](https://www.doi.gov/pressreleases/interior-department-moves-cancel-reckless-biden-era-approval-lava-ridge-wind-project)
-- Bureau of Ocean Energy Management [orders developers to halt work on an 80%-finished wind farm](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy), costing shareholders $2.4 billion
+- Bureau of Ocean Energy Management [orders developers to halt work on an 80%-finished wind farm](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy), costing shareholders $2.4 billion. [A judge ruled the stop work order illegal.](https://heatmap.news/energy/revolution-wind-defense-claims)
 - Another company ordered to halt construction estimated regulatory delays cost $1 billion (its lease was signed in 2017, with the first Trump administration). [1,500 jobs were threatened.](https://www.equinor.com/news/20250417-suspends-offshore-construction-activities-empire-wind)
 -  Internal Revenue Service guidance [bars companies building wind and solar projects from federal tax incentives](https://www.nytimes.com/2025/08/15/climate/irs-wind-solar-tax-credits.html)
 -  Commerce Department considering [banning imports of wind turbines](https://public-inspection.federalregister.gov/2025-16191.pdf?utm_campaign=pi+subscription+mailing+list&utm_medium=email&utm_source=federalregister.gov)
