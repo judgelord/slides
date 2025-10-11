@@ -64,6 +64,8 @@ $base_font_size: 35px !default;
 
 .footer {
   font-family: $presentation-heading-font;
+  color: #4c6782;
+  text-align: right;
 }
 
 .reveal .slide-number {
@@ -75,19 +77,9 @@ $base_font_size: 35px !default;
 }
 
 .reveal .footer {
-    color: #FFCB05;
+    color: #4c6782;
     text-align: right;
-    display: block;
-    position: fixed;
-    bottom: 18px;
-    width: 100%;
-    margin: 0px -20px;
-    text-align: right;
-    font-size: 18px;
-    z-index: 2;
 }
-
-
 
 
 .center-x{
