@@ -19,12 +19,29 @@ execute:
   engine: knitr
 ---
 
-# Bad news
+## TL;DR 
+
+### Bad news 
+
+- Physics
+- Policy 
+
+### Good news 
+
+- Economics
+- Politics 
+
+# Bad news <br> (1) Physics 
+
+<!--{.inverse background-image="https://static01.nyt.com/images/2024/08/07/climate/00cli-tippingpoints-promo/00cli-tippingpoints-promo-articleLarge.png"}--> 
 
 
 ## {background-image="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/F04E/production/_133281516_era_5_global_sea_temp_lines2024-05-05-nc.png" background-size="contain" data-menu-title="Record-breaking temperatures"}
 
 <!--https://climate.copernicus.eu/surface-air-temperature-july-2025 --> 
+
+# Bad news <br> (2) Policy
+
 
 ## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain" data-menu-title="Mitigation curves"}
 
@@ -49,11 +66,13 @@ execute:
 
 ## {background-image="figs/rhodium-2023.png" background-size="contain" data-menu-title="Rhodium group projections"}
 
-# 📍 [+1.6°C (+2.7°F)](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)
+# 📍 [+1.6°C (+2.7°F)](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level) {background-image="https://static01.nyt.com/images/2025/01/09/multimedia/2024-12-03-climate-pathways-index/2024-12-03-climate-pathways-index-videoSixteenByNine3000-v2.png" background-size="contain" background-opacity=".3"}
 
-# Good News 
+<!-- ![](https://static01.nyt.com/images/2025/01/09/multimedia/2024-12-03-climate-pathways-index/2024-12-03-climate-pathways-index-videoSixteenByNine3000-v2.png) --> 
 
-# Good News  <br> (1) Technology change
+# Good News {auto-animate=true}
+
+# Good News  <br> (1) Economics {auto-animate=true}
 
 <!--
 ## {background-image="https://elements.visualcapitalist.com/wp-content/uploads/2021/06/solar-energy-costs-wrights-law.png" background-size="contain"}
@@ -89,7 +108,7 @@ execute:
 
 
 
-# Good News  <br> (2) Political change
+# Good News  <br> (2) Politics
 
 <!--
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain" data-menu-title="YPCCC: Voters want more on climate"}
@@ -178,10 +197,13 @@ Most people in Texas, Arizona, New Mexico, Florida, Nevada, North Carolina, Sout
 [ℹ️](https://www.linkedin.com/posts/jamesrobeysustainability_this-weeks-chart-of-the-week-comes-from-activity-7215975523913494528-6Zwu) <!--https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge?trk=public_post_comment-text--> 
 :::
 
+<!--
 
-# 📍 [Renewables +109% of new demand](https://e360.yale.edu/digest/iea-renewable-energy-2025)
+# 📍 [Renewables = +109% of new demand](https://e360.yale.edu/digest/iea-renewable-energy-2025)
 
 Renewables to double by 2030
+
+--> 
 
 ## {background-image="https://pup-assets.imgix.net/onix/images/9780691245249.jpg" background-size="contain"  data-menu-title="Existential Politics"}
 
@@ -191,7 +213,8 @@ Renewables to double by 2030
 
 ### New Research:  
 
-[Stranded assets](https://en.wikipedia.org/wiki/Stranded_asset) and the political economy of climate/energy policy
+Political economy (incumbents with 
+[stranded assets](https://en.wikipedia.org/wiki/Stranded_asset)) explains the policy-economics-politics disconnect
 
 ![](https://img1.od-cdn.com/ImageType-400/1294-1/88C/F89/9E/%7B88CF899E-3E8A-4643-B9C6-57C7385843C6%7DImg400.jpg)
 
@@ -203,9 +226,11 @@ Renewables to double by 2030
 :::
 
 ::: {.column width="25%"}
- Aklin and Mildenberger. 2020. [“Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
+ Aklin & Mildenberger. 2020. [“Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate”](https://doi.org/10.1162/glep_a_00578)
  
- Colgan,  Green, and Hale. 2020. [“Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*](https://doi.org/10.1017/S0020818320000296)
+ Colgan,  Green, & Hale. 2020. [“Asset Revaluation and the Existential Politics of Climate Change.”](https://doi.org/10.1017/S0020818320000296)
+ 
+Hausman. 2025. [“Power Flows: Transmission Lines and Corporate Profits”](https://www.nber.org/papers/w32091)
 :::
 
 ::::

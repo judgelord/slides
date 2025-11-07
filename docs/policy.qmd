@@ -307,6 +307,7 @@ Establishes a council to look for political bias in disaster responses, chaired 
 - [continuing despite court orders ](https://www.nytimes.com/2025/02/19/us/politics/trump-foreign-aid-freeze.html)
 -  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
 -  Oct 2025, President said if Democrats did not vote for his funding bill, he would “do things that are irreversible, that are bad for them.” The DOE then claimed to [cancel contracts for Hydrogen hubs, grid upgrades, and research in Democrat-led states](https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html) (legal argument unclear)
+- [The E.P.A. canceled a $20 million flood protection grant to Alaska five months before catastrophic floods swept many houses off their foundations](https://www.nytimes.com/live/2025/10/14/us/trump-news#kupnik-alaska-typhoon-trump-epa-flood)
 
 
 ## New Policy from the Supreme Court  {background-opacity="0.1" background-image="https://www.motherjones.com/wp-content/uploads/2025/10/20251003_scotus-dual-state_2000b.jpg"}
@@ -377,3 +378,6 @@ Increases procedural barriers to establishing water quality criteria and increas
 --> 
 
 
+# Insurance {background-opacity="0.15" background-image="https://specials-images.forbesimg.com/imageserve/6839ca73ca0d4ef948725c94/Log-cabin/960x0.jpg"}
+
+- [Nevada ends wildfire insurance](https://susanpcrawford.substack.com/p/what-happens-if-property-insurers?utm_source=post-email-title&publication_id=1843450&post_id=177647026&utm_campaign=email-post-title&isFreemail=true&r=392iwd&triedRedirect=true&utm_medium=email)
