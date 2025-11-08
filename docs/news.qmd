@@ -23,14 +23,15 @@ execute:
 
 ### Bad news 
 
-- Physics
-- Policy 
+- Physics (🌍🌡️📈⚠️)
+- Policy (🏛️ 📉⚠️)
 
 ### Good news 
 
-- Economics
-- Politics 
+- Economics (️💲📉  ➡ 🌱⚡️⚡️⚡️📈💃)
+- Politics (😬📈➡🤝 👥👥>👤)
 
+ 
 # Bad news <br> (1) Physics 
 
 <!--{.inverse background-image="https://static01.nyt.com/images/2024/08/07/climate/00cli-tippingpoints-promo/00cli-tippingpoints-promo-articleLarge.png"}--> 
@@ -43,7 +44,7 @@ execute:
 # Bad news <br> (2) Policy
 
 
-## {background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain" data-menu-title="Mitigation curves"}
+## 🌎{background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain" data-menu-title="Mitigation curves"}
 
 
 ##   {data-menu-title="1.5 Degrees"}
@@ -64,7 +65,7 @@ execute:
 - Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
 
 
-## {background-image="figs/rhodium-2023.png" background-size="contain" data-menu-title="Rhodium group projections"}
+## 🇺🇸 {background-image="figs/rhodium-2023.png" background-size="contain" data-menu-title="Rhodium group projections"}
 
 # 📍 [+1.6°C (+2.7°F)](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level) {background-image="https://static01.nyt.com/images/2025/01/09/multimedia/2024-12-03-climate-pathways-index/2024-12-03-climate-pathways-index-videoSixteenByNine3000-v2.png" background-size="contain" background-opacity=".3"}
 
@@ -114,17 +115,19 @@ execute:
 ## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/05/majority-registered-voters-want-federal-agencies-to-increase-efforts-to-protect-people-from-health-harms-of-global-warming.png" background-size="contain" data-menu-title="YPCCC: Voters want more on climate"}
 ---> 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="YPCCC: Voters want more climate policy"}
+
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="more in schools"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-11.1-scaled.png" background-size="contain" data-menu-title="more in schools"}
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.1-scaled.png" background-size="contain" data-menu-title="YPCCC: Voters want more climate policy"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
 :::
+
 
 <!--
 
@@ -134,7 +137,7 @@ execute:
 --> 
 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain" data-menu-title="more enforcement"}
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.4-2048x1603.png" background-size="contain" data-menu-title="more enforcement"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
@@ -144,7 +147,7 @@ execute:
 
 
 
-## {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts"}
+## 🇺🇸 {background-image="https://climatecommunication.yale.edu/wp-content/uploads/2025/06/climate-change-american-mind-politics-policy-spring-2025-2.5-2048x1603.png" background-size="contain" data-menu-title="not cuts"}
 
 ::: footer
 [ℹ️](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-politics-policy-spring-2025/toc/5/)
@@ -213,8 +216,9 @@ Renewables to double by 2030
 
 ### New Research:  
 
-Political economy (incumbents with 
-[stranded assets](https://en.wikipedia.org/wiki/Stranded_asset)) explains the policy-economics-politics disconnect
+Why the policy-economics-politics disconnect? <br>
+**Political economy** (incumbents with 
+[stranded assets](https://en.wikipedia.org/wiki/Stranded_asset)) 
 
 ![](https://img1.od-cdn.com/ImageType-400/1294-1/88C/F89/9E/%7B88CF899E-3E8A-4643-B9C6-57C7385843C6%7DImg400.jpg)
 
