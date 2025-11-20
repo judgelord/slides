@@ -52,7 +52,7 @@ Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil an
 ## Further Energy Emergency Policy {background-opacity="0.3" background-image="https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/69/c69d4e56-33ee-470f-bde6-c235daa20b1e/68acbec11dfd0.image.jpg?resize=990%2C743"}
 
 
-
+- EPA lets companies [apply](https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-section-112-presidential-exemption-information) for exemptions to Clean Air Act limits on Hazardous Air Pollutants like mercury
 - Army Corps fast-tracks CWA permits for Line 5 and  Blue Marlin pipelines, [legal argument unclear](https://www.nytimes.com/2025/02/19/climate/army-corps-engineers-fossil-fuel-permits.html)
 - [DOI approves uranium mine](https://perkinscoie.com/insights/update/doi-exercises-authority-under-novel-emergency-authorities-approve-uranium-mine) in [11 days](https://www.blm.gov/press-release/interior-expedites-permitting-critical-energy-project-address-national-energy)
 - [Black Butte Coal Mine Expansion](https://www.doi.gov/pressreleases/trump-administration-accelerates-review-black-butte-mine-expansion-bold-step-energy) approved in [28 days](https://www.wyomingnews.com/laramieboomerang/news/feds-reactivate-440-million-ton-coal-lease-application-in-powder-river-basin/article_224ab7ae-8f02-4bbb-85d4-513893d15c94.html)
@@ -277,6 +277,7 @@ Establishes a council to look for political bias in disaster responses, chaired 
 - In violation of post-Katrina laws, [key positions at FEMA are staffed with people with no disaster response experience](https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html?smid=nytcore-ios-share&referringSource=articleShare)
 - [Revoked $3.6 billion in grants from FEMA to hundreds of communities around the country, which were to be used to help these areas protect against hurricanes, wildfires, and other catastrophes](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 - Employees say FEMA has [eliminated all gains in Hurricane response since Katrina](https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html?smid=nytcore-ios-share&referringSource=articleShare)
+- In Nov. 2025, the council of Republicans critical of FEAM appointed by Trump produced a 160 page report on reforms. [Noem's office cut it down to 20 pages](https://www.seattletimes.com/nation-world/nation/trump-administration-makes-major-changes-to-a-report-it-commissioned-on-fema-reforms-ap-sources-say/), all mentions of mitigation programs and further reducing preparedness funds for local emergency management agencies, but no longer talking about eliminating FEMA. 
 
 
 **Following the Project 2025 playbook?** 
@@ -300,6 +301,10 @@ Establishes a council to look for political bias in disaster responses, chaired 
 - Some National Weather Service forecast offices are no longer staffed overnight, and others have been launching fewer weather balloons, which send data to feed forecasts. It is preparing for [“degraded operations.”](https://www.nytimes.com/2025/04/16/climate/national-weather-service-forecast-doge-trump.html)
 - National Weather Service issued warnings for flooding in Texas on July 4 [the person in charge of communicating with local emergency managers was let go and not replaced](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 - [Farmers Sue Over Deletion of Climate Data From Government Websites](https://www.nytimes.com/2025/02/24/climate/agriculture-farmer-website-data-lawsuit.html)
+- Second Trump administration more effectively [removes "climate change" government websites](https://envirodatagov.org/trump-administration-intensifies-suppression-of-climate-information/). All pages about environmental justice are gone.
+- Scientists find DOE climate skeptics report [full of errors](https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change), including a concluding that CO2 emissions are "net benefit" to U.S. agriculture by excluding all the negative impacts of more heat and climate-change fueled extreme weather events on crops.
+- Fired [climate.gov]() team starts [climate.us](https://www.climate.us/) 
+<!-- [The Environmental Data & Governance Initiative](https://envirodatagov.org/) restores EJscrreen--> 
 
 
 ## Spending freezes and clawbacks {background-opacity="0.2" background-image="https://static.vecteezy.com/system/resources/thumbnails/040/707/108/small_2x/ai-generated-abstract-ice-background-blue-background-with-cracks-on-the-ice-surface-idea-generative-ai-photo.jpg"}
@@ -308,11 +313,15 @@ Establishes a council to look for political bias in disaster responses, chaired 
 -  Next Generation Warning System grantees receive stop-work order on emergency alert systems. The money was then clawed back by Congress in July, leaving [stations that serve rural areas with bills for backup generators and transmitters purchased for incomplete emergency alert systems.](https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding)
 -  Oct 2025, President said if Democrats did not vote for his funding bill, he would “do things that are irreversible, that are bad for them.” The DOE then claimed to [cancel contracts for Hydrogen hubs, grid upgrades, and research in Democrat-led states](https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html) (legal argument unclear)
 - [The E.P.A. canceled a $20 million flood protection grant to Alaska five months before catastrophic floods swept many houses off their foundations](https://www.nytimes.com/live/2025/10/14/us/trump-news#kupnik-alaska-typhoon-trump-epa-flood)
+- EPA withdraws \$2.5 billion in environmental justice grants, eliminating $6 billion in economic benefits, 65,000 jobs
+
+## {background-image="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0246450.g002" background-opacity="1"}
 
 
-## New Policy from the Supreme Court  {background-opacity="0.1" background-image="https://www.motherjones.com/wp-content/uploads/2025/10/20251003_scotus-dual-state_2000b.jpg"}
+## New Policy from the Supreme Court  {background-opacity="0.15" background-image="https://www.motherjones.com/wp-content/uploads/2025/10/20251003_scotus-dual-state_2000b.jpg"}
 
 - *Seven County Infrastructure Coalition v. Eagle County* - (1) more deference in NEPA + (2) NEPA review need not (can't?) consider upstream or downstream effects (e.g., climate change and environmental justice)
+- [*Sackett v. EPA*](https://judgelord.github.io/PP510/sackett) wrote a new definition of “waters of the United States” to include only those wetlands with a continuous surface connection with permanent, large water bodies. As a result, 17 to 90 million acres of wetlands can now be polluted or filled. 
 
 > "An EIS is relevant only to the question of
 whether an agency’s final decision (here, to approve the
@@ -334,6 +343,7 @@ relevant to the agency’s decisionmaking process"
 - [ends collection of greenhouse gas data after 70 years](https://www.nytimes.com/2025/07/17/climate/budget-cuts-climate-observatories.html)
 - Proposed budget to close 10 laboratories run by the National Oceanic and Atmospheric Administration that research the ways a warming planet is changing weather, including [firing Miami teams of “hurricane hunters”](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
 - The proposed budget would also [end funding for river gauges and cancel the leases for 25 of the roughly 100 water science research facilities that predict floods.](https://www.nytimes.com/2025/07/13/climate/floods-trump-cuts-disaster-preparedness-fema.html)
+-  54.4% cut to EPA
 
 
 
