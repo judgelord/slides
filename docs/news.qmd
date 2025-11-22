@@ -32,16 +32,29 @@ execute:
 - Politics (😬📈➡🤝 👥👥>👤)
 
  
-# Bad news <br> (1) Physics 
+# Bad news <br> (1) Physics {background-video="https://media.npr.org/assets/multimedia/2025/global-temperatures-20251114/video.mp4"	background-video-loop="true" background-opacity=.5}
+
+::: footer
+[ℹ️](https://www.youtube.com/watch?v=tRA2SfSk2Tc)
+:::
+
 
 <!--{.inverse background-image="https://static01.nyt.com/images/2024/08/07/climate/00cli-tippingpoints-promo/00cli-tippingpoints-promo-articleLarge.png"}--> 
 
 
 ## {background-image="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/F04E/production/_133281516_era_5_global_sea_temp_lines2024-05-05-nc.png" background-size="contain" data-menu-title="Record-breaking temperatures"}
 
+## {background-image="https://images.theconversation.com/files/415693/original/file-20210811-15-8mocsy.png" background-size="contain" data-menu-title="in 100,000 years"}
+
 <!--https://climate.copernicus.eu/surface-air-temperature-july-2025 --> 
 
-# Bad news <br> (2) Policy
+## {background-image="https://images.axios.com/I-424KT_Z24pB6hgEqdjNAxpZN0=/0x0:2009x1130/1920x1080/2023/03/21/1679431837543.png" background-size="contain" data-menu-title="Choices"}
+
+## Marginal <br> but not<br> linear {background-image="https://www.climatecouncil.org.au/wp-content/uploads/2019/10/diff-1.5-2-degs-LONG-editied-600x1024.jpg" background-size="contain"}
+
+
+
+# Bad news <br> (2) Policy {background-image="https://www.devx.com/wp-content/uploads/Climate-Stripes.jpg"  background-opacity=.5}
 
 
 ## 🌎{background-image="https://offsetguide.org/wp-content/uploads/2019/11/Fig1_OIF.png" background-size="contain" data-menu-title="Mitigation curves"}
@@ -60,12 +73,21 @@ execute:
 
 <iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2019.s3.eu-west-2.amazonaws.com/UNEP+Emissions+Gap/peaking_year_2c.html" width="770px" height="500px"></iframe>
 
-- 98-99% coral death
+- 99% coral death [(84.4% died 2023-2025)](https://gcrmn.net/2025/04/23/global-bleaching-anniversary/)
 - 37% of people endure extreme heat waves every 5 years 
 - Often no ice in Arctic, 35-47% permafrost lost  <!--; sea levels rising up to 10 metres (30 feet)--> 
 
+<!--
+
+##  {data-menu-title="Paris" background-image="https://static01.nyt.com/images/2025/11/06/multimedia/2025-10-09-cli-paris-10-index/2025-10-09-cli-paris-10-index-facebookJumbo-v13.png" background-size="contain"}
+--> 
+
 
 ## 🇺🇸 {background-image="figs/rhodium-2023.png" background-size="contain" data-menu-title="Rhodium group projections"}
+
+## {background-image="https://static01.nyt.com/images/2024/02/02/multimedia/2024-01-22-lng-explainer-index/2024-01-22-lng-explainer-index-articleLarge-v2.png" background-size="contain" data-menu-title="LNG" }
+
+
 
 # 📍 [+1.6°C (+2.7°F)](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level) {background-image="https://static01.nyt.com/images/2025/01/09/multimedia/2024-12-03-climate-pathways-index/2024-12-03-climate-pathways-index-videoSixteenByNine3000-v2.png" background-size="contain" background-opacity=".3"}
 
@@ -238,3 +260,15 @@ Hausman. 2025. [“Power Flows: Transmission Lines and Corporate Profits”](htt
 :::
 
 ::::
+
+<!--
+
+## ? {background-image="https://static01.nytimes.com/newsgraphics/bk-hwnz-yIqynGK4g/Fqs_hY_M1A7LbDBPI0AmzFQNIzo/_assets/energy-demand-Artboard_1.png" background-size="contain" data-menu-title="Electricty Forcast"}
+
+::: {.incremental}
+- ["U.S. electricity demand is soaring, in part because of A.I."](https://www.nytimes.com/interactive/2025/11/07/climate/paris-agreement-climate.html)
+- ["A New Surge in Power Use Is Threatening U.S. Climate Goals"](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
+- ["Big Tech’s A.I. Data Centers Are Driving Up Electricity Bills for Everyone"](https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html)
+:::
+
+--> 
