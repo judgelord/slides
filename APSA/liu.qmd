@@ -15,28 +15,33 @@ format:
 footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 ---
 
+## A fun read 
+
+- really nice integration of prose, case history, formal theory, and empirical tests
+- the logic seems correct on the margin, though perhaps not the whole story of local autonomy 
+- clarify how centralized differs from federal regimes *in practice* (or do parts apply to federal systems too?)
+- the small examples early on are helpful; even more would be clarifying
+
+
 ## Why do central governments choose partial devolution? 
 
 - they can't commit to no bailouts, so they keep control of taxation
-- they don't trust local governments to spend optimally because they don't trust accountability to local voters because participation is low (because of no discretion -- the circular dilemma)
+- they don't trust local governments to spend optimally because they don't trust local voters will provide accountability because participation is low (because of no discretion --- the circular dilemma)
 
-# A fun read 
 
-- the logic seems correct on the margin, though perhaps not the whole story of local autonomy 
-- nice integration of prose, case history, formal theory, and empirical tests
-- the small examples early on are helpful; even more would be clarifying
-- clarify how centralized differ from federal regimes *in practice* (or do parts apply to federal systems too?)
-- long for an article, approaching a short book? Or one formal theory paper and one empirical paper.
 
-## Key Assumptions 
+## Key Assumptions
 
-1. Local governments spend on clientism ("demographically targeted"), not public goods, when voter participation is low. As participation increases, local spending decisions approach fiscally responsible, (nationally?) socially optimal, and efficient spending, avoiding the need for bailouts.
+1. Local governments spend on clientism/"demographically targeted", not public goods, when voter participation is low. As participation increases, local spending decisions approach fiscally responsible, (nationally?) socially optimal, and efficient spending, avoiding the need for bailouts.
 
 2. central governments delegate discretion based on socially optimal and efficient spending, which they infer from voter participation rates (because of #1)
 
 3. voter participation varies with discretionary spending (stakes)
 
-Result: limited delegation -> limited stakes -> limited participation -> unaccountable spending -> limited delegation
+
+## Result
+
+limited delegation -> limited stakes -> limited participation -> unaccountable spending -> limited delegation
 
 ## Naive questions on the formal model 
 
@@ -44,42 +49,42 @@ Can we also get trapped in a virtuous cycle?
 
 high delegation -> high stakes -> high participation -> accountable spending -> high delegation
 
-maybe this is what "a settlement sized to cross the hardening threshold" and "rescue priced so that refusing it stays credible" (p. 40)
+Maybe this is what "a settlement sized to cross the hardening threshold" and "rescue priced so that refusing it stays credible" (p. 40)
+
+What about the "onerous terms" English bailouts impose? (p. 26) Not a sufficiently high penalty solve the dilemma? 
+
 
 ## Naive questions on the formal model 
 
-voters care about stakes, stakes = discretion, so turnout = discretion
-
-Result 
+Voters care about stakes, stakes = discretion, so turnout = discretion 
 
 > Turnout responds to discretion rather than the budget size
 
 - shouldn't it be the joint product? It can't be that I show up when $1 is at stake. 
 
+
 ## Naive questions on the formal model 
 
-What about the "owners' terms" English bailouts impose? (p. 26)
+> "how far each is checked depends on to what extent the residents can
+hold local government accountable." (p. 8)
 
-If this is key to the dilemma, can a sufficiently high penalty solve it? 
+Why would residents hold local governments accountable for spending more locally than nationally socially optimal? Even if spending is clientistic, voters share any free rider problem, no?
 
-## My other comments are from a U.S. perspective
+## Other comments are from a U.S. perspective
 
-(stronger federalism, but some of the logic should still apply?)
+Does some of the logic still apply with more federalism? 
 
 - no truly discretionary spending `different.`
 - but lots of "mandated spending" has a lot of discretion (e.g., a mandate to provide transportation for people with disabilities, but how is discretionary.) `similar` "ad hoc arrangements" (p. 6)
 - local governments can borrow and go bankrupt (`different` key to this paper)
 
-## Causes of local underprovision 
+## Causes of local underprovision
 
-1. caps on own-sourced revenue (centralism's defining feature #1)
+1. **caps on own revenue** (centralism's key feature #1)
    <!-- here, "withholding" is right--> 
-2. local politics 
-   - in the U.S., local governments choose not to tax, either because they are poor or rich. Only the central government can redistribute.
-   - thus, even under full discretion, we may see similar under-provision
-3. national politics 
-   - money is power; under fiscal federalism, grants are purpose. 
-   - are unitary governments' transfers that different in practice? (defining feature #2)
+2. **local politics.** In the U.S., local governments choose not to tax, either because they are poor or rich. Only the central government can redistribute. Thus, even under full discretion, we may see similar under-provision.
+
+3. **national politics** Money is power. Under federalism, grants are purposive. Are unitary governments' transfers that different in practice? (centralism's key feature #2)
    
 ## Politics 
    
@@ -90,42 +95,43 @@ Central governments are not performance or fiscal responsibility maximizes; they
 ## Politics - more alternative mechanisms
 
 - Delivery via local governments is more about discretion via small-government ideology than efficiency - i.e., local governments often make delivery worse
-
 - Devolution not to partisan allies, but to impose partisan goals, e.g., Ds imposing medicaid expansion on R states
-
 - Blame shifting (poor delivery, poor enforcement)
 
-## Naive empirical questions 
+## Naive empirical questions
 
 How does "tendency to over-spend" AND "under-provide public goods" (p. 8) manifest in practice?
 
-Liu notes the contradiction here. An example would help. Ostrom and others show that theorized tragedies of the commons don't often occur in practice, and I'm not clear on the theory here. If they can't borrow, how do they spend more than allocated? If they are under-providing due to clientism, what does this look like? 
+Liu notes the contradiction here. An example would help. Ostrom and others show that theorized tragedies of the commons don't often occur in practice, and I'm not 100% clear on the theory here. If they can't borrow, how do they spend more than allocated? If they are under-providing due to clientism, what does this look like? 
 
-> "how far each is checked depends on to what extent the residents can
-hold local government accountable." (p. 8)
 
-Why would residents hold local governments accountable for spending more than nationally socially optimal locally? 
   
 ## Causes of low participation/voter turnout 
 
 - lack of stakes 
-- $
+- $ in politics
 - nationalization of media/politics (lack of information)
 
-# Questions  
+## Power beyond the devolved purse 
 
-1. What is the harm in centralization? Justify the normative angle. 
+Regulation 
 
-# Power (stakes) beyond the devolved purse 
-
-- regulation 
-  - land use
-  - policing (e.g., Marx on wood theft in Prussia)
+- land use
+- policing (e.g., Marx on wood theft in Prussia)
   
-- ad hoc arrangements regarding shared provision - *de facto*  discretion? 
+Ad hoc arrangements regarding shared provision
+
+- *de facto*  discretion? 
     - a site of political stakes 
     - but a difficult, technocratically burdensome one
 
-- administration ("the lifeblood of power")
+Administration ("the lifeblood of power")
+
   - administrative burdens
   - layer of local priorities
+  
+## Smaller notes  
+
+1. The paper could be clearer on the harm in centralization. Justify the normative angle. 
+2. Long for an article, approaching a short book? Or one formal theory paper and one empirical paper.
+
