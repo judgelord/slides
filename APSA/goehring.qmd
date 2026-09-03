@@ -1,0 +1,38 @@
+---
+title: "Bureaucratic Influence by Goehring & Rauh"
+subtitle: ""
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://img.magnific.com/premium-photo/digital-email-communication-network-illustration_63085-5626.jpg?w=1380"
+image-alt: "" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://img.magnific.com/premium-photo/digital-email-communication-network-illustration_63085-5626.jpg?w=1380" 
+     data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+
+Cool new data! 
+
+
+## 
+
+> within-employee response rates are faster when emails are sent by senior and higher-earning employees
+
+## Speed $\rightsquigarrow$ influence
+
+## Are senior people also central? 
+
+Networks!
+
+## Marginalization 
+
+Perhaps a better fit is node centrality rather than edge speed
+
+## Other contexts 
+

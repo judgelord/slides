@@ -1,0 +1,111 @@
+---
+title: 'Notes on "Patrons, Citizens, and the Locus of Organizational Bias"'
+subtitle: ""
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://www.unitedexplanations.org/wp-content/uploads/2011/11/occupy-wall-street-cartoon-1170x731.jpg"
+image-alt: "wall street" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   smaller: true
+   scrollable: true
+   title-slide-attributes:
+     data-background-image: "" 
+     data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+## The contribution
+
+This paper beautifully captures the organization of bias AND the bias of organization. 
+
+I would emphasize the contribution of the benchmark model. There are really two important contributions: (1) the benchmark model (without patrons) + (2) the model with patrons.
+
+Consider "The Organization of Bias and How Patrons Bias Organization" as a title.  
+
+# Extensions 
+
+Here are a few additional ways that organized voice may not track the local density of engaged citizens. I apologize if these are in the appendix.
+
+## 1. Model inequality in resources and political efficacy
+
+While true that the upper-class accent may be the signature of one-sided *patrons* "instead" of the voice of an already *advantaged public* (p. 29), your model easily extends to *both*.
+
+The same membership fee may be easier for some people to pay than others; this increases their $c$. 
+
+Political efficacy makes some people more likely to be type H than L. 
+
+Both of these may be correlated with $y$, likely reinforcing the asymmetry of patrons.
+
+## 2. Model repression
+
+The patron model is a subsidy model. The mirror is one where some exogenous force imposes costs on group entry or citizen joining --- for example, government repression, social stigma, scapegoating, or attacks from other groups. 
+
+Repression that affects group entry increases $k$ (or is added to $k$ if it is helpful to distinguish operating costs from repression costs).
+
+Repression that affects joining (e.g., stigma) increases $c$ (or is added to $c$ if it is helpful to distinguish membership fees from social sanctions)
+
+Both of these may be correlated with $y$. 
+
+
+## 3. Endogenize citizen ideology & engagement to group density in $t-1$
+
+- The current model captures the organization of existing biases in preferences and engagement.
+- Endogenizing both would capture the *persuasion* and *mobilization* functions of groups
+- With patrons, the dynamic game would show how patrons move public opinion and organize new constituencies into politics over time.
+
+> [Politics is] a field of action that is, at once, practically bounded and potentially infinite...
+> Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed. (Woodly 2015, p. 211)
+
+
+
+
+## 4. Dynamics with startup costs 
+
+$k$ is defined as operating costs. What about startup costs?
+
+If it is cheaper for groups to enter if they entered in $t-1$ (it's easier to maintain a group than start one), then changes in $y$ will cause only a lagged response in active support. 
+
+In the benchmark model, group voice would lag citizen preferences, potentially forever. For simplicity, I think you would just need to show two states of $y$ and three time periods, where a shift to some $y'$ in $t_2$ fails to achieve the same active support in $t_3$ with this modification and thus will never do so. 
+
+Patron bias would compound over time and persist after patrons exit.
+
+## 5. Dynamics with sticky identities 
+
+Related to #4 and #5, it may also be costly for people in some regions of $y$ to switch from L to H, but once they do, it persists. 
+
+> “The original show was fighting for tolerance. Our fight is for acceptance.” - Tan France, *Queer Eye*
+
+If $u_i$ in $t$ is affected by whether $i$ had group support in $t-1$ (they had an identity group), then changes in $y$ will cause incomplete responses in active support. 
+
+In the benchmark model, the dead hand of the past would exert a conservative force on group voice via available/mobilized identities (regions of $y$ where engagement is normal or even just conceivable). Again, I think you would just need to show two states of $y$ and three time periods, where a shift to some $y'$ in $t_2$ fails to achieve the same active support in $t_3$ with this modification and thus will never do so. 
+
+Again, patron bias would compound over time and persist after patrons exit due to the identity groups they helped to form/activate.
+
+## 6 Model re-framing/realignment
+
+Consider a two dimension space $y$ and $z$, with each individual $i$ at $(y_i, z_i)$). Set patrons and endogeneity aside for a second, and model each alternative dimension of conflict as in the benchmark model. At entry, groups must decide which frame to adopt. They can locate only at $(x_j, 0)$ or $(0, x_j')$. The dimension with fewer groups at 0 defines the conflict. This may be hard to solve. Perhaps it gets easier to solve with patrons subsidizing entry on one dimension. Perhaps not. But, intuitively, patrons may also affect the conflict chosen. 
+
+> Political conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition. 
+
+> He who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power. -- E. E. Schattschneider
+
+
+## Social movement literature
+
+There is a lot of adjacent social movement scholarship, mostly in sociology, that may suggest further interpretations or extensions. 
+
+For example, the debate around resource mobilization theory vs. identity work and persuasion inspired some of my suggestions above. 
+
+Also see Forester on how groups affect preferences and Carpenter's "Agenda Democracy" Annual Review on defining conflicts.
+
+
+## Smaller notes 
+
+
+- A totally irrelevant nitpicky complaint about "conservative-environmental": While colloquial, in principle, conservation is small-c conservative at odds with the progressive march of industry/development.  Historically, the wilderness movement and environmentalism were reactions to the techno-optimism of the progressive movement. Today, the abundance environmentalist and conservationist may find themselves at odds. All that said, I'm totally unsure what to call people who don't like the environment: "industry" perhaps? 
+
+

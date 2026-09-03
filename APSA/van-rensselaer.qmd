@@ -1,0 +1,73 @@
+---
+title: "Federal Particularism & Local Capacity by Kyle Van Rensselaer"
+subtitle: ""
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/images/articles/hero/Image_MuncBonds_Web.png.asset.920.613.jpg"
+image-alt: "" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/images/articles/hero/Image_MuncBonds_Web.png.asset.920.613.jpg" 
+     data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+Measurement paper related to a very interesting empirical question:
+
+> What happens on the ground after the federal government makes a geographically targeted investment?
+
+Cool new data! 
+
+## Default risk as proxy for capacity 
+
+Capacity for what? 
+
+- capital expenditure (clearly)
+- fiscal management (clearly)
+- fiscal solvency, i.e., revenue covering cost (clearly)
+- local economic production and investment (likely) 
+- implementation (of what? capital projects, yes. social programs, maybe not?)
+- administrative (unclear)
+
+Any bond trader model inputs or conventional wisdom? 
+
+## High local state capacity can encourage targeted federal grants
+
+- local economic fundamentals (contraindicated for some investments)
+- capacity to apply and administer grant
+- getting the job done (probably more important)
+
+## Ideas for analysis 
+
+Matching 
+
+## Ideas for other papers 
+
+1. How do federal investment programs trade off impact vs confidence? Does a bias toward competence cause government investment to follow the bond market in singing with an upper-class accent? 
+
+2. Can you disaggregate & match with federal programs? 
+
+  - `water` project bonds and water-related risk with climate vulnerability? 
+  - `economic development` bonds
+ - 13k `school districts.`
+
+## Robustness checks
+
+Do certain types of counties or cities use special districts more than others? 
+
+## Small notes 
+
+- Bonds are not really an "alternative" for taxes; they are a way of expenditure smoothing to match revenue.
+- 36 months is a long time if you are looking for policy shocks 
+- "median locality-level spread" sounds like it could be geographic, but context suggests you are talking about local temporally here. 
+- Can you manually code the last 202? Or are they truly ambiguous, in which case, label them as ambiguous. 
+
+## Small notes on Figure 1 
+
+- Would probably be more interesting as a full time series average, unless you are going to show us multiple dates. The missingness makes it difficult. 
+- Can you explain the state-level variation? Tell us why TN, NC, and SC are so much better than AZ, MN, WI, and NY? You might be able to leverage adjacent counties across state lines for some kind of analysis, since state lines seem to affect bond yields (or is Tennessee a feature of your procedure)?
+- Is there a highway project down Interstate 55 or some other explanation?
