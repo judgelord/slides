@@ -67,7 +67,7 @@
     "href": "APSA/goehring.html#speed-rightsquigarrow-influence",
     "title": "“Bureaucratic Influence” by Goehring & Rauh",
     "section": "Speed \\(\\rightsquigarrow\\) influence",
-    "text": "Speed \\(\\rightsquigarrow\\) influence"
+    "text": "Speed \\(\\rightsquigarrow\\) influence\n\nwithin-employee response rates are faster when emails are sent by senior and higher-earning employees\n\nInterpretation: influence over agency outputs\nMay not be true in all cases, but true enough that it’s probably a good measure.\nSpeed is related to kinds of importance that may be more or less related to power over outputs.\nFor example, a boss may evaluate employees on how fast they write rules, but not their content."
   },
   {
     "objectID": "APSA/goehring.html#are-senior-people-also-central",
@@ -1992,6 +1992,13 @@
     "href": "APSA/goehring.html#did-anything-else-happen",
     "title": "“Bureaucratic Influence” by Goehring & Rauh",
     "section": "Did anything else happen?",
-    "text": "Did anything else happen?\nTo believe this null reflects no change in influence, we may look for a comparable case of change in influence.\n\nwithin-employee response rates are faster when emails are sent by senior and higher-earning employees"
+    "text": "Did anything else happen?\nA comparable case of change in influence would help us believe this null reflects no change in influence."
+  },
+  {
+    "objectID": "APSA/goehring.html#networks",
+    "href": "APSA/goehring.html#networks",
+    "title": "“Bureaucratic Influence” by Goehring & Rauh",
+    "section": "Networks!",
+    "text": "Networks!\nNode centrality rather than edge speed\n\nAre senior people also central\nChange over time (influence and marginalization)"
   }
 ]
