@@ -20,7 +20,29 @@ footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 Cool new data! 
 
 
-## 
+## Did internal influence change with COVID? 
+
+-> No
+
+Why? 
+
+- perceived importance did not change
+- perceived importance changed, but did not affect response times 
+  - perhaps email is all about the org chart, but policy is about expertise
+
+## Interpretation; influence over agency outputs
+
+May not be true in all cases, but true enough that its probably a good measure. 
+
+if speed is related to kinds of importance that are more or less related to power over outputs. 
+
+For example, a boss may evaluate employees on how fast they write rules, but not their content. 
+
+
+
+## Did anything else happen? 
+
+To believe this null reflects no change influence, we may a comparable case of *change* in influence. 
 
 > within-employee response rates are faster when emails are sent by senior and higher-earning employees
 
@@ -32,7 +54,7 @@ Networks!
 
 ## Marginalization 
 
-Perhaps a better fit is node centrality rather than edge speed
+Node centrality rather than edge speed
 
 ## Other contexts 
 

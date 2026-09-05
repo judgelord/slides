@@ -1,0 +1,100 @@
+---
+title: '"Built to Be Controlled" by Beatriz Silva da Costa'
+subtitle: ""
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://media.licdn.com/dms/image/v2/C4D12AQFVuJzZGoIQcQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1547130513836?e=2147483647&v=beta&t=qloezeouYfqtiTZgTas8fZvPWH9l6Bj2kcGucVpKry8"
+image-alt: "" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://media.licdn.com/dms/image/v2/C4D12AQFVuJzZGoIQcQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1547130513836?e=2147483647&v=beta&t=qloezeouYfqtiTZgTas8fZvPWH9l6Bj2kcGucVpKry8" 
+     data-background-opacity: "0.3" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+## Do procurement posts lose tenure differentially when leadership changes?
+
+Yes, more **senior** people in offices with more^[Show us this is true.] **discretion** (Procurement).
+
+- very cool within-ministry data design!
+
+## Difficult inferential problem 
+
+> Discretion and removability therefore increase together as one ascends the hierarchy.
+
+But not perfectly correlated in Brazil!
+
+## Why: Reason + Room + Ability 
+
+A theory of the boss 
+
+1. Cares about *some* decisions
+2. Worried discretion allows decisions they don't like
+3. Can remove *some* officials
+
+## The comparisons
+
+Senior procurement staff (38% appointees, `-3.5`) vs. operational procurement staff (X% appointees, `0` change)
+
+. . . 
+
+Procurement vs. legal and budget (12%^[senior and operational combined?] appointees, `+2.5`)
+
+> "Procurement is thus the sole core office where reason, room, and ability coincide."
+
+More on the *reasons* and *room* would help. (Ability is directly modeled.)
+
+## Why procurement 
+
+- more *discretion* enables preferences (p. 1)
+  - *policy* preferences? 
+  - *electioneering* preferences? (Dahlström et al 2021)
+  - *corruption*? 
+- more *lucrative* for corruption?
+- more *institutional knowledge*? (p. 3)
+- *less expertise* and thus less costly to replace (p.9) 
+  - also better for patronage? 
+- more difficult to oversee? (principal-agent problem)
+
+## Why senior staff 
+
+- more discretion (p. 1)
+- cycle of violence due to lower trust (Lewis, 2008)
+- targeting staff with institutional knowledge (p. 3)
+  - cause or effect? 
+  
+> "Replacing the operational cadre therefore transfers no authority" (p. 10)
+
+But see street-level bureaucracy work. 
+
+- *no* power or *less* power? 
+
+## Model suggestions
+
+
+Estimate $post_{pt}$ terms for each of the 12 months --- do we see a decaying effect we would expect?
+
+- If a reviewer comes at you saying that is not identified due to $\delta_{rt}$, email me.
+
+
+
+## Questions
+
+Why are legal and budget staff *less* likely to be replaced in a minister's first 12 months? (Monthly estimates could be interesting.)
+
+- Is the cost of losing their expertise *higher* in the first 12 months? 
+
+## Questions
+
+Why different from mayoral
+elections, which affect both managers and frontline workers (Akhtari, Moreira, and Trucco, 2022)
+
+
+## Smaller notes 
+
+- I would try to clarify H1 - as is, it sounds like you expect senior procurement positions to be less likely to turn over (conditional on tenure) - I think you mean the opposite? 
+- Move keyword measure to the appendix as a robustness check---just say it's the same.

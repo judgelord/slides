@@ -68,7 +68,9 @@ Voters care about stakes, stakes = discretion, so turnout = discretion
 > "how far each is checked depends on to what extent the residents can
 hold local government accountable." (p. 8)
 
-Why would residents hold local governments accountable for spending more locally than nationally socially optimal? Even if spending is clientistic, voters share any free rider problem, no?
+Why would residents hold local governments accountable for spending more locally than nationally socially optimal? Even if spending is clientistic, voters share any free rider problem, no? 
+
+Empirically, do deficits shrink (causally) with participation? Or do we have an omitted variable causing both? 
 
 ## Other comments are from a U.S. perspective
 
@@ -132,6 +134,6 @@ Administration ("the lifeblood of power")
   
 ## Smaller notes  
 
-1. The paper could be clearer on the harm in centralization. Justify the normative angle. 
+1. The paper could be clearer on the harm in centralization. Justify the normative angle to someone outside this literature. 
 2. Long for an article, approaching a short book? Or one formal theory paper and one empirical paper.
 

@@ -6,3 +6,6 @@ data
 .DS_Store
 models
 slides.Rproj
+
+/.quarto/
+**/*.quarto_ipynb
