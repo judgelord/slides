@@ -1,5 +1,5 @@
 ---
-title: "Bureaucratic Influence by Goehring & Rauh"
+title: '"Bureaucratic Influence" <br>by Goehring & Rauh'
 subtitle: ""
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
@@ -30,11 +30,11 @@ Why?
 - perceived importance changed, but did not affect response times 
   - perhaps email is all about the org chart, but policy is about expertise
 
-## Interpretation; influence over agency outputs
+## Interpretation: influence over agency outputs
 
-May not be true in all cases, but true enough that its probably a good measure. 
+May not be true in all cases, but true enough that it's probably a good measure. 
 
-if speed is related to kinds of importance that are more or less related to power over outputs. 
+If speed is related to kinds of importance that are more or less related to power over outputs. 
 
 For example, a boss may evaluate employees on how fast they write rules, but not their content. 
 
@@ -42,7 +42,7 @@ For example, a boss may evaluate employees on how fast they write rules, but not
 
 ## Did anything else happen? 
 
-To believe this null reflects no change influence, we may a comparable case of *change* in influence. 
+To believe this null reflects no change in influence, we may look for a comparable case of *change* in influence. 
 
 > within-employee response rates are faster when emails are sent by senior and higher-earning employees
 
@@ -56,5 +56,6 @@ Networks!
 
 Node centrality rather than edge speed
 
+<!--
 ## Other contexts 
-
+--> 
