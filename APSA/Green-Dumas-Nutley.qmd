@@ -16,6 +16,10 @@ format:
 footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 ---
 
+## <3 Dictionaries & APIs!
+
+- Key public goods in the world of texts! 
+
 Well written 
 
 Seems like an appropriate and careful use of pretrained transformers (BERT)
@@ -42,7 +46,7 @@ to *environmental policy*"
 
 22,000 --> 3,056 --> 1,175 --> 919 documents
 
-above the 75% percentile of 109 keywords in 20/23 documents 
+above the 75% percentile of 109 keywords in 20/23 (100?) documents 
 
 > At the standard threshold of 0.5, 99.2% of
 documents received at least one label, an implausible result given the administrative and procedural content of much of the corpus.
@@ -99,7 +103,7 @@ This will add richness & clarify what paradigms imply.
 
 ## Next steps 
 
-Co-occurrence of paradigms with other paradigms
+Co-occurrence of paradigms with other paradigms (Meckling and Allan's is not the only one)
 
 - Cashore and Bernstein (2023) "commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)" 
 - "Deep green"
@@ -119,3 +123,5 @@ It will also help you speak to more scholarly and practitioner communities.
 > "Where a **document** exceeded 0.7 on at least one label, secondary and tertiary labels
 were assigned at a relaxed threshold of 0.6, on the grounds that confirmed paradigmatic content
 raises the prior probability of additional paradigmatic framing elsewhere in the **same document**."
+
+
