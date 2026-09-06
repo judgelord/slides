@@ -10,21 +10,27 @@
       "/news.html",
       "/policy.html",
       "/water-talk.html",
-      "/APSA/goehring.html",
+      "/APSA/Green-Dumas-Nutley.html",
+      "/APSA/el-shaarawi.html",
       "/APSA/ig-ecology.html",
       "/APSA/liu.html",
+      "/APSA/park-hahus.html",
       "/APSA/silva-da-costa.html",
-      "/APSA/van-rensselaer.html"
+      "/APSA/van-rensselaer.html",
+      "/APSA/goehring.html"
     ]
   },
   {
     "listing": "/APSA/index.html",
     "items": [
-      "/APSA/goehring.html",
+      "/APSA/Green-Dumas-Nutley.html",
+      "/APSA/el-shaarawi.html",
       "/APSA/ig-ecology.html",
       "/APSA/liu.html",
+      "/APSA/park-hahus.html",
       "/APSA/silva-da-costa.html",
-      "/APSA/van-rensselaer.html"
+      "/APSA/van-rensselaer.html",
+      "/APSA/goehring.html"
     ]
   }
 ]

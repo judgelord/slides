@@ -1,0 +1,238 @@
+---
+title: '"High Stakes,<br> High Rhetoric"'
+subtitle: "by Park & Hahus"
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: 9/6/2026
+image: "https://dam.media.un.org/AssetLink/8xywmaq5x1m65xnfyko3wloor0o3ndyr"
+image-alt: "" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://dam.media.un.org/AssetLink/8xywmaq5x1m65xnfyko3wloor0o3ndyr" 
+     data-background-opacity: "0.3" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+## <3 Dictionaries!
+
+- "read approximately 5 years' worth of UN speech texts" ‼️
+
+- Key public goods in the world of texts! 
+
+Issue frame analysis is hard because people are fighting over frames, and however you define your objects of study, you participate in that fight.
+
+
+**Caveat:** I'm on the edge of this discourse community, so we may lack shared meanings—the U.N.'s gonna U.N.-speak. 
+
+
+## Contribution
+
+**New data/context:** Analyzing securitization within the UNGA may reveal dynamics of this
+contestation that do not emerge in UNSC open debates.
+
+**Findings:**
+
+- Increasing use of existential language
+- Decrease in redistributive language!!
+- I am not sure how to think about security 
+
+
+## Inductive v. deductive 
+
+Pages 1-10 advanced a lot of deductive conceptual schema from academic literature that may help us understand discourse but may not fully describe all possible frames in the data.
+
+I was often unclear about what was conceptual schema vs. empirical claim (possibly because the schema were the empirical claims of others).
+
+Good job doing seeded and unseeded topic models. I might talk about the difference between the two. (and perhaps a few more unseeded ones with other $k$s).
+
+## 
+
+> Political conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition. 
+
+> He who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power. -- E. E. Schattschneider
+
+
+# The Securitization debate 
+
+> "Securitization entails framing an issue as an existential threat to justify extraordinary measures to
+address said threat, removing the issue from the course of ‘normal politics’"
+
+## The Securitization debate discourse
+
+> "the line between audience and securitizing actor dissolves so that all participants —that is all states— are both audience and securitizing actors, each seeking to influence the final narrative."
+
+Seems to assume the final narrative will be a securitizing one? What about anti-securitization efforts? Or securitizing just becomes another word for "framing" (confusing). 
+
+## The Securitization debate discourse
+
+> climate change politics, `including its securitization,` is fundamentally inseparable from distributional politics (Aklin and Mildenberger, 2020; Colgan
+and Hale, 2021; Colgan and Genovese, 2025; Green, 2025)
+
+What did this crew say about security? 
+
+
+## Existential $\neq$ Security
+
+I would disaggregate security vs. existential threat ("macrosecuritization") frames in the intro. 
+
+> "militarization and international securitization of climate change exist at different
+levels, and one does not imply the other."
+
+What are the opposing, anti-securitization, frames? 
+
+## Risk $\neq$ Natural 
+
+- Riskification (p. 9)
+
+> "we label threat framings as existential/securitization
+diagnosis and risk framings as natural disaster diagnosis."
+
+
+## Threats to nations vs. international order vs. all nations vs. all humanity vs. the planet
+
+> "Existential diagnostic framings emphasize the totalizing threat climate change poses to all of humanity. Importantly, such framing extends beyond issue linkage to traditional security threats."
+
+Conceptual definition or empirical claim? 
+
+
+# How bad? Who decides? What to do? 
+
+(just one possible alternative framework)
+
+## How bad? 
+
+- new threat 
+- extreme threat
+- existential threat to nation
+- existential to all nations 
+- natural risk
+- new risk 
+- extreme risk
+- existential risk
+
+## Who decides 
+
+- should be led by domestic `security apparatus`
+- should be led by global `security apparatus` (UNSC)
+- should be led by `risk management apparatus`
+- should be led by `economic development apparatus`
+- should be led by `disaster response apparatus`
+- should be led by `disaster resettlement apparatus`
+- `someone else`
+
+## What to do 
+
+- economic, environmental, decarbonization, redistribution, military action
+
+. . . 
+
+- Green Growth, Neoclassical, and Post-Growth
+
+. . . 
+
+or, more conventional:  
+
+- mitigation (taxes, subsidies)
+- adaptation/resilience (green, grey, behavioral)
+- compensation (types loss and damage)
+- relocation/migration (aid, restrict)
+
+
+# More Questions, Notes, and Provocations 
+
+## Security frame? 
+
+> "Earth is at stake. We cannot forget that 99 out of every 100 species that once existed
+no longer exist today. We do not want to add the human species to that grim list."
+
+Existential for sure, but really a much more humanist than military frame. Did this speech use the word "security"? 
+
+## Natural disaster frame? 
+
+> "Climate change is not only about hurricanes and floods. It is about droughts. It is about wildfires. It is about our ability to provide drinking water and feed our people when our lakes run dry and our aquaculture facilities and reefs are ravaged by typhoons. We face all of these challenges and more in Palau today.”
+
+Palau is the face of existential threat and the case at the ICJ. They are also resisting US Military buildup. I'm not sure that anyone from Palau would say these threats are "natural."
+
+## Environmental? 
+
+Environmental includes "loss and damage, natural resources, food, agriculture, fisheries, Atlantic, Pacific" --- the modern economic redistribution proposal + classic resource (economic) framing of the environment.
+
+## "Natural" disaster
+
+"climate-related, deforestation" are pretty explicitly attributing blame.
+
+## Military
+
+"mobilize, refugee, border, violence" 
+
+Sort of presupposes that responses to climate migration will be state violence.
+I'd love this to not be linked. Is it really so linked in the data that we are considering it one conceptual category? 
+
+<!--
+Fires, floods, droughts, and hurricanes threats. Whether they (1) are existential (to a nation or the world) and (2) should be handled by "security" (military and police) parts of states and the U.N. is a different (if intertwined) question. Force/authoritarianism is not the only response to an existential threat.
+
+Whether academic efforts to reframe security as not about war and violence have succeeded in redefining the term is an empirical claim (I'm skeptical).
+<!-- Whether they should be handheld by "security" parts of the state and U.N. is a different question. Alt: --> 
+
+
+# The fight to define "climate action"
+
+> "securitization of climate change could promote broader climate action"
+
+## Distribution of costs and benefits depends on how we define "climate action"
+
+
+H1: richer countries will resist existential/securitization
+
+H2: Climate vulnerable states favor existential diagnosis
+
+-> presumes a solution set. What if the national security frame implies exclusion of immigrants? Or if the global security frame implies militarily enforced bans on development. Then we expect the opposite.
+
+This is fine, but make this assumption explicit and evidence-based (i.e., the kinds of actions on the table at the U.N.).
+
+## Implications
+
+
+> "a clear narrative sequence remains incomplete, explaining why we do not yet see extraordinary
+collective efforts against climate action"
+
+Why is this necessary (See Woodly 2015)
+
+
+## Drivers 
+
+> "a country’s preferred solution is largely driven by the distributive implications of climate change."
+
+And the solutions? 
+
+## Unit of analysis 
+
+Actors = states? Because teams, not individuals, write these speeches? Are there differences among individuals from the same state? 
+
+## Data 
+
+> "We subset the corpus
+to only the paragraphs that mention climate change"
+
+The phrase "climate change" or the SDG tag? What about "climate justice" or "global warming"? Or is this the approach outlined in Appendix B? This was unclear on page 12.
+
+## Dictionary 
+
+Macrosecurity "security" frame lacks the word security?! I presume because it picks up "national security" --- you might just exclude those. Still, if you are having trouble with the word "security", it may suggest this is not the best label for this concept --- i.e., it is an academic label that is not used in the same way by practitioners. 
+
+## Topic modeling 
+
+- LDA estimates a Dirichlet distribution of *topics in a document*. To assign a document (paragraph) to one topic, `topics()` returns the most likely topic (just one? or a threshold? I have not used this command; you should check) for documents based on the theta parameter.
+
+A better way to aggregate, IMHO, is to extract $\theta$ and sum all of the topic distributions. You can think of this as a weighted sum. 
+
+Currently, Figure 2 is missing all of the topic content that was not the #1 topic per paragraph.  
+
+## Smaller notes 
+
+- I don't think it is totally consistent with your story to say "This shift results from the actual
+development of climate change and its effects as a global issue" --- makes natural, a social process aided by changing facts on the ground.
+

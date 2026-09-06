@@ -1,0 +1,121 @@
+---
+title: '"Climate Policy Paradigms at the European Commission"'
+subtitle: "by Green, Dumas & Nutley"
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://www.realpostgrowth.eu/wp-content/uploads/2024/03/Beyond_Growth_Giorgos_Kallis.png"
+image-alt: "" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://www.realpostgrowth.eu/wp-content/uploads/2024/03/Beyond_Growth_Giorgos_Kallis.png" 
+     data-background-opacity: "0.3" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+Well written 
+
+Seems like an appropriate and careful use of pretrained transformers (BERT)
+
+
+## Paradigm Pluralism - 
+
+Qualitative gut-check validation
+
+- What are the documents that contain all three!? 
+- What were the first examples of post-growth in 2015?
+- What were the "prototypical and boundary cases" fed to the LLM?
+
+What does it mean for policy? 
+
+Why do we care about policy coherence? 
+
+- Is "who benefits" consistent *within* paradigms? Does it not always depend on specific commitments? 
+
+## Methods - is the sample decisive? 
+
+"substantively relevant
+to *environmental policy*"
+
+22,000 --> 3,056 --> 1,175 --> 919 documents
+
+above the 75% percentile of 109 keywords in 20/23 documents 
+
+> At the standard threshold of 0.5, 99.2% of
+documents received at least one label, an implausible result given the administrative and procedural content of much of the corpus.
+
+
+Robustness checks with different inclusion criteria. 
+
+training n = 636, test n = 80, evaluation n = 80
+
+
+## Methods - LLM benchmarking
+
+LLMs are conventional wisdom generators. Like your ensemble, they should do better at neoclassical & green growth than post-growth (even humans are pretty fuzzy on both, especially the post/degrowth), right?
+
+::: {.callout-caution}
+"run-to-run variance in GPT-4o output"
+:::
+
+## Findings
+
+Green growth and Neoclassical only co-occur 6% of the time. 
+
+Neoclassical falls from 50% in 1995 to 3% in 2019, and recovers to 8% by 2020
+
+Post-Growth becomes most common (25%)!
+
+## Post-growth or conservation? 
+
+- Civil society organizations 
+- fisheries organizations, regional fisheries
+- best scientific evidence
+- Green Deal 
+- store carbon in soil
+- climate neutrality 
+
+## 
+
+![Holly Buck's "Ending Fossil Fuels: Why Net Zero Is Not Enough"](https://grist.org/wp-content/uploads/2021/12/holly-jean-buck.png)
+
+
+## Next steps 
+
+Co-occurrence of paradigms with 
+
+- How bad?
+- Who decides? 
+- What to do? 
+    - mitigation (taxes, subsidies)
+    - adaptation/resilience (green, grey, behavioral)
+    - compensation (types of loss and damage)
+    - relocation/migration (aid, restrict)
+    
+This will add richness & clarify what paradigms imply. 
+
+## Next steps 
+
+Co-occurrence of paradigms with other paradigms
+
+- Cashore and Bernstein (2023) "commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)" 
+- "Deep green"
+- etc.
+
+This will add richness & clarify what paradigms imply.
+
+It will also help you speak to more scholarly and practitioner communities.
+
+## Small notes 
+
+- Table 2 is hard to comprehend, since it is in percentage terms for the whole time period 
+- "an exact match rate of 0.64" among models or with humans?
+- If appendices are diluting the signal, why don't you remove them (it's only 1k documents; you can do a lot by hand)
+- If classification is at the paragraph-level, be careful about saying "document." If classification is at the document level, why not paragraphs?  This is confusing, especially the part about secondary tags. 
+
+> "Where a **document** exceeded 0.7 on at least one label, secondary and tertiary labels
+were assigned at a relaxed threshold of 0.6, on the grounds that confirmed paradigmatic content
+raises the prior probability of additional paradigmatic framing elsewhere in the **same document**."

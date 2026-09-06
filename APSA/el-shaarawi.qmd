@@ -1,0 +1,86 @@
+---
+title: '"Narratives of Change, More of the Same"'
+subtitle: "by Sarah El-Shaarawi"
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
+date: today
+image: "https://lampoonmagazine.com/wp-content/uploads/2025/06/The-Line-4.webp"
+image-alt: "The line in Saudi Arabia" 
+self-contained: true 
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   title-slide-attributes:
+     data-background-image: "https://lampoonmagazine.com/wp-content/uploads/2025/06/The-Line-4.webp" 
+     data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
+---
+
+## Interesting questions, provocative answers
+
+Why do petrostates attempt to reconstitute their image as leaders in
+the energy transition? 
+
+- who or what is driving the change (or lack thereof) and for whom is the narrative constructed? 
+- How does the state define transition? 
+
+> "the principal audience for this narrative is a domestic, regional, and primarily Arabic-speaking one."
+
+## Contribution 
+
+There are always competing frames, even without competing media.
+
+Domestic politics of IR (Aklin and Mildenberger, 2020; Colgan and Hale, 2021; Colgan and Genovese, 2025; Green, 2025)
+
+- Are the "political frames" domestic? Disaggregation?
+
+## Is it really earnest? 
+
+> domestic and international symbolic capital that Emirati leadership deploy to legitimate power beyond the idea of the petrostate.
+
+## Is it impactful? 
+
+- Your title implies no
+- The text implies yes
+
+
+## Comparison cases
+
+Saudi Arabia 
+
+![](https://www.timeoutriyadh.com/cloud/timeoutriyadh/2022/07/26/The-Line-Neom-3.jpg)
+
+## The frames 
+
+- Political 
+- Economic 
+- Environmental
+- Technological
+- Social
+
+
+## Next steps 
+
+Co-occurrence of frames with 
+
+- How bad?
+- Who decides? 
+- What to do? 
+    - mitigation (taxes, subsidies)
+    - adaptation/resilience (green, grey, behavioral)
+    - compensation (types of loss and damage)
+    - relocation/migration (aid, restrict)
+    
+This will add richness & clarify what paradigms imply. 
+
+## Next steps 
+
+Co-occurrence of frames with other frames
+
+- Cashore and Bernstein (2023) "commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)" 
+- "Deep green"
+- etc.
+
+This will add richness & clarify what frames imply.
+
+It will also help you speak to more scholarly and practitioner communities.

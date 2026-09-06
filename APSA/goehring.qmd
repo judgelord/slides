@@ -3,7 +3,7 @@ title: '"Bureaucratic Influence" <br>by Goehring & Rauh'
 subtitle: ""
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9/5/2026
 image: "https://img.magnific.com/premium-photo/digital-email-communication-network-illustration_63085-5626.jpg?w=1380"
 image-alt: "" 
 self-contained: true 
@@ -17,7 +17,7 @@ footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 ---
 
 
-Cool new data! 
+# Cool new data! 
 
 
 ## Did internal influence change with COVID? 
@@ -30,31 +30,35 @@ Why?
 - perceived importance changed, but did not affect response times 
   - perhaps email is all about the org chart, but policy is about expertise
 
-## Interpretation: influence over agency outputs
+## Speed $\rightsquigarrow$ influence
 
-May not be true in all cases, but true enough that it's probably a good measure. 
-
-If speed is related to kinds of importance that are more or less related to power over outputs. 
-
-For example, a boss may evaluate employees on how fast they write rules, but not their content. 
-
-
-
-## Did anything else happen? 
-
-To believe this null reflects no change in influence, we may look for a comparable case of *change* in influence. 
 
 > within-employee response rates are faster when emails are sent by senior and higher-earning employees
 
-## Speed $\rightsquigarrow$ influence
+Interpretation: influence over agency outputs
 
-## Are senior people also central? 
+May not be true in all cases, but true enough that it's probably a good measure. 
 
-Networks!
+Speed is related to kinds of importance that may be **more or less related to power over outputs.** For example, a boss may evaluate employees on how fast they write rules, but not their content. 
 
-## Marginalization 
+## Validating the information mechanism
+
+Cross-sectional: Baseline response expert rates? 
+
+Did anything else happen? 
+
+A comparable case of *change* in influence would help us believe this null reflects no change in *influence*.
+
+
+
+## Networks!
 
 Node centrality rather than edge speed
+
+- Are senior people also central?
+
+- Change over time? (influence and marginalization)
+
 
 <!--
 ## Other contexts 
