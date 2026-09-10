@@ -3,7 +3,7 @@ title: '"Narratives of Change, More of the Same"'
 subtitle: "by Sarah El-Shaarawi"
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9-6-2026
 image: "https://lampoonmagazine.com/wp-content/uploads/2025/06/The-Line-4.webp"
 image-alt: "The line in Saudi Arabia" 
 self-contained: true 

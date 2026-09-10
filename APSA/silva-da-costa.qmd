@@ -3,7 +3,7 @@ title: '"Built to Be Controlled" by Beatriz Silva da Costa'
 subtitle: ""
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9-5-2026
 image: "https://media.licdn.com/dms/image/v2/C4D12AQFVuJzZGoIQcQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1547130513836?e=2147483647&v=beta&t=qloezeouYfqtiTZgTas8fZvPWH9l6Bj2kcGucVpKry8"
 image-alt: "" 
 self-contained: true 

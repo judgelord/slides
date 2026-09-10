@@ -1,19 +1,19 @@
 ---
 title: '"High Stakes,<br> High Rhetoric"'
 subtitle: "by Park & Hahus"
-author: "Devin Judge-Lord"
-affiliation: "University of Michigan"
 date: 9/6/2026
 image: "https://dam.media.un.org/AssetLink/8xywmaq5x1m65xnfyko3wloor0o3ndyr"
-image-alt: "" 
+image-alt: "UN Meeting" 
+author: "Devin Judge-Lord"
+affiliation: "University of Michigan"
 self-contained: true 
+footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 format:
  revealjs: 
    theme: [../michigan.scss] 
    title-slide-attributes:
      data-background-image: "https://dam.media.un.org/AssetLink/8xywmaq5x1m65xnfyko3wloor0o3ndyr" 
      data-background-opacity: "0.3" 
-footer: "[judgelord.github.io/slides/APSA](index.qmd)"
 ---
 
 ## <3 Dictionaries!

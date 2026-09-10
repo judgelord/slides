@@ -3,7 +3,7 @@ title: 'Notes on "Patrons, Citizens, and the Locus of Organizational Bias"'
 subtitle: ""
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9-5-2026
 image: "https://www.unitedexplanations.org/wp-content/uploads/2011/11/occupy-wall-street-cartoon-1170x731.jpg"
 image-alt: "wall street" 
 self-contained: true 

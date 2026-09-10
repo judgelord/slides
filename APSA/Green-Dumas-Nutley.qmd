@@ -3,7 +3,7 @@ title: '"Climate Policy Paradigms at the European Commission"'
 subtitle: "by Green, Dumas & Nutley"
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9-6-2026
 image: "https://www.realpostgrowth.eu/wp-content/uploads/2024/03/Beyond_Growth_Giorgos_Kallis.png"
 image-alt: "" 
 self-contained: true 

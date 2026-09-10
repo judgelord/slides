@@ -3,7 +3,7 @@ title: "Devolution's Dilemma by Yufeng Liu"
 subtitle: ""
 author: "Devin Judge-Lord"
 affiliation: "University of Michigan"
-date: today
+date: 9-3-2026
 image: "https://media.ouest-france.fr/v1/pictures/MjAyNTEyZmZhM2ViYmZjYjFkYjU4MmVlN2Q0ZTdkNjhiOTgzYzA"
 image-alt: "" 
 format:

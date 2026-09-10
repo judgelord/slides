@@ -1,5 +1,8 @@
 ---
 title: APSA
+date: 9-4-2026
+image: "https://connect.apsanet.org/apsa2025/wp-content/uploads/sites/102/2024/03/APSA-LOGO.png"
+image-alt: "APSA logo" 
 listing:
   contents:
     - "*.qmd"

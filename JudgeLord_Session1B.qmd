@@ -1,0 +1,536 @@
+---
+title:  'Agencies and Stakeholders'
+subtitle: 'Discussant Comments '
+author:
+  - name: Devin Judge-Lord
+    affiliations:
+      - name: University of Michigan
+title-slide-attributes:
+    data-background-image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/influence-gt-fumetti.jpg" # "https://img.freepik.com/premium-photo/abstract-organizational-chart_1232039-491.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.25"
+cap-location: top
+date: 6/17/2025
+image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/influence-gt-fumetti.jpg"
+image-alt: "Art" 
+self-contained: true
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   footer: "[judgelord.github.io/discuss/JudgeLord_Session1B](https://judgelord.github.io/discuss/JudgeLord_Session1B.html)"
+   incremental: false   
+   smaller: false
+   scrollable: true
+   #theme: [michigan.scss]
+execute:
+  echo: false
+  engine: knitr
+embed-resources: false # STAND ALONE OR DEPEND ON OTHER FILES 
+---
+
+```{r}
+short = F
+if(short){
+  full="hide"
+} else {
+  full="show"
+}
+```
+
+## Summary 
+
+Agenda formation + two mechanisms of profit-motivated influence 
+
+1. Structure Is Destiny for agenda formation (also partisanship)
+
+2.  Structure Is Destiny for in-house science. Our lack of transparency is bad. It empowers deep-pocketed industry. 
+
+3. Expensive taste-making lawyers legitimize interpretations of fact and law.
+
+. . . 
+
+Agreement that the **norms of science** can help. Tension over the structural role of **scientists** in decision-making.
+
+
+
+# Dwidar and Richardson:<br> "Who Makes the Rules?" {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".2"}
+
+## Summary of Findings 1:  **HUGE** partisan conflict effects {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+Officials reporting **high** partisan conflict over their agencies
+
+- More perceived influence of appointees
+- Less perceived influence of career staff
+
+## Summary of Findings 2:  **CONDITIONAL** partisan conflict effects {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+Officials reporting **high** partisan conflict over **liberal agencies**
+
+- More perceived influence of appointees
+
+Officials reporting **low** partisan conflict over **conservative agencies** 
+
+- More perceived influence of career staff
+
+. . .
+
+[Does this depend on who the president is? ]()
+
+## Summary of Findings 3: {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+### Insulated agencies 
+
+- Less perceived influence of president/OMB/OIRA
+
+### Expertise + uncertainty 
+
+- Less perceived influence of appointees, Congress, the president, and OMB/OIRA when their agency's work requires skill and policy effects are uncertain
+
+<!--
+## Thoughts on Framing
+
+- Yes, pre-NPRM influence is a big, important gap (for nerds)
+--> 
+
+## Thoughts on Framing {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+- Yes, pre-NPRM influence is a big, important gap (for nerds)
+
+- Could be framed bigger; it's about perceptions of who sets/moves the regulatory agenda
+
+
+   - The Bureaucracy Problem (Wilson) and how most studies only address one or two principals?
+   - Agenda Democracy? (Carpenter) 
+
+<!--
+- Or, perhaps, a short paper? 
+
+<!--
+## Thoughts on Analysis {.incremental}
+
+More direct tests of ***relative*** perceived influence? 
+
+- Pairwise ratios or normalized 'influence budget'
+--> 
+
+## Thoughts on Analysis {.incremental background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+More direct tests of ***relative*** perceived influence 
+
+- [Pairwise ratios or normalized 'influence budget']()
+
+. . .
+
+More descriptives by agency and type of official
+
+- [Are those reporting conflict the ones we would expect? ]()
+- [Are people more likely to see others as having power? ]()
+- [Are perceptions formed by official duties? ]()
+- [Recent orders or attention from the president or Congress? ]()
+
+Descriptively leverage sub-agency heterogeneity.
+
+## If we do this survey again
+
+- Ask about regulated industry influence! 
+- Require responses to add up to 100
+
+- Disaggregate career: "legal experts" vs "substantive experts" 
+
+
+## {background-image="figs/download.png"}
+
+## Smaller notes
+
+<!--
+- Predicted probabilities rather than marginal effects for Figure 3 since the theory is about the joint effect, not the conditional marginal effect of difficulty. 
+
+
+- Results as presented are too complex and difficult to follow. --> 
+
+- Many agencies were dropped when you filtered to rulemaking; who is left? 
+
+- Careful how you talk about the model---it is not a diff-in-diff---not "moving from high conflict to low conflict" but rather "comparing high-conflict and low-conflict." 
+
+## From discussion 
+
+Unified agenda is problematic. 
+
+- may not be about content, rather signaling to principals that they are working on it
+
+Sources of external agenda influence: 
+
+- OIRA prompt letters 
+- petitions 
+
+Insulation 
+
+- Use Jen's disaggregated measures 
+
+
+
+# Wagner:<br> "How Not to Design Expert Bureaucracy" {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".3"}
+
+
+## **Argument:** Corruption pervades in an unequal society {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+
+Agencies face asymmetric pressure regarding who participates, who raises technical challenges, and who sues
+
+Despite saying they support scientific integrity, appointees:
+
+- manage peer review with partisan goals, including selecting reviewers, advisory panels, questions, and timing
+- most often advocate on behalf of industry 
+
+Courts make it worse.
+
+- Exhaustion Doctrine compounds advantages of industry
+- Threat of litigation pressures agencies to preemptively capitulate to industry-friendly facts 
+- Hard look focuses on substance, often factual judgment, not process 
+   - "process integrity is effectively irrelevant to courts, so agencies focus their limited resources instead on anticipating and defending against technical critiques mounted by regulated industry." 
+   - Uncritically treat rigged advisory boards as reliable, rewarding panel stacking and manipulation
+
+
+
+
+## The call to Agencies {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+(in hopes of deference or safe harbor)
+
+1. clarify the line between empirical and normative judgments
+1. explain why their record is reliable
+1. be transparent 
+
+## The call to Congress {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Revise APA: "arbitrary or capricious, **including with respect to the scientific integrity of the factual record.**" 
+     -  ideally, also a safe harbor for documentation of their work <!--(as if they had not disclosed it?) -->
+1. Revise  (b)(5): open factual record to FOIA
+1. New process requirements for explanation, peer review, and transparency that are not judicially reviewable but may contribute to arbitrary and capricious review. 
+
+## The call to Courts {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Look suspiciously upon science that involves only industry 
+1. Revise exhaustion doctrine & encourage diverse interveners
+1. Reverse expansion of (b)(5) FOIA exemptions
+
+
+
+
+## {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+**Premise:** Evidence-based policy is a bipartisan political goal.^[Political in the sense that it shifts power, hopefully away from regulated industry.]
+
+. . .
+
+<!--We may also want to shift power away from snake oil influencers.   --> 
+
+**Challenge:** Industry co-option of all accountability processes.
+
+. . .
+
+**Question:** [Can this be fixed absent identity-conscious reforms? ]()
+
+- Exhaustion doctrine mitigates endless litigation, no?
+- Less (b)(5) = more ammunition to those with the capacity?
+- More APA clauses = more arrows in the quiver of industry?
+
+. . .
+
+If not, is this still cross-partisan? 
+
+<!--"In the case of a future Democratic President, otherwise reluctant --> 
+> "Republican congresspersons might find themselves eager to rein in unchecked Executive powers over fact-finding." 
+
+<!--- Does this proposal "reign in power"?--> 
+
+
+
+## Restatement  
+
+Goal 1: Insulate agency scientists
+
+- how? By requiring agencies to explain and document why their work can be trusted
+ 
+Goal 2: Increase oversight from diverse reviewers and public interest groups while decreasing industry influence 
+ 
+- how? Be more suspicious of industry participation. Make records more cheaply available. 
+
+## Is NEPA reform a model? {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+> "102(2)(D) ensure the professional integrity, including scientific integrity, of the discussion and analysis in an environmental document." 
+
+- Building United States Infrastructure through Limited Delays and Efficient Reviews Act of 2023
+
+[Or is it evidence that industry sees an opportunity to add a cause of action?]() 
+
+## Other challenges to overcome {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Relies on the shadow of judicial review
+    - downstream of executives' desire to make particular policies
+    - only a real threat to a small number of policies
+1. Relies on courts to understand scientific conventions (redistricting, climate, 😬)
+1.  Description implies prescription 
+
+## Conditional on presidential priorities {visibility="uncounted"}
+
+A more unitary executive ***could*** use tools of conflict disclosure, peer review, and process transparency to improve the reliability of information.
+
+
+| | science is convenient | science is inconvenient |
+| ------------- | ------------- | ------------- |
+| Outcomes | compatible |  compatible? | 
+| Perceptions| compatible | incomptatable |
+
+
+
+Yet, these are not consistent across issues and time. Without systemic reform, a president can reap the benefits of both non-interference and interference. 
+
+> "He would relinquish valuable opportunities to control the scientific record with few corresponding benefits."
+
+> "Executive interference in fact-finding appears to benefit predominantly if not exclusively, regulated industry." 
+
+
+
+. . .
+
+But, mainly, Wagner is calling for constraints on presidential control. 
+
+## Limiting executive discretion {visibility="uncounted"}
+
+Deliberative process FOIA exemption
+
+> "How much of the internal Executive sources of influence will be shared?" 
+
+
+## Agency missions vs. presidential priorities  {visibility="uncounted"}
+
+Stated presidential priorities $\neq$ true presidential priorities
+
+(e.g., some are uninterested in the actual effects of vaccines)
+
+## Good science as means vs. end  {visibility="uncounted"}
+
+expertise vs. political goals
+
+> "Political control of agency work can be thought of as a kind of all-pervasive, running conflict of interest." (24)
+
+
+
+expertise in service of political goals 
+
+> "" 
+
+(e.g., what must the government do to keep the Trans-Alaska Pipeline operating)
+
+
+## Good science as means vs. end   {visibility="uncounted"}
+
+expertise vs.  perceptions
+
+(e.g., )
+
+expertise vs. policy goals 
+
+(e.g., shrinking projected flood zones to allow development)
+
+expertise in service of ~~political goals~~ policy goals
+
+## Questions for an unequal world {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1" .incremental}
+
+[**Assuming process reforms are somewhat sticky, do they frustrate or enable counter-scientific pressure? **]()
+
+::: {.incremental}
+
+1. **Conflicts of interest**: Insulation depends on the strength of norms. Could be co-opted. 
+
+2. **Peer review**: Likely positive, but tradeoffs: allows opponents to expunge new science (as in the EPA transparency rule)
+
+3. **Transparency** (e.g., fewer (b)(5) exemptions): Tradeoffs. Clarifies influences (if observers have capacity) and reduces costs of technical comments, but also gives ammunition to hostile groups.
+
+:::
+
+
+
+## Roads not taken (yet) {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+Identity-Conscious Administrative Law (Feinstein 2022)
+
+- Subsidize public interest legal advocacy and science
+
+Second-order Participation (Seifter 2016)
+
+- Influencer transparency
+
+
+## Discussion Question {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+[How does this travel to other agencies? ]()
+
+- Fed's All Lawyers vs. CFPB's interdisciplinary policy shop
+
+> "There were attorneys, to be very frank, that wanted us to
+write rules the way they’ve always written rules, which is attorneys think of what public policy
+should be, and they write it down. Leadership at the [Consumer Financial Protection] Bureau
+drove them out pretty quickly...like, do you have any evidence for that statement? And if the answer was no, it was not a comfortable meeting."
+
+ 
+## Description implies prescription {visibility="uncounted"}
+
+The research question always implies a policy goal. 
+
+- Which Americans are disproportionately impacted by pollution? 
+
+- What sources of pollution disproportionately impact white Americans? 
+
+## From discussion 
+
+- civil society reforms? 
+
+Beyond thinking about good science 
+
+- For situations where there is disagreement among the scientists, perhaps draw on the psychology of small group decision-making --> rules and design principles where there is diversity of science within the bounds of reasonableness.
+
+
+
+Ken:  Biases of science's standards 
+
+
+
+
+# Libgober:<br>  "Legitimacy Brokers" {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+> "Council to the situation"---White-Shoed God-Guru-Influencers for Hire in Regulatory Lobbying
+
+## Gems 💎
+
+- The Language Broker simile: McDonald's & Home Depot as "displaced corporate persons" in the foreign terrain of Dodd-Frank lobbying
+
+- ABA ethics rules prohibit "polycliental situationships” (DOJ is in such a situationship with all the agencies)
+
+
+## Why hire white shoes?  {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+- Lawyers: **Litigation proofing**
+
+- Political scientists: **Subsidy** (also revolving door, access, influence networks)
+
+- Sociologists: **Bridging social networks** (e.g., revolving door)
+
+- Libgober (JD/PhD): **Legitimacy brokering** (***laundering?***) 
+
+(not mutually exclusive, depends on agency)
+
+. . . 
+
+Important! **Mechanisms** of ***cultural capture***.
+
+
+
+## Clarifying the mechanisms  {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+
+1. Intermediary/"honest broker"/"wider view" --> ***understanding*** (translating and situating)
+1. Fixer --> ***deals*** (brokering)
+     - Adjust the conflicts = innovation: "how one can do things"
+1. Blame avoidance (p. 18)
+1. Credible signaling (p. 19)
+1. Deploy reputational and cultural capital
+
+<!--multiple things going on here--> 
+
+
+## {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+5. Deploy reputational and cultural capital --> "***pressure*** the agency into believing that the government doing what the firm wants them to do is indeed the ***right thing to do***" (legitimacy laundering) <!--multiple things going on here--> 
+
+- provoking conflict within rulemaking teams
+- raising concerns with overseers---promoting and extorting
+- "informed critic and taste-maker"---counsel to the situation"---a messenger one "wants to believe"---asserting "what should be done"--- persuading
+- in general, shifting the political terrain 
+
+<!--
+
+. . .
+
+(not mutually exclusive)
+-->
+
+
+## Clarifying the questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+1. *Whom* does the broker connect
+1.* What* does each side of the brokerage relationship get out of it? (p. 11) (understanding, deals, deniability, credibility)
+
+. . .
+
+ <!--I see a third--> 
+3. *how* does the broker alter perceptions of **consequences** or **appropriateness**, i.e., the political terrain
+
+
+> "make the particular agency look stupid"
+
+> "what has been done, how the world works, and other attempts to persuade" <!-- through the logic of appropriateness."-->
+
+## Discussion questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+\#1. [Do conflict & perception adjusting go both ways? i.e., do white shoes shift the perceived desired policy of their clients? ]()
+
+- businesses "have a clear idea of what they want" (p. 15)
+- what about tradeoffs, multiple equilibria, non-monotonic preferences, uncertainty, lack of imagination?
+- firms are also political coalitions of people with beliefs embedded in audience networks (March + Carpenter)
+- "Expertise requires recognition, and each side is corroborating the other" (p. 23)
+- "selling" regulation to "partners in implementation" 
+
+## {background-image="https://www.bizimkose.com/wp-content/uploads/2019/02/hans-georg-gadamer-ve-felsefi-hermeneutik.jpg" background-size="cover" background-opacity=".2"}
+
+
+> "To reach an understanding in a dialogue is not merely a matter of putting oneself forward and successfully asserting one's own point of view, but being transformed into a communion in which we do not remain what we were." - Gadamer *Truth and Method*
+
+
+## Discussion questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+\#2. [How do these mechanisms interact?]()
+
+- "Policy subsidy glazed with economic professional star power."
+
+\#3. [How does this travel to other agencies? ]()
+
+- "Only on behalf of regulated industry" 
+
+\#4. [If the antidote is replacing legal innovation with scientific method, how do we do it? ]()
+
+## Other kinds of legitimacy laundering?
+
+
+## Other kinds of legitimacy laundering? {background-image="https://img.thesitebase.net/10344/10344211/products/ver_1eee48bab858c4bbe0dee4de6ccd1671d/172251315593bff4892d.jpeg" background-size="contain" background-opacity=".9"}
+
+- [Loyalty laundering?]() (another form of moral reputation)
+
+
+## Social movemnts and corporate brand  { visibility="uncounted"}
+
+I think there is something to this surprise mechanism, but when I tried to test it against the alternative “legibility” hypothesis that those most familiar with the justice frame, not those to whom it would be surprising, were more likely to adopt it and change rule language. However, I also found that when this occurs, the policy is more likely to move, so I think the novelty is doing some work, just conditional on legibility. Happy to talk more about this. 
+
+Attracting attention + fear of attention (p. 17) - Fire alarms are half the story. Happy to talk more about this.
+
+Don't dismiss firms' brand management efforts. They might not always be as successful as they would like, but they are not widely boycotted. This type of PR is not what brokers typically do, but it does not mean that firms never do it. 
+
+However, this all seems quite tangential to your intervention. As it stands, it is a lengthy digression, but in my opinion, not long enough to properly address public moral reputation management. 
+
+## Structure  { visibility="uncounted"}
+
+There are many digressions. You do a decent job of bringing the reader along with things like "returning to ...". Still. I think you want to 
+
+1. set them apart with subheadings 
+2. ask what role each serves and make sure it is tightly accomplishing that task
+
+## From discussion 
+
+
+The story is really about the top leadership.
+
+- Regional banks are important actors (comparing each Fed branch will yield different influence/legitimacy brokers )
+
+
+
