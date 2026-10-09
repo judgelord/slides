@@ -3,6 +3,9 @@ title: Slides
 listing:
   contents:
     - "*.qmd"
+    - "external-slides.yml"
+    - "!water-talk.qmd"
+    - "!fun.qmd"
   type: grid
   sort: "date desc"
   date-format: medium
