@@ -1,0 +1,111 @@
+---
+title:  'Dwidar and Richardson "Who Makes the Rules?" '
+subtitle: "Discussant Comments"
+date: "2025-05-29"
+author:
+  - name: Devin Judge-Lord
+    affiliations:
+      - name: University of Michigan
+title-slide-attributes:
+    data-background-image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/influence-gt-fumetti.jpg" # "https://img.freepik.com/premium-photo/abstract-organizational-chart_1232039-491.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.25"
+cap-location: top
+format:
+ revealjs:
+   footer: ""
+   incremental: false   
+   smaller: false
+   scrollable: true
+execute:
+  echo: false
+  engine: knitr
+embed-resources: true
+---
+
+## Summary of Findings 1:  **HUGE** partisan conflict effects
+
+Officials reporting **high** partisan conflict over their agencies
+
+- More perceived influence of appointees
+- Less perceived influence of career staff
+
+## Summary of Findings 2:  **CONDITIONAL** partisan conflict effects
+
+Officials reporting **high** partisan conflict over **liberal agencies**
+
+- More perceived influence of appointees
+
+Officials reporting **low** partisan conflict over **conservative agencies** 
+
+- More perceived influence of career staff
+
+. . .
+
+[Does this depend on who the president is? ]()
+
+## Summary of Findings 3: 
+
+### Insulated agencies 
+
+- Less perceived influence of president/OMB/OIRA
+
+### Expertise + uncertianty 
+
+- Less perceived influence of appointees, Congress, the president, and OMB/OIRA when their agency's work requires skill and policy effects are uncertain
+
+## Thoughts on Framing
+
+- Yes, pre-NPRM influence is a big important gap (for nerds)
+
+
+## Thoughts on Framing
+
+- Yes, pre-NPRM influence is a big important gap (for nerds)
+
+- Could be framed bigger; it's about perceptions of who sets/moves the regulatory agenda
+
+
+
+   - The Bureaucracy Problem (Wilson) and how most studies only study one or two principals?
+   - Agenda Democracy? (Carpenter) 
+  
+- Or, perhaps, a short paper? 
+
+## Thoughts on Analysis {.incremental}
+
+More direct tests of ***relative*** perceived influence? 
+
+- Pairwise ratios or normalized 'influence budget'
+
+
+## Thoughts on Analysis {.incremental}
+
+More direct tests of ***relative*** perceived influence? 
+
+- Pairwise ratios or normalized 'influence budget'
+
+. . .
+
+More descriptives by agency and type of official
+
+- Are those reporting conflict the ones we would expect? 
+- Are people more likely to see others as having power? 
+- Are perceptions formed by official duties? 
+- Recent orders or attention from the president or Congress? 
+
+Descriptively leverage sub-agency heterogeneity? 
+
+
+## {background-image="figs/download.png"}  
+
+# Smaller notes
+
+- Predicted probabilities rather than marginal effects for Figure 3 since the theory is about the joint effect, not the conditional marginal effect of difficulty. 
+
+
+- Results as presented are too complex and difficult to follow. 
+
+- Many agencies were dropped when you filted to rulemaking; who is left? 
+
+- Careful how you talk about it---it is not a diff in diff - not "moving from high conflict to low conflict" but ratyher "comparing high-conflict and low conflict" 
