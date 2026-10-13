@@ -1,0 +1,267 @@
+---
+title:  'Wagner:<br> "How Not to Design Expert Bureaucracy"'
+subtitle: 'Discussant Comments '
+author:
+  - name: Devin Judge-Lord
+    affiliations:
+      - name: University of Michigan
+title-slide-attributes:
+    data-background-image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/influence-gt-fumetti.jpg" # "https://img.freepik.com/premium-photo/abstract-organizational-chart_1232039-491.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.25"
+cap-location: top
+date: 6/17/2025
+image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/influence-gt-fumetti.jpg"
+image-alt: "Art" 
+self-contained: true
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   footer: "[judgelord.github.io/slides/JudgeLord_Session1B](https://judgelord.github.io/discuss/JudgeLord_Session1B.html)"
+   incremental: false   
+   smaller: false
+   scrollable: true
+   #theme: [michigan.scss]
+execute:
+  echo: false
+  engine: knitr
+embed-resources: false # STAND ALONE OR DEPEND ON OTHER FILES 
+---
+
+```{r}
+short = F
+if(short){
+  full="hide"
+} else {
+  full="show"
+}
+```
+
+
+
+## **Argument:** Corruption pervades in an unequal society {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+
+\#1. Agencies face asymmetric pressure regarding who participates, who raises technical challenges, and who sues
+
+Despite saying they support scientific integrity, appointees:
+
+- manage peer review with partisan goals, including selecting reviewers, advisory panels, questions, and timing
+- most often advocate on behalf of industry 
+
+## **Argument:** Corruption pervades in an unequal society {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+
+\#2. Courts make it worse.
+
+- Exhaustion Doctrine compounds advantages of industry
+- Threat of litigation pressures agencies to preemptively capitulate to industry-friendly facts 
+- Hard look focuses on substance, often factual judgment, not process 
+   - "process integrity is effectively irrelevant to courts, so agencies focus their limited resources instead on anticipating and defending against technical critiques mounted by regulated industry." 
+   - Uncritically treat rigged advisory boards as reliable, rewarding panel stacking and manipulation
+
+
+
+
+## The call to Agencies {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+(in hopes of deference or safe harbor)
+
+1. clarify the line between empirical and normative judgments
+1. explain why their record is reliable
+1. be transparent 
+
+## The call to Congress {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Revise APA: "arbitrary or capricious, **including with respect to the scientific integrity of the factual record.**" 
+     -  ideally, also a safe harbor for documentation of their work <!--(as if they had not disclosed it?) -->
+1. Revise  (b)(5): open factual record to FOIA
+1. New process requirements for explanation, peer review, and transparency that are not judicially reviewable but may contribute to arbitrary and capricious review. 
+
+## The call to Courts {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Look suspiciously upon science that involves only industry 
+1. Revise exhaustion doctrine & encourage diverse interveners
+1. Reverse expansion of (b)(5) FOIA exemptions
+
+
+
+
+## {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+**Premise:** Evidence-based policy is a bipartisan political goal.^[Political in the sense that it shifts power, hopefully away from regulated industry.]
+
+. . .
+
+<!--We may also want to shift power away from snake oil influencers.   --> 
+
+**Challenge:** Industry co-option of all accountability processes.
+
+. . .
+
+**Question:** [Can this be fixed absent identity-conscious reforms? ]()
+
+- Exhaustion doctrine mitigates endless litigation, no?
+- Less (b)(5) = more ammunition to those with the capacity?
+- More APA clauses = more arrows in the quiver of industry?
+
+## {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+**Premise:** Evidence-based policy is a bipartisan political goal.^[Political in the sense that it shifts power, hopefully away from regulated industry.]
+
+If not, is this still cross-partisan? 
+
+<!--"In the case of a future Democratic President, otherwise reluctant --> 
+> "Republican congresspersons might find themselves eager to rein in unchecked Executive powers over fact-finding." 
+
+<!--- Does this proposal "reign in power"?--> 
+
+
+
+## Restatement  
+
+Goal 1: Insulate agency scientists
+
+- how? By requiring agencies to explain and document why their work can be trusted
+ 
+Goal 2: Increase oversight from diverse reviewers and public interest groups while decreasing industry influence 
+ 
+- how? Be more suspicious of industry participation. Make records more cheaply available. 
+
+## Is NEPA reform a model? {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+> "102(2)(D) ensure the professional integrity, including scientific integrity, of the discussion and analysis in an environmental document." 
+
+- Building United States Infrastructure through Limited Delays and Efficient Reviews Act of 2023
+
+[Or is it evidence that industry sees an opportunity to add a cause of action?]() 
+
+## Other challenges to overcome {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+1. Relies on the shadow of judicial review
+    - downstream of executives' desire to make particular policies
+    - only a real threat to a small number of policies
+1. Relies on courts to understand scientific conventions (redistricting, climate, 😬)
+1.  Description implies prescription 
+
+## Conditional on presidential priorities {visibility="uncounted" .smaller}
+
+A more unitary executive ***could*** use tools of conflict disclosure, peer review, and process transparency to improve the reliability of information.
+
+
+| | science is convenient | science is inconvenient |
+| ------------- | ------------- | ------------- |
+| Outcomes | compatible |  compatible? | 
+| Perceptions| compatible | incomptatable |
+
+
+
+Yet, these are not consistent across issues and time. Without systemic reform, a president can reap the benefits of both non-interference and interference. 
+
+> "He would relinquish valuable opportunities to control the scientific record with few corresponding benefits."
+
+> "Executive interference in fact-finding appears to benefit predominantly if not exclusively, regulated industry." 
+
+
+
+. . .
+
+But, mainly, Wagner is calling for constraints on presidential control. 
+
+## Limiting executive discretion {visibility="uncounted"}
+
+Deliberative process FOIA exemption
+
+> "How much of the internal Executive sources of influence will be shared?" 
+
+
+## Agency missions vs. presidential priorities  {visibility="uncounted"}
+
+Stated presidential priorities $\neq$ true presidential priorities
+
+(e.g., some are uninterested in the actual effects of vaccines)
+
+## Good science as means vs. end  {visibility="uncounted"}
+
+expertise vs. political goals
+
+> "Political control of agency work can be thought of as a kind of all-pervasive, running conflict of interest." (24)
+
+
+
+expertise in service of political goals 
+
+> "" 
+
+(e.g., what must the government do to keep the Trans-Alaska Pipeline operating)
+
+
+## Good science as means vs. end   {visibility="uncounted"}
+
+expertise vs.  perceptions
+
+(e.g., )
+
+expertise vs. policy goals 
+
+(e.g., shrinking projected flood zones to allow development)
+
+expertise in service of ~~political goals~~ policy goals
+
+## Questions for an unequal world {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1" .incremental}
+
+[**Assuming process reforms are somewhat sticky, do they frustrate or enable counter-scientific pressure? **]()
+
+::: {.incremental}
+
+1. **Conflicts of interest**: Insulation depends on the strength of norms. Could be co-opted. 
+
+2. **Peer review**: Likely positive, but tradeoffs: allows opponents to expunge new science (as in the EPA transparency rule)
+
+3. **Transparency** (e.g., fewer (b)(5) exemptions): Tradeoffs. Clarifies influences (if observers have capacity) and reduces costs of technical comments, but also gives ammunition to hostile groups.
+
+:::
+
+
+
+## Roads not taken (yet) {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+Identity-Conscious Administrative Law (Feinstein 2022)
+
+- Subsidize public interest legal advocacy and science
+
+Second-order Participation (Seifter 2016)
+
+- Influencer transparency
+
+
+## Discussion Question {background-image="https://pbs.twimg.com/media/EDp03OAWkAE36Sl?format=jpg" background-opacity=".1"}
+
+[How does this travel to other agencies? ]() (e.g., Fed's All Lawyers vs. CFPB's interdisciplinary policy shop)
+
+> "There were attorneys, to be very frank, that wanted us to
+write rules the way they’ve always written rules, which is attorneys think of what public policy
+should be, and they write it down. Leadership at the [Consumer Financial Protection] Bureau
+drove them out pretty quickly...like, do you have any evidence for that statement? And if the answer was no, it was not a comfortable meeting."
+
+ 
+## Description implies prescription {visibility="uncounted"}
+
+The research question always implies a policy goal. 
+
+- Which Americans are disproportionately impacted by pollution? 
+
+- What sources of pollution disproportionately impact white Americans? 
+
+## From discussion 
+
+Civil society reforms? 
+
+Beyond thinking about good science 
+
+- For situations where there is disagreement among the scientists, perhaps draw on the psychology of small group decision-making --> rules and design principles where there is diversity of science within the bounds of reasonableness.
+
+- Ken:  Biases of science's standards 
+
+
+

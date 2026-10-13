@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Slides & Discussant Remarks
 listing:
   contents:
     - "*.qmd"
@@ -9,4 +9,5 @@ listing:
   type: grid
   sort: "date desc"
   date-format: medium
+  page-size: 48
 ---

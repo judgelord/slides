@@ -1,0 +1,150 @@
+---
+title:  "Dwidar and Richardson: Who Makes the Rules?"
+subtitle: 'Discussant Comments '
+author:
+  - name: Devin Judge-Lord
+    affiliations:
+      - name: University of Michigan
+title-slide-attributes:
+    data-background-image: "https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" # "https://img.freepik.com/premium-photo/abstract-organizational-chart_1232039-491.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.25"
+cap-location: top
+date: 6/17/2025
+image: "https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png"
+image-alt: "Trainyward map" 
+self-contained: true
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   footer: "[judgelord.github.io/slides/JudgeLord_Session1B](https://judgelord.github.io/slides/JudgeLord_Session1B.html)"
+   incremental: false   
+   smaller: false
+   scrollable: true
+   #theme: [michigan.scss]
+execute:
+  echo: false
+  engine: knitr
+embed-resources: false # STAND ALONE OR DEPEND ON OTHER FILES 
+---
+
+```{r}
+short = F
+if(short){
+  full="hide"
+} else {
+  full="show"
+}
+```
+
+
+## Summary of Findings 1:  **HUGE** partisan conflict effects {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+Officials reporting **high** partisan conflict over their agencies
+
+- More perceived influence of appointees
+- Less perceived influence of career staff
+
+## Summary of Findings 2:  **CONDITIONAL** partisan conflict effects {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+Officials reporting **high** partisan conflict over **liberal agencies**
+
+- More perceived influence of appointees
+
+Officials reporting **low** partisan conflict over **conservative agencies** 
+
+- More perceived influence of career staff
+
+. . .
+
+[Does this depend on who the president is? ]()
+
+## Summary of Findings 3: {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+### Insulated agencies 
+
+- Less perceived influence of president/OMB/OIRA
+
+### Expertise + uncertainty 
+
+- Less perceived influence of appointees, Congress, the president, and OMB/OIRA when their agency's work requires skill and policy effects are uncertain
+
+<!--
+## Thoughts on Framing
+
+- Yes, pre-NPRM influence is a big, important gap (for nerds)
+--> 
+
+## Thoughts on Framing {background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+- Yes, pre-NPRM influence is a big, important gap (for nerds)
+
+- Could be framed bigger; it's about perceptions of who sets/moves the regulatory agenda
+
+
+   - The Bureaucracy Problem (Wilson) and how most studies only address one or two principals?
+   - Agenda Democracy? (Carpenter) 
+
+<!--
+- Or, perhaps, a short paper? 
+
+<!--
+## Thoughts on Analysis {.incremental}
+
+More direct tests of ***relative*** perceived influence? 
+
+- Pairwise ratios or normalized 'influence budget'
+--> 
+
+## Thoughts on Analysis {.incremental background-image="https://i.pinimg.com/originals/53/88/62/538862d56741248fc085109b93946efb.png" background-opacity=".1"}
+
+More direct tests of ***relative*** perceived influence 
+
+- [Pairwise ratios or normalized 'influence budget']()
+
+. . .
+
+More descriptives by agency and type of official
+
+- [Are those reporting conflict the ones we would expect? ]()
+- [Are people more likely to see others as having power? ]()
+- [Are perceptions formed by official duties? ]()
+- [Recent orders or attention from the president or Congress? ]()
+
+Descriptively leverage sub-agency heterogeneity.
+
+## If we do this survey again
+
+- Ask about regulated industry influence! 
+- Require responses to add up to 100
+
+- Disaggregate career: "legal experts" vs "substantive experts" 
+
+
+## Smaller notes
+
+<!--
+- Predicted probabilities rather than marginal effects for Figure 3 since the theory is about the joint effect, not the conditional marginal effect of difficulty. 
+
+
+- Results as presented are too complex and difficult to follow. --> 
+
+- Many agencies were dropped when you filtered to rulemaking; who is left? 
+
+- Careful how you talk about the model---it is not a diff-in-diff---not "moving from high conflict to low conflict" but rather "comparing high-conflict and low-conflict." 
+
+## From discussion 
+
+Unified agenda is problematic. 
+
+- may not be about content, rather signaling to principals that they are working on it
+
+Sources of external agenda influence: 
+
+- OIRA prompt letters 
+- petitions 
+
+Insulation 
+
+- Use Jen's disaggregated measures 
+

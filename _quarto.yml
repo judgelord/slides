@@ -1,0 +1,26 @@
+# On quarto websites, see https://quarto.org/docs/reference/projects/websites.html
+# On publishing with github pages, see https://quarto.org/docs/publishing/github-pages.html
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!README"
+
+# see https://quarto.org/docs/websites/website-navigation.html
+website:
+  title: "Slides"
+  image: ""
+  navbar:
+    left:
+      - href: CAPE  # Delete these two lines to remove the slides tab from the navigation bar.
+        text: CAPE  # Unless you delete slides/index.qmd, a slides page will still available by adding "/slides" to the course URL
+
+format:
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+
+execute:
+  freeze: true  # re-render code only when source file changes

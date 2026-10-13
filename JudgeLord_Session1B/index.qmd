@@ -1,0 +1,27 @@
+---
+title: Agencies and Stakeholders
+date: 6-17-2025
+image: "https://media.marketrealist.com/brand-img/xc-21YMUz/0x0/next-fed-meeting-on-interest-rates-2022-1647511074188.jpg"
+image-alt: "An meeting of agency officials" 
+listing:
+  contents:
+    - "*.qmd"
+  type: grid
+  sort: "date desc"
+  date-format: medium
+---
+
+
+## Summary 
+
+Agenda formation + two mechanisms of profit-motivated influence 
+
+1. Structure Is Destiny for agenda formation (also partisanship)
+
+2.  Structure Is Destiny for in-house science. Our lack of transparency is bad. It empowers deep-pocketed industry. 
+
+3. Expensive taste-making lawyers legitimize interpretations of fact and law.
+
+. . . 
+
+Agreement that the **norms of science** can help. Tension over the structural role of **scientists** in decision-making.

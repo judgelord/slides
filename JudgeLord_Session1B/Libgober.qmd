@@ -1,0 +1,175 @@
+---
+title:  'Libgober:<br>  "Legitimacy Brokers"'
+subtitle: '"Council to the situation"<br>White-Shoed Guru-Influencers for Hire in Regulatory Lobbying<br>Discussant Comments '
+author:
+  - name: Devin Judge-Lord
+    affiliations:
+      - name: University of Michigan
+title-slide-attributes:
+    data-background-image: "https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" # "https://img.freepik.com/premium-photo/abstract-organizational-chart_1232039-491.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.25"
+cap-location: top
+date: 6/17/2025
+image: "https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg"
+image-alt: "White shoes" 
+self-contained: true
+format:
+ revealjs: 
+   theme: [../michigan.scss] 
+   footer: "[judgelord.github.io/slides/JudgeLord_Session1B](https://judgelord.github.io/slides/JudgeLord_Session1B.html)"
+   incremental: false   
+   smaller: false
+   scrollable: true
+   #theme: [michigan.scss]
+execute:
+  echo: false
+  engine: knitr
+embed-resources: false # STAND ALONE OR DEPEND ON OTHER FILES 
+---
+
+```{r}
+short = F
+if(short){
+  full="hide"
+} else {
+  full="show"
+}
+```
+
+
+
+## Gems 💎
+
+- "Council to the situation"
+
+- The Language Broker simile: McDonald's & Home Depot as "displaced corporate persons" in the foreign terrain of Dodd-Frank lobbying
+
+- ABA ethics rules prohibit "polycliental situationships” (DOJ is in such a situationship with all the agencies)
+
+
+## Why hire white shoes?  {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+- Lawyers: **Litigation proofing**
+
+- Political scientists: **Subsidy** (also revolving door, access, influence networks)
+
+- Sociologists: **Bridging social networks** (e.g., revolving door)
+
+- Libgober (JD/PhD): **Legitimacy brokering** (***laundering?***) 
+
+(not mutually exclusive, depends on agency)
+
+. . . 
+
+Important! **Mechanisms** of ***cultural capture***.
+
+
+
+## Clarifying the mechanisms  {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+
+1. Intermediary/"honest broker"/"wider view" --> ***understanding*** (translating and situating)
+1. Fixer --> ***deals*** (brokering)
+     - Adjust the conflicts = innovation: "how one can do things"
+1. Blame avoidance (p. 18)
+1. Credible signaling (p. 19)
+1. Deploy reputational and cultural capital
+
+<!--multiple things going on here--> 
+
+
+## {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+5. Deploy reputational and cultural capital --> "***pressure*** the agency into believing that the government doing what the firm wants them to do is indeed the ***right thing to do***" (legitimacy laundering) <!--multiple things going on here--> 
+
+- provoking conflict within rulemaking teams
+- raising concerns with overseers---promoting and extorting
+- "informed critic and taste-maker"---counsel to the situation"---a messenger one "wants to believe"---asserting "what should be done"--- persuading
+- in general, shifting the political terrain 
+
+<!--
+
+. . .
+
+(not mutually exclusive)
+-->
+
+
+## Clarifying the questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+1. *Whom* does the broker connect
+1.* What* does each side of the brokerage relationship get out of it? (p. 11) (understanding, deals, deniability, credibility)
+
+. . .
+
+ <!--I see a third--> 
+3. *how* does the broker alter perceptions of **consequences** or **appropriateness**, i.e., the political terrain
+
+
+> "make the particular agency look stupid"
+
+> "what has been done, how the world works, and other attempts to persuade" <!-- through the logic of appropriateness."-->
+
+## Discussion questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+\#1. [Do conflict & perception adjusting go both ways? i.e., do white shoes shift the perceived desired policy of their clients? ]()
+
+- businesses "have a clear idea of what they want" (p. 15)
+- what about tradeoffs, multiple equilibria, non-monotonic preferences, uncertainty, lack of imagination?
+- firms are also political coalitions of people with beliefs embedded in audience networks (March + Carpenter)
+- "Expertise requires recognition, and each side is corroborating the other" (p. 23)
+- "selling" regulation to "partners in implementation" 
+
+## {background-image="https://www.bizimkose.com/wp-content/uploads/2019/02/hans-georg-gadamer-ve-felsefi-hermeneutik.jpg" background-size="cover" background-opacity=".2"}
+
+
+> "To reach an understanding in a dialogue is not merely a matter of putting oneself forward and successfully asserting one's own point of view, but being transformed into a communion in which we do not remain what we were." - Gadamer *Truth and Method*
+
+
+## Discussion questions {background-image="https://www.abajournal.com/images/main_images/shutterstock_white_shoes.jpg" background-size="cover" background-opacity=".2"}
+
+\#2. [How do these mechanisms interact?]()
+
+- "Policy subsidy glazed with economic professional star power."
+
+\#3. [How does this travel to other agencies? ]()
+
+- "Only on behalf of regulated industry" 
+
+\#4. [If the antidote is replacing legal innovation with scientific method, how do we do it? ]()
+
+## Other kinds of legitimacy laundering?
+
+
+## Other kinds of legitimacy laundering? {background-image="https://img.thesitebase.net/10344/10344211/products/ver_1eee48bab858c4bbe0dee4de6ccd1671d/172251315593bff4892d.jpeg" background-size="contain" background-opacity=".5"}
+
+- [Loyalty laundering?]() (another form of moral reputation)
+
+
+## Social movements & corporate brand  { visibility="uncounted" .smaller}
+
+I think there is something to this surprise mechanism, but when I tried to test it against the alternative “legibility” hypothesis that those most familiar with the justice frame, not those to whom it would be surprising, were more likely to adopt it and change rule language. However, I also found that when this occurs, the policy is more likely to move, so I think the novelty is doing some work, just conditional on legibility. Happy to talk more about this. 
+
+Attracting attention + fear of attention (p. 17) - Fire alarms are half the story. Happy to talk more about this.
+
+Don't dismiss firms' brand management efforts. They might not always be as successful as they would like, but they are not widely boycotted. This type of PR is not what brokers typically do, but it does not mean that firms never do it. 
+
+However, this all seems quite tangential to your intervention. As it stands, it is a lengthy digression, but in my opinion, not long enough to properly address public moral reputation management. 
+
+## Structure  { visibility="uncounted"}
+
+There are many digressions. You do a decent job of bringing the reader along with things like "returning to ...". Still. I think you want to 
+
+1. set them apart with subheadings 
+2. ask what role each serves and make sure it is tightly accomplishing that task
+
+## From discussion 
+
+
+The story is really about the top leadership.
+
+- Regional banks are important actors (comparing each Fed branch will yield different influence/legitimacy brokers )
+
+
+

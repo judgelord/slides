@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/CAPE/index.html",
+    "items": [
+      "/CAPE/memo.html"
+    ]
+  },
+  {
     "listing": "/APSA/index.html",
     "items": [
       "/APSA/Green-Dumas-Nutley.html",
@@ -10,6 +16,14 @@
       "/APSA/silva-da-costa.html",
       "/APSA/liu.html",
       "/APSA/van-rensselaer.html"
+    ]
+  },
+  {
+    "listing": "/JudgeLord_Session1B/index.html",
+    "items": [
+      "/JudgeLord_Session1B/Dwidar-Richardson.html",
+      "/JudgeLord_Session1B/Libgober.html",
+      "/JudgeLord_Session1B/Wagner.html"
     ]
   },
   {
@@ -28,15 +42,12 @@
       "/APSA/silva-da-costa.html",
       "/APSA/liu.html",
       "/APSA/van-rensselaer.html",
-      "/JudgeLord_Session1B.html",
+      "/JudgeLord_Session1B/Dwidar-Richardson.html",
+      "/JudgeLord_Session1B/Libgober.html",
+      "/JudgeLord_Session1B/Wagner.html",
+      "/JudgeLord_Session1B/index.html",
       "/FAIR2025-Dwidar-Richardson.html",
       "/ESE501.html"
-    ]
-  },
-  {
-    "listing": "/CAPE/index.html",
-    "items": [
-      "/CAPE/memo.html"
     ]
   }
 ]
