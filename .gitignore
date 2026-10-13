@@ -6,6 +6,11 @@ data
 .DS_Store
 models
 slides.Rproj
-
 /.quarto/
 **/*.quarto_ipynb
+_freeze
+_archive
+assets
+syllabus-insert.md
+figs
+DJL comments on rant.docx
