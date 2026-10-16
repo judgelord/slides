@@ -1,0 +1,45 @@
+---
+title: ' "Center-Left Parties and the Challenge of Adaptation" <br>'
+subtitle: ""
+# author: "Devin Judge-Lord"
+affiliation: ""
+date: 2026-10-16
+image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
+image-alt: "CAPE logo" 
+self-contained: true 
+format:
+  html:
+    toc: false
+#    toc-location: body
+#  revealjs: 
+#    theme: [../michigan.scss] 
+#    title-slide-attributes:
+#      data-background-image: "" 
+#      data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/CAPE](index.qmd)"
+bibliography: "../assets/the.bib"
+---
+
+## Capturing vs creating realignment
+
+The first section notes that mainstream parties in majoritarian systems have "captured" the class and geographic realignment. Is it equally or more accurate to say they "created" it? For example,
+
+- Dem consultants advise them to stop contesting rural districts
+- Dems (at least in Michigan) rarely knock on doors in low-income neighborhoods because it's not seen as efficient
+- In Cramer's telling, Republicans created rural resentment by pointing to urban Dem elitism and tying it to race. Rural identity existed, but really started to help republicans when they transformed it into resentment and the Dems abandoned the field.
+
+I like the way you summarized this later, in the second section, as the supply-side critique. The right is united on culture (white-hetero-patriarchy) and divided on economics;  the left is united on economics and divided on culture. This seems right in some ways, but I'd be interested to explore and test this story. The right seems pretty divided on immigration and multiracial democracy, whereas the left is pretty united. Is it not a lot of working-class people support the right because they believe right populist economic rhetoric and don't see the policy differences? If they were united on culture, shouldn't they not be losing so many voters in the US right now? 
+
+## Time horizons 
+
+I really like the point that vote maximization in the short run is not the same as coalition building in the medium run. This seems to explain a lot of strategists' disagreements, including the supply and demand side debate. 
+
+## The argument and its implications
+
+I like this a lot; a very clean contrast between the New Deal and third way, contrasting the instruments and their feedback effects. 
+
+The parallel and implication for Abundance politics is clear and insightful. 
+
+The credibility and legibility challenges are well put. I wonder how much each of these depends on how the other party positions and messages. For example, we see many Republicans running for office getting into the game of who can be more anti-data center. This seems to have both advantages and risks for the Democrats in adopting this strategy. 
+
+

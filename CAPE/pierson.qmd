@@ -1,0 +1,32 @@
+---
+title: ' "Seven Propositions About the Contemporary Democratic Party" <br>'
+subtitle: ""
+# author: "Devin Judge-Lord"
+affiliation: ""
+date: 2026-10-16
+image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
+image-alt: "CAPE logo" 
+self-contained: true 
+format:
+  html:
+    toc: false
+#    toc-location: body
+#  revealjs: 
+#    theme: [../michigan.scss] 
+#    title-slide-attributes:
+#      data-background-image: "" 
+#      data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/CAPE](index.qmd)"
+bibliography: "../assets/the.bib"
+---
+
+
+## Narrow thinking, tinkering 
+
+Senate Brain, Lawyer Brain, small status-quo-biased thinking is not limited to the party. 
+
+Prominent observers talking about oversight investigations in 2027 regularly say that a committee can only take on 1-3 investigations, so the challenge, they say, is picking what to focus on. This presumes current levels of oversight staff capacity. Even those talking about increasing staffing are thinking on small scales, not proportional to the scale of the problem.
+
+Bureaucrats are the embodiment of formed routine. This causes "not my job" thinking. For example, even the EPA's Office of Air Resources resisted building climate change into its models of air pollutant formation because climate was somebody else's job. This was what whole-of-government initiatives around climate and social justice in the Biden administration were intended to fix (growing from G.W. Bush's faith-based initiatives). Anecdotally, these had interesting effects, forcing conversations in new places. For example, the Treasury Department's Financial Crimes Enforcement Network, an agency stood up in the war on terror populated by lawyers, investigators, and a few economists, launched an initiative to explore how their compliance regulations and enforcement practices may advantage big banks.
+
+The Second Trump administration articulated "whole-of-government" initiatives to support fossil fuels and persecute immigrants, which clearly had massive effects, but their opaque and messy execution through non-traditional channels may make them harder to study. 

@@ -1,0 +1,43 @@
+---
+title: ' "Immigration Enforcement, Social Welfare, and the Surveillance State" <br>'
+subtitle: ""
+# author: "Devin Judge-Lord"
+affiliation: ""
+date: 2026-10-16
+image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
+image-alt: "CAPE logo" 
+self-contained: true 
+format:
+  html:
+    toc: false
+#    toc-location: body
+#  revealjs: 
+#    theme: [../michigan.scss] 
+#    title-slide-attributes:
+#      data-background-image: "" 
+#      data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/CAPE](index.qmd)"
+bibliography: "../assets/the.bib"
+---
+
+
+This memo asks interesting questions about the political economy of government information infrastructure.
+
+## Why haven't businesses done more? 
+
+The four reasons why businesses have not done more to stop the current round of ethnic cleansing are a helpful set of non-mutually exclusive hypotheses.
+I can think of a few more to add.
+
+1. **Profits of precarity**: businesses benefit from worker precarity, so the costs that come with losing workers to ICE also come with the benefit of disempowering workers. 
+3. **Scale**: it may not yet be a large enough scale to meaningfully affect business 
+2. **Asymmetric treatment of businesses**:  similar to the deals that farmers got, it seems that ICE is avoiding going after large (powerful) employers.
+
+## The White nationalism as a social movement 
+
+One thing we know about social movements (from first-face agencies) is that the institutions they establish erode as the movement ebbs. Are there reasons to think that this will be less true with second-face agencies? 
+
+That is, if immigration enforcement has gone beyond what is profitable for powerful businesses, will they grind it down in the same way they ground down environmental laws of the 70s, Dodd-Frank, etc.? 
+
+## Incentives for enforcement 
+
+Enforcement of E-Verify seems like a difficult incentives problem. Under business-aligned administrations, we don't want enforcement. Under immigrant-aligned administrations, we don't want enforcement. The constituency to keep pressure on employers is a small number of white nationalist activists and, sometimes perhaps, labor unions.^[In my data on members of Congress contacting ICE, I do see labor unions requesting workplace raids.]

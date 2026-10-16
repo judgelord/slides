@@ -55,8 +55,8 @@ message: false
 library(tidyverse)
 ```
 
-What institutional mechanisms advance administrative democracy [@Feinstein2025]? To be effective, must they be identity-conscious and ends-oriented? @Carpenter2023 points to the "democratic necessity of local political intermediaries, protest campaigns, social organizations, advocacy campaigns, grievance mechanisms, and other agenda-democratizing processes and institutions."
-Policies don't merely create mass politics; they also structure the inevitable and ongoing politics of "filling up the details" and adapting to change [@Moynihan2014]. Neutral processes likely reproduce existing inequalities.  Institutions that resist power are often brought about by social movements and are difficult to maintain when the movement ebbs [@Wilson1989]. <!--Policy design ought to consider not just what is to be done but who is at the table when deciding how to do it.--> With most policy still inevitably crafted by bureaucrats, understanding how institutional design makes bureaucratic policymaking responsive to different interests is key, both to understanding the effects of current disruptions and future rebuilding. Progressive policies will fail if the institutions that "implement" and revise them are responsive to a chorus with an upper-class accent. <!--Implementation is not merely faithful execution; the capacity imbalance between legislative and executive-branch bureaucracies means that agencies not only enforce laws and deliver services; they also design and redesign major policy schemes, often through processes that favor the powerful. Progressive policies are thus stymied because the policy processes that make reforms concrete and adapt them to changing times empower opponents. 
+What institutional mechanisms advance administrative democracy? To be effective, must they be identity-conscious and ends-oriented? @Carpenter2023 points to the "democratic necessity of local political intermediaries, protest campaigns, social organizations, advocacy campaigns, grievance mechanisms, and other agenda-democratizing processes and institutions."
+Policies don't merely create mass politics; they also structure the inevitable and ongoing politics of "filling up the details" and adapting to change [@Moynihan2014]. Neutral processes likely reproduce existing inequalities.  Institutions that resist power are often brought about by social movements and are difficult to maintain when the movement ebbs [@Wilson1989]. <!--Policy design ought to consider not just what is to be done but who is at the table when deciding how to do it.--> With most policy still inevitably crafted by bureaucrats, understanding how institutional design makes bureaucratic policymaking responsive to different interests is key, both to understanding the effects of current disruptions and future rebuilding. Redistributive policies will fail if the institutions that "implement" and revise them are responsive to a chorus with an upper-class accent. <!--Implementation is not merely faithful execution; the capacity imbalance between legislative and executive-branch bureaucracies means that agencies not only enforce laws and deliver services; they also design and redesign major policy schemes, often through processes that favor the powerful. Progressive policies are thus stymied because the policy processes that make reforms concrete and adapt them to changing times empower opponents. 
 
 <!--
  For example: 
@@ -71,15 +71,18 @@ Policies don't merely create mass politics; they also structure the inevitable a
 
 ## Intermediary institutions as mechanisms of administrative democracy
 
-Agency policymaking tilts toward business [@Yackee2006JOP], whose resources give them access to lawyers, experts, and powerful allies [@Libgober2024; @Carpenter2024; @Powell2023FERC]. As one agency official put it, "some groups don't speak the King's English"---intermediary institutions must translate.
+Agency policymaking tilts toward business [@Yackee2006JOP], whose resources give them access to lawyers, experts, and powerful allies [@Libgober2024; @Carpenter2024; @Powell2023FERC]. 
 While centralizing control may shift the venue of conflict from agencies to the White House in some areas, the federal government is vast, and the White House bureaucracy has limited capacity. 
 Where the White House is paying little attention, inequality in the ability to articulate claims and demands in ways that bureaucratic policymakers see as legitimate remains a key problem, and lawyers, experts, and allies will likely continue to matter.
+As one agency official put it, "some groups don't speak the King's English"---intermediary institutions must translate.
 
-**On the inside**, public advocates and offices of civil rights, environmental justice, and public participation translate internally, increasing responsiveness to these concerns, but they are marginalized within their institutions [@Walton1988; @Harrison2019]. The second Trump administration has rapidly moved to dismantle many, but not all, of these offices, likely with long-term effects. The Federal Energy Regulatory Commission's Office of Public Participation (OPP) persists. While plans to fund public advocates are on hold, the OPP continues outreach to affected communities and to help lower-resource groups navigate technical proceedings with major consequences for energy markets and infrastructure. Proactive outreach is impactful in theory but is rarely done [@Hertel-Fernandez2025], and research is thin. 
+**On the inside**, public advocates and offices of civil rights, environmental justice, and public participation translate internally, increasing responsiveness to these concerns, but they are marginalized within their institutions [@Walton1988; @Harrison2019]. The second Trump administration has rapidly moved to dismantle many, but not all, of these offices, likely with long-term effects. The Federal Energy Regulatory Commission's Office of Public Participation (OPP) persists. While plans to fund public and consumer advocates are on hold, the OPP continues outreach to affected communities and to help lower-resource groups navigate technical proceedings with major consequences for energy markets and infrastructure. Proactive outreach is impactful in theory but is rarely done [@Hertel-Fernandez2025], and research is thin. 
 
-**From the outside**, high-capacity advocacy organizations partner with and thus give voice to low-capacity groups by translating demands into the King's English, but these partnerships are unequal [@Strolovitch2006; @Dwidar2022]. To the extent the White House is able to consolidate authority, the currency of influence may shift from legal and technical legitimacy to access and loyalty, which advocacy groups can only provide under aligned presidents. Protests and petitions can force issues into public discourse and alter the political context of agency decision-making, but they are often dismissed by policymakers who see themselves as expert administrators.<!-- not policymaking (the common refrain "public comment" is not a plebiscite" is true, and revealing).--> 
+**From the outside**, high-capacity advocacy organizations partner with and thus give voice to low-capacity groups by translating demands into the King's English. But these partnerships are unequal [@Strolovitch2006; @Dwidar2022]. To the extent the White House is able to consolidate authority, the currency of influence may shift from legal and technical legitimacy to access and loyalty, which advocacy groups can only provide under aligned presidents. In contrast, businesses can buy access and pivot loyalties. Protests and petitions can force issues into public discourse and alter the political context of agency decision-making, but they are often dismissed by policymakers who see themselves as expert administrators.<!-- not policymaking (the common refrain "public comment" is not a plebiscite" is true, and revealing).--> 
 
-**Horizontally**, congressional offices oversee executive-branch agencies and act as ombudsmen. A large share of congressional staff work on overseeing executive-branch policymaking and implementation as they route constituent problems to the correct agency, translate, and advocate for resolution. Using data from @JudgeLordPowellGrimmer2026, @fig-faces-cor shows that congressional offices' policy work (e.g., oversight investigations, commenting on rules) focuses on first-face agencies, while constituent casework is disproportionately with second-face agencies, dominated by helping constituents navigate immigration bureaucracies.^[Due to FOIA exemptions, most of the military and the State Department are missing from these data.] But congressional offices are capacity constrained, and the design of the congressional bureaucracy is extremely ad hoc, leading some offices to do much more work to oversee and help their constituents deal with federal agencies than others. Moreover, some constituencies, like seniors, are better served than others, like SNAP recipients [@SnyderJudgeLordPowellGrimmer2025]. Efforts to control agency communication with members of Congress, centralize decision-making, use federal funds as a bargaining leverage, and reduce transparency may reduce the ability of congressional offices to encourage agency responsiveness.
+**From below**, state and local governments are active participants in administrative policymaking, often joining coalitions (related to Lisa's memo).
+
+**Horizontally**, congressional offices oversee executive-branch agencies and act as ombudsmen. A large share of congressional staff work on overseeing executive-branch policymaking and implementation as they route constituent problems to the correct agency, translate, and advocate for resolution. Using data from @JudgeLordPowellGrimmer2026, @fig-faces-cor shows that congressional offices' policy work (e.g., oversight investigations, commenting on rules) focuses on first-face agencies, while constituent casework is disproportionately with second-face agencies, dominated by helping constituents navigate immigration bureaucracies.^[Due to FOIA exemptions, most of the military and the State Department are missing from these data.] But congressional offices are capacity constrained, and the design of the congressional bureaucracy is extremely ad hoc, leading some offices to do much more work to oversee and help their constituents deal with federal agencies than others. Moreover, the congressional bureaucracy is exceptionally White [@Jones2021], and some constituencies, like seniors, are better served than others, like SNAP recipients [@SnyderJudgeLordPowellGrimmer2025], and work on behalf of business favors campaign donors [@Powell2023FERC]. Efforts to control agency communication with members of Congress, centralize decision-making, use federal funds as a bargaining leverage, and reduce transparency may reduce the ability of congressional offices to facilitate agency responsiveness.
 
 
 ```{r}
@@ -94,14 +97,18 @@ here::here("figs", "faces-cor.png") |>
 
 
 
+Some famous intermediary institutions are **missing** from administrative democracy. **Parties** craft agendas and then rely on presidents and appointees to see them through. The only party-adjacent actors at the table in bureaucratic policymaking are corporate donors. The party in government is the donor-consultant faction of the party (see Jake and Paul's memos). **Unions**, with some exceptions, are narrowly present on issues that directly affect their workplace, often mobilized by employers. National Nurses United is one of the few I engaged more broadly [@Ahlquist2013]. Some broad-based groups, like AARP, are also absent.
+
 While Second Face institutions may have evaded transparency and participation requirements, there is demand for it in the streets and in local politics. For example, municipal cooperation with ICE is now a major flashpoint of local elections.
 **Do second-face agencies demand different accountability institutions?** 
 
 ## Identity-conscious administrative law 
 
-@Feinstein2022 argues that identity-conscious institutional design can improve agency accountability by explicitly elevating certain groups that are disadvantaged by neutral processes. If institutions aim for "equitable and meaningful" participation --- to mitigate rather than reproduce structural power --- must they explicitly empower race- and class-subjugated communities? We have much more research on identity-targeted benefits and enforcement than identity-conscious participation. Even without elevating certain groups, addressing the identity of participants --- about who is lobbying, who they represent, who funded it --- could yield more informed decisions [@Seifter2016], incent better internal governance, and strengthen civil society infrastructure [@Berger2026].  Proposals to reform public participation are generally framed as neutrally increasing access, assuming that a more open process will lead to more diverse perspectives and higher quality information. Researchers should explore the limits of identity-neutral participatory institutions, the possibilities of identity-conscious ones, and possible tradeoffs.
+@Feinstein2022 argues that identity-conscious institutional design can improve agency accountability by explicitly elevating certain groups that are disadvantaged by neutral processes. If institutions aim for "equitable and meaningful" participation --- to mitigate rather than reproduce structural power --- must they explicitly empower race- and class-subjugated communities? We have much more research on identity-targeted benefits and enforcement than identity-conscious participation. Even without elevating certain groups, addressing the identity of participants --- about who is lobbying, who they represent, who funded it --- could yield more informed decisions [@Seifter2016], incent better internal governance, and strengthen civil society infrastructure [@Berger2026]. Despite much discussion about how participation builds legitimacy [@Feinstein2025], courts pay no attention to the democratic qualities of the policy process or who was excluded when upholding or striking down policy.
+Proposals to reform public participation are generally framed as neutrally increasing access, assuming that a more open process will lead to more diverse perspectives and higher quality information. What do we know about the limits of identity-neutral participatory institutions, the possibilities of identity-conscious ones, and possible tradeoffs?
 
-Shaping identities and public discourse --- disrupting one conventional wisdom and cementing another --- is key to how social movements affect policy [@Woodly2015]. Policy is shaped by and shapes common sense about what fairness and equal treatment entail. Unlike the first Trump administration, where bureaucrats and policy documents continued to talk about environmental justice and civil rights, efforts to shift the language of policymaking drove nearly all discussion of race, ethnicity, socioeconomic status, minority populations, underserved communities, cultural competency, disparate impact, civil rights, equity, inequality, disability, and tribal consultation to nearly zero in 2025 (@fig-trends). How will these changes in policy discourse affect policy substance?
+
+Shaping identities and public discourse --- disrupting one conventional wisdom and cementing another --- is key to how social movements affect policy [@Woodly2015]. Policy is shaped by and shapes common sense about what fairness and equal treatment entail. Unlike the first Trump administration, where bureaucrats and policy documents continued to talk about environmental justice and civil rights, efforts to shift the language of policymaking drove nearly all discussion of race, ethnicity, socioeconomic status, minority populations, underserved communities, cultural competency, disparate impact, civil rights, equity, inequality, disability, and tribal consultation to nearly zero in 2025 (e.g., @fig-trends).^[(b) shows trends for the Department of Labor Civil Rights Center (CRC), Department of Transportation (DOT), Environmental Protection Agency, ] How will these changes in policy discourse affect policy substance?
 
 
 
@@ -128,12 +135,12 @@ here::here("docs/figs/trends-rule-docs-civil-rights-2.png") |>
   knitr::include_graphics()
 ```
 
-## What distinguishes the first and second faces?
+## What distinguishes the first and second faces of public administration?
 
 When critics of the administrative state exempt second-face agencies, are they exempting certain institutions, forms of state action, or policy goals? Some distinguish historically constructed **policy domains** ("domestic affairs" like education, health, and the environment versus “national security” issues like immigration, policing,  and foreign affairs).
-@Chertoff2025 focus on **means** (regulation & benefits vs. surveillance and violence). @Soss2017 focuses on similar means ("coercion, containment, repression, surveillance, regulation, predation, discipline, and violence") and **ends** ("social control" of race- and class-subjugated communities). I [attempted to classify all federal agencies](https://docs.google.com/spreadsheets/d/18pKz-pPVvSlLs92BfVqEvqI2wsLWL3eU6ztmCVPq6bk/edit?gid=0#gid=0) for each dimension (comments welcome!).  
+@Chertoff2025 focus on **means** (regulation & benefits vs. surveillance & violence). @Soss2017 focuses on similar means (coercion, containment, repression, surveillance, regulation, predation, discipline, and violence) and **ends** (social control of race- and class-subjugated communities). I [attempted to classify all federal agencies](https://docs.google.com/spreadsheets/d/18pKz-pPVvSlLs92BfVqEvqI2wsLWL3eU6ztmCVPq6bk/edit?gid=0#gid=0) for each dimension (comments welcome!).  
 
-2025 saw 58% fewer rules (@fig-2025 (a)) and 56% fewer other documents than the first year of the first Trump administration. This drop in normal policymaking has been somewhat concentrated in first-face agencies (b), not necessarily liberal agencies (c).^[This is partially explained by offsetting effects where USCIS and ICE made more rules, but CPB made fewer. Likewise, more deregulatory rules from OSHA offset fewer rules from EPA, where deregulation was initially pursued by eliminating people and offices. This is rebounding in 2026, reflecting an initial approach of doing as much as possible outside official policymaking processes. EPA is now publishing deregulatory rules.] Most significantly, the decrease is almost entirely concentrated in agencies mentioned in more than 10 paragraphs of the Heritage Foundation's Mandate for Leadership report (d). 
+2025 saw 58% fewer rules (@fig-2025 (a)) and 56% fewer other documents than the first year of the first Trump administration. This drop in normal policymaking has been somewhat concentrated in first-face agencies (b), not necessarily liberal agencies (c).^[This is partially explained by offsetting effects where USCIS and ICE made more rules, but CPB made fewer. Likewise, more deregulatory rules from OSHA offset fewer rules from EPA, where deregulation was initially pursued by eliminating people and offices. This is rebounding in 2026, reflecting an initial approach of doing as much as possible outside official policymaking processes. EPA is now publishing deregulatory rules.] Most significantly, the decrease is almost entirely concentrated in agencies mentioned in more than 10 [paragraphs of the Heritage Foundation's Mandate for Leadership report](https://github.com/judgelord/2025) (d). 
 
 
 ```{r}
@@ -166,7 +173,7 @@ here::here("docs", "figs", "rulemaking-change-box-2025-7.png") |>
 
 ```
 
-@fig-faces-ideo shows that second-face agencies are also the ones that survey respondents [@RichardsonClintonLewis2018] perceive as "conservative"; first-face agencies are more spread out, but generally perceived as "liberal," with many agencies that don't fit cleanly in the framework in the middle. Some have components doing different things depending on who is in power (e.g., DOJ). Some are odd fits in their larger institution (FEMA). The relationship with the share of rules that use racialized language on the y-axis [@Magana2025] is less clear.
+@fig-faces-ideo shows that second-face agencies are also the ones that survey respondents [@RichardsonClintonLewis2018] perceive as "conservative"; first-face agencies are more spread out, but generally perceived as "liberal," with many agencies that don't fit cleanly in the framework in the middle. Some have components doing different things depending on who is in power (e.g., DOJ). Some are odd fits in their larger institution (FEMA). The relationship between the face of power and the share of rules that use racialized language on the y-axis [@Magana2025] is less clear.
 It is unclear where public lands agencies, public services like USPS, and science agencies fit in the scheme. 
 <!--Do public lands agencies, public services like USPS, science agencies, and conservation payments for farmers count as benefits? Science agencies have been decimated. Do agencies avoid the label "administrative state" to the extent it is possible to reorient them? --> 
 
@@ -189,3 +196,58 @@ here::here("docs", "figs", "ideo_v_rules_faces-2.png") |>
 \footnotesize
 \setlength{\parskip}{0pt}
 \setlength{\itemsep}{0pt plus 0.3ex}
+
+<!---
+My memo highlighted three genres of questions about the mechanisms by which the administrative state can be democratized. 
+- first I highlight three intermediary institutions that translate 
+- second --- what is it about some institiotns that leads the left to focus on accountability and the right to target for demoloition and others to to escape accountability and demoliation
+   - is it just a feature of our historical development that the military and police are exempt? 
+   - are the mechanisms for institutional accountability different? 
+- third I call for more research on institutions that empower certain groups via participation
+
+Observations that, if true, make these questions important 
+- obvously agencies will be involved in the implementing. However, the bureaucratic capacity to make details policy currently exists in the executive branch, so that is where most policy will be made and revised, regardless of how active Congress is. 
+- our professionalized bureacracy is biased towad legal and technical expertise. In part because we don't talk much about the bureaucrats role in democracy, they tend to see themselves as expert administators 
+- The second trump administation has tried to change this --- to centralize control, shifting the currency of influence from expertise to access, with uneven success. We think more about the places where changes have been dramatic than places that have been hurt by layoffs but largely overlooked in efforts to centralize control. This is because the WH bureaucracy is limited in its capacity.  With time and more loyalists, they may consolidate power, but they are also facing pressure to restore things that are broken and causing pain
+
+All of this is to say that the problems and solutions we've explored with administrative democracy are likely to continue to be relevant. There even be a window of opportunity to extend them to agencies that have been largely exempt. At the same time, some institutions have been badly broken and some whole-of-goverment efforts -- like eleminating civil rights offices ---0 have succeeded, and it will be interesting to see how much that reshapes power in agency decisionmaking 
+
+OK. Briefly, NUMBER 1 I highlite 3 intermediaty instititons that translate politics into the legal and technical language of bureaucratic policymaking
+- people on the inside
+- groups
+- congressional offices
+
+
+Number 2, I highlight a few dimensions of variation 
+ - the means 
+ - the ends 
+ - ideology - maps pretty clearly on to the two faces, but much left in the middle. 
+ - race 
+ 
+FINALLY, I highlight 
+
+Reserved seats at the table may incentivize grouups to coaless or form 
+- labor may need to iron out a collective program 
+- 
+As Alex has discussed, 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+- One area where they have 
+
+
+
+
+
+---> 

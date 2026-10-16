@@ -945,410 +945,95 @@
     "text": "Modeling the probability of policy change\n(1) Variation across agencies:\nPr(Policy Change | President) ~ Policy Demands + Coalition Size + Public Attention + Agency’s Prior Rate of Addressing Environmental Justice (+ Interactions)\n(2) Variation within agencies:\nPr(Policy Change | President & Agency) ~ Policy Demands + Coalition Size + Public Attention (+ Interactions)\n\nBoth of my DVs—adding EJ language and changing existing EJ language–are dichotomous, so I’m going to use logit regression.\nThe main models use president and agency fixed effects, so I’m focusing on variation within presidential administrations and within the agency, but I also assess differences across presidents and agencies by estimating the same models with indicators rather than fixed effects.\nBecause log odds coefficients are hard to interpret and because my models have interactions, I am going to skip the regression table and just show you predicted probabilities."
   },
   {
+    "objectID": "CAPE/morgan.html",
+    "href": "CAPE/morgan.html",
+    "title": "“Immigration Enforcement, Social Welfare, and the Surveillance State” ",
+    "section": "",
+    "text": "This memo asks interesting questions about the political economy of government information infrastructure."
+  },
+  {
+    "objectID": "CAPE/morgan.html#why-havent-businesses-done-more",
+    "href": "CAPE/morgan.html#why-havent-businesses-done-more",
+    "title": "“Immigration Enforcement, Social Welfare, and the Surveillance State” ",
+    "section": "Why haven’t businesses done more?",
+    "text": "Why haven’t businesses done more?\nThe four reasons why businesses have not done more to stop the current round of ethnic cleansing are a helpful set of non-mutually exclusive hypotheses. I can think of a few more to add.\n\nProfits of precarity: businesses benefit from worker precarity, so the costs that come with losing workers to ICE also come with the benefit of disempowering workers.\nScale: it may not yet be a large enough scale to meaningfully affect business\nAsymmetric treatment of businesses: similar to the deals that farmers got, it seems that ICE is avoiding going after large (powerful) employers."
+  },
+  {
+    "objectID": "CAPE/morgan.html#the-white-nationalism-as-a-social-movement",
+    "href": "CAPE/morgan.html#the-white-nationalism-as-a-social-movement",
+    "title": "“Immigration Enforcement, Social Welfare, and the Surveillance State” ",
+    "section": "The White nationalism as a social movement",
+    "text": "The White nationalism as a social movement\nOne thing we know about social movements (from first-face agencies) is that the institutions they establish erode as the movement ebbs. Are there reasons to think that this will be less true with second-face agencies?\nThat is, if immigration enforcement has gone beyond what is profitable for powerful businesses, will they grind it down in the same way they ground down environmental laws of the 70s, Dodd-Frank, etc.?"
+  },
+  {
+    "objectID": "CAPE/morgan.html#incentives-for-enforcement",
+    "href": "CAPE/morgan.html#incentives-for-enforcement",
+    "title": "“Immigration Enforcement, Social Welfare, and the Surveillance State” ",
+    "section": "Incentives for enforcement",
+    "text": "Incentives for enforcement\nEnforcement of E-Verify seems like a difficult incentives problem. Under business-aligned administrations, we don’t want enforcement. Under immigrant-aligned administrations, we don’t want enforcement. The constituency to keep pressure on employers is a small number of white nationalist activists and, sometimes perhaps, labor unions.1"
+  },
+  {
+    "objectID": "CAPE/morgan.html#footnotes",
+    "href": "CAPE/morgan.html#footnotes",
+    "title": "“Immigration Enforcement, Social Welfare, and the Surveillance State” ",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn my data on members of Congress contacting ICE, I do see labor unions requesting workplace raids.↩︎"
+  },
+  {
     "objectID": "CAPE/index.html",
     "href": "CAPE/index.html",
     "title": "CAPE Remarks",
     "section": "",
-    "text": "Administrative Democracy\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nOct 9, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "“Center-Left Parties and the Challenge of Adaptation” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Immigration Enforcement, Social Welfare, and the Surveillance State” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Seven Propositions About the Contemporary Democratic Party” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdministrative Democracy\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nOct 9, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "APSA/silva-da-costa.html#do-procurement-posts-lose-tenure-differentially-when-leadership-changes",
-    "href": "APSA/silva-da-costa.html#do-procurement-posts-lose-tenure-differentially-when-leadership-changes",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Do procurement posts lose tenure differentially when leadership changes?",
-    "text": "Do procurement posts lose tenure differentially when leadership changes?\nYes, more senior people in offices with more1 discretion (Procurement).\n\nvery cool within-ministry data design!\n\nShow us this is true."
+    "objectID": "APSA/van-rensselaer.html#default-risk-as-proxy-for-capacity",
+    "href": "APSA/van-rensselaer.html#default-risk-as-proxy-for-capacity",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "Default risk as proxy for capacity",
+    "text": "Default risk as proxy for capacity\nCapacity for what?\n\ncapital expenditure (clearly)\nfiscal management (clearly)\nfiscal solvency, i.e., revenue covering cost (clearly)\nlocal economic production and investment (likely)\nimplementation (of what? capital projects, yes. social programs, maybe not?)\nadministrative (unclear)\n\nAny bond trader model inputs or conventional wisdom?"
   },
   {
-    "objectID": "APSA/silva-da-costa.html#difficult-inferential-problem",
-    "href": "APSA/silva-da-costa.html#difficult-inferential-problem",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Difficult inferential problem",
-    "text": "Difficult inferential problem\n\nDiscretion and removability therefore increase together as one ascends the hierarchy.\n\nBut not perfectly correlated in Brazil!"
+    "objectID": "APSA/van-rensselaer.html#high-local-state-capacity-can-encourage-targeted-federal-grants",
+    "href": "APSA/van-rensselaer.html#high-local-state-capacity-can-encourage-targeted-federal-grants",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "High local state capacity can encourage targeted federal grants",
+    "text": "High local state capacity can encourage targeted federal grants\n\nlocal economic fundamentals (contraindicated for some investments)\ncapacity to apply and administer grant\ngetting the job done (probably more important)"
   },
   {
-    "objectID": "APSA/silva-da-costa.html#why-reason-room-ability",
-    "href": "APSA/silva-da-costa.html#why-reason-room-ability",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Why: Reason + Room + Ability",
-    "text": "Why: Reason + Room + Ability\nA theory of the boss\n\nCares about some decisions\nWorried discretion allows decisions they don’t like\nCan remove some officials"
+    "objectID": "APSA/van-rensselaer.html#ideas-for-analysis",
+    "href": "APSA/van-rensselaer.html#ideas-for-analysis",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "Ideas for analysis",
+    "text": "Ideas for analysis\nMatching"
   },
   {
-    "objectID": "APSA/silva-da-costa.html#the-comparisons",
-    "href": "APSA/silva-da-costa.html#the-comparisons",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "The comparisons",
-    "text": "The comparisons\nSenior procurement staff (38% appointees, -3.5) vs. operational procurement staff (X% appointees, 0 change)\n\nProcurement vs. legal and budget (12%1 appointees, +2.5)\n\n“Procurement is thus the sole core office where reason, room, and ability coincide.”\n\nMore on the reasons and room would help. (Ability is directly modeled.)\n\nsenior and operational combined?"
+    "objectID": "APSA/van-rensselaer.html#ideas-for-other-papers",
+    "href": "APSA/van-rensselaer.html#ideas-for-other-papers",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "Ideas for other papers",
+    "text": "Ideas for other papers\n\nHow do federal investment programs trade off impact vs confidence? Does a bias toward competence cause government investment to follow the bond market in singing with an upper-class accent?\nCan you disaggregate & match with federal programs?\n\n\nwater project bonds and water-related risk with climate vulnerability?\neconomic development bonds\n13k school districts."
   },
   {
-    "objectID": "APSA/silva-da-costa.html#why-procurement",
-    "href": "APSA/silva-da-costa.html#why-procurement",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Why procurement",
-    "text": "Why procurement\n\nmore discretion enables preferences (p. 1)\n\npolicy preferences?\nelectioneering preferences? (Dahlström et al 2021)\ncorruption?\n\nmore lucrative for corruption?\nmore institutional knowledge? (p. 3)\nless expertise and thus less costly to replace (p.9)\n\nalso better for patronage?\n\nmore difficult to oversee? (principal-agent problem)"
+    "objectID": "APSA/van-rensselaer.html#robustness-checks",
+    "href": "APSA/van-rensselaer.html#robustness-checks",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "Robustness checks",
+    "text": "Robustness checks\nDo certain types of counties or cities use special districts more than others?"
   },
   {
-    "objectID": "APSA/silva-da-costa.html#why-senior-staff",
-    "href": "APSA/silva-da-costa.html#why-senior-staff",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Why senior staff",
-    "text": "Why senior staff\n\nmore discretion (p. 1)\ncycle of violence due to lower trust (Lewis, 2008)\ntargeting staff with institutional knowledge (p. 3)\n\ncause or effect?\n\n\n\n“Replacing the operational cadre therefore transfers no authority” (p. 10)\n\nBut see street-level bureaucracy work.\n\nno power or less power?"
-  },
-  {
-    "objectID": "APSA/silva-da-costa.html#model-suggestions",
-    "href": "APSA/silva-da-costa.html#model-suggestions",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Model suggestions",
-    "text": "Model suggestions\nEstimate \\(post_{pt}\\) terms for each of the 12 months — do we see a decaying effect we would expect?\n\nIf a reviewer comes at you saying that is not identified due to \\(\\delta_{rt}\\), email me."
-  },
-  {
-    "objectID": "APSA/silva-da-costa.html#questions",
-    "href": "APSA/silva-da-costa.html#questions",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Questions",
-    "text": "Questions\nWhy are legal and budget staff less likely to be replaced in a minister’s first 12 months? (Monthly estimates could be interesting.)\n\nIs the cost of losing their expertise higher in the first 12 months?"
-  },
-  {
-    "objectID": "APSA/silva-da-costa.html#questions-1",
-    "href": "APSA/silva-da-costa.html#questions-1",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Questions",
-    "text": "Questions\nWhy different from mayoral elections, which affect both managers and frontline workers (Akhtari, Moreira, and Trucco, 2022)"
-  },
-  {
-    "objectID": "APSA/silva-da-costa.html#smaller-notes",
-    "href": "APSA/silva-da-costa.html#smaller-notes",
-    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
-    "section": "Smaller notes",
-    "text": "Smaller notes\n\nI would try to clarify H1 - as is, it sounds like you expect senior procurement positions to be less likely to turn over (conditional on tenure) - I think you mean the opposite?\nMove keyword measure to the appendix as a robustness check—just say it’s the same."
-  },
-  {
-    "objectID": "APSA/liu.html#a-fun-read",
-    "href": "APSA/liu.html#a-fun-read",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "A fun read",
-    "text": "A fun read\n\nreally nice integration of prose, case history, formal theory, and empirical tests\nthe logic seems correct on the margin, though perhaps not the whole story of local autonomy\nclarify how centralized differs from federal regimes in practice (or do parts apply to federal systems too?)\nthe small examples early on are helpful; even more would be clarifying"
-  },
-  {
-    "objectID": "APSA/liu.html#why-do-central-governments-choose-partial-devolution",
-    "href": "APSA/liu.html#why-do-central-governments-choose-partial-devolution",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Why do central governments choose partial devolution?",
-    "text": "Why do central governments choose partial devolution?\n\nthey can’t commit to no bailouts, so they keep control of taxation\nthey don’t trust local governments to spend optimally because they don’t trust local voters will provide accountability because participation is low (because of no discretion — the circular dilemma)"
-  },
-  {
-    "objectID": "APSA/liu.html#key-assumptions",
-    "href": "APSA/liu.html#key-assumptions",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Key Assumptions",
-    "text": "Key Assumptions\n\nLocal governments spend on clientism/“demographically targeted”, not public goods, when voter participation is low. As participation increases, local spending decisions approach fiscally responsible, (nationally?) socially optimal, and efficient spending, avoiding the need for bailouts.\ncentral governments delegate discretion based on socially optimal and efficient spending, which they infer from voter participation rates (because of #1)\nvoter participation varies with discretionary spending (stakes)"
-  },
-  {
-    "objectID": "APSA/liu.html#result",
-    "href": "APSA/liu.html#result",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Result",
-    "text": "Result\nlimited delegation -&gt; limited stakes -&gt; limited participation -&gt; unaccountable spending -&gt; limited delegation"
-  },
-  {
-    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model",
-    "href": "APSA/liu.html#naive-questions-on-the-formal-model",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Naive questions on the formal model",
-    "text": "Naive questions on the formal model\nCan we also get trapped in a virtuous cycle?\nhigh delegation -&gt; high stakes -&gt; high participation -&gt; accountable spending -&gt; high delegation\nMaybe this is what “a settlement sized to cross the hardening threshold” and “rescue priced so that refusing it stays credible” (p. 40)\nWhat about the “onerous terms” English bailouts impose? (p. 26) Not a sufficiently high penalty solve the dilemma?"
-  },
-  {
-    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model-1",
-    "href": "APSA/liu.html#naive-questions-on-the-formal-model-1",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Naive questions on the formal model",
-    "text": "Naive questions on the formal model\nVoters care about stakes, stakes = discretion, so turnout = discretion\n\nTurnout responds to discretion rather than the budget size\n\n\nshouldn’t it be the joint product? It can’t be that I show up when $1 is at stake."
-  },
-  {
-    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model-2",
-    "href": "APSA/liu.html#naive-questions-on-the-formal-model-2",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Naive questions on the formal model",
-    "text": "Naive questions on the formal model\n\n“how far each is checked depends on to what extent the residents can hold local government accountable.” (p. 8)\n\nWhy would residents hold local governments accountable for spending more locally than nationally socially optimal? Even if spending is clientistic, voters share any free rider problem, no?\nEmpirically, do deficits shrink (causally) with participation? Or do we have an omitted variable causing both?"
-  },
-  {
-    "objectID": "APSA/liu.html#other-comments-are-from-a-u.s.-perspective",
-    "href": "APSA/liu.html#other-comments-are-from-a-u.s.-perspective",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Other comments are from a U.S. perspective",
-    "text": "Other comments are from a U.S. perspective\nDoes some of the logic still apply with more federalism?\n\nno truly discretionary spending different.\nbut lots of “mandated spending” has a lot of discretion (e.g., a mandate to provide transportation for people with disabilities, but how is discretionary.) similar “ad hoc arrangements” (p. 6)\nlocal governments can borrow and go bankrupt (different key to this paper)"
-  },
-  {
-    "objectID": "APSA/liu.html#causes-of-local-underprovision",
-    "href": "APSA/liu.html#causes-of-local-underprovision",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Causes of local underprovision",
-    "text": "Causes of local underprovision\n\ncaps on own revenue (centralism’s key feature #1) \nlocal politics. In the U.S., local governments choose not to tax, either because they are poor or rich. Only the central government can redistribute. Thus, even under full discretion, we may see similar under-provision.\nnational politics Money is power. Under federalism, grants are purposive. Are unitary governments’ transfers that different in practice? (centralism’s key feature #2)"
-  },
-  {
-    "objectID": "APSA/liu.html#politics",
-    "href": "APSA/liu.html#politics",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Politics",
-    "text": "Politics\n\n“The problem facing today’s states is fundamentally the cost-benefit analysis of maintaining the desirable performance of local state capacity at an acceptable cost…[BUT] institutions are more often the outcomes of political struggles and compromises than the brainchild of maximizing planners” (p. 8)\n\nCentral governments are not performance or fiscal responsibility maximizes; they are partisan policy maximizes, increasingly industrial policy coordinators."
-  },
-  {
-    "objectID": "APSA/liu.html#politics---more-alternative-mechanisms",
-    "href": "APSA/liu.html#politics---more-alternative-mechanisms",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Politics - more alternative mechanisms",
-    "text": "Politics - more alternative mechanisms\n\nDelivery via local governments is more about discretion via small-government ideology than efficiency - i.e., local governments often make delivery worse\nDevolution not to partisan allies, but to impose partisan goals, e.g., Ds imposing medicaid expansion on R states\nBlame shifting (poor delivery, poor enforcement)"
-  },
-  {
-    "objectID": "APSA/liu.html#naive-empirical-questions",
-    "href": "APSA/liu.html#naive-empirical-questions",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Naive empirical questions",
-    "text": "Naive empirical questions\nHow does “tendency to over-spend” AND “under-provide public goods” (p. 8) manifest in practice?\nLiu notes the contradiction here. An example would help. Ostrom and others show that theorized tragedies of the commons don’t often occur in practice, and I’m not 100% clear on the theory here. If they can’t borrow, how do they spend more than allocated? If they are under-providing due to clientism, what does this look like?"
-  },
-  {
-    "objectID": "APSA/liu.html#causes-of-low-participationvoter-turnout",
-    "href": "APSA/liu.html#causes-of-low-participationvoter-turnout",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Causes of low participation/voter turnout",
-    "text": "Causes of low participation/voter turnout\n\nlack of stakes\n$ in politics\nnationalization of media/politics (lack of information)"
-  },
-  {
-    "objectID": "APSA/liu.html#power-beyond-the-devolved-purse",
-    "href": "APSA/liu.html#power-beyond-the-devolved-purse",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Power beyond the devolved purse",
-    "text": "Power beyond the devolved purse\nRegulation\n\nland use\npolicing (e.g., Marx on wood theft in Prussia)\n\nAd hoc arrangements regarding shared provision\n\nde facto discretion?\n\na site of political stakes\nbut a difficult, technocratically burdensome one\n\n\nAdministration (“the lifeblood of power”)\n\nadministrative burdens\nlayer of local priorities"
-  },
-  {
-    "objectID": "APSA/liu.html#smaller-notes",
-    "href": "APSA/liu.html#smaller-notes",
-    "title": "Devolution’s Dilemma by Yufeng Liu",
-    "section": "Smaller notes",
-    "text": "Smaller notes\n\nThe paper could be clearer on the harm in centralization. Justify the normative angle to someone outside this literature.\nLong for an article, approaching a short book? Or one formal theory paper and one empirical paper."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#the-contribution",
-    "href": "APSA/ig-ecology.html#the-contribution",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "The contribution",
-    "text": "The contribution\nThis paper beautifully captures the organization of bias AND the bias of organization.\nI would emphasize the contribution of the benchmark model. There are really two important contributions: (1) the benchmark model (without patrons) + (2) the model with patrons.\nConsider “The Organization of Bias and How Patrons Bias Organization” as a title."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#model-inequality-in-resources-and-political-efficacy",
-    "href": "APSA/ig-ecology.html#model-inequality-in-resources-and-political-efficacy",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "1. Model inequality in resources and political efficacy",
-    "text": "1. Model inequality in resources and political efficacy\nWhile true that the upper-class accent may be the signature of one-sided patrons “instead” of the voice of an already advantaged public (p. 29), your model easily extends to both.\nThe same membership fee may be easier for some people to pay than others; this increases their \\(c\\).\nPolitical efficacy makes some people more likely to be type H than L.\nBoth of these may be correlated with \\(y\\), likely reinforcing the asymmetry of patrons."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#model-repression",
-    "href": "APSA/ig-ecology.html#model-repression",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "2. Model repression",
-    "text": "2. Model repression\nThe patron model is a subsidy model. The mirror is one where some exogenous force imposes costs on group entry or citizen joining — for example, government repression, social stigma, scapegoating, or attacks from other groups.\nRepression that affects group entry increases \\(k\\) (or is added to \\(k\\) if it is helpful to distinguish operating costs from repression costs).\nRepression that affects joining (e.g., stigma) increases \\(c\\) (or is added to \\(c\\) if it is helpful to distinguish membership fees from social sanctions)\nBoth of these may be correlated with \\(y\\)."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#endogenize-citizen-ideology-engagement-to-group-density-in-t-1",
-    "href": "APSA/ig-ecology.html#endogenize-citizen-ideology-engagement-to-group-density-in-t-1",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "3. Endogenize citizen ideology & engagement to group density in \\(t-1\\)",
-    "text": "3. Endogenize citizen ideology & engagement to group density in \\(t-1\\)\n\nThe current model captures the organization of existing biases in preferences and engagement.\nEndogenizing both would capture the persuasion and mobilization functions of groups\nWith patrons, the dynamic game would show how patrons move public opinion and organize new constituencies into politics over time.\n\n\n[Politics is] a field of action that is, at once, practically bounded and potentially infinite… Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed. (Woodly 2015, p. 211)"
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#dynamics-with-startup-costs",
-    "href": "APSA/ig-ecology.html#dynamics-with-startup-costs",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "4. Dynamics with startup costs",
-    "text": "4. Dynamics with startup costs\n\\(k\\) is defined as operating costs. What about startup costs?\nIf it is cheaper for groups to enter if they entered in \\(t-1\\) (it’s easier to maintain a group than start one), then changes in \\(y\\) will cause only a lagged response in active support.\nIn the benchmark model, group voice would lag citizen preferences, potentially forever. For simplicity, I think you would just need to show two states of \\(y\\) and three time periods, where a shift to some \\(y'\\) in \\(t_2\\) fails to achieve the same active support in \\(t_3\\) with this modification and thus will never do so.\nPatron bias would compound over time and persist after patrons exit."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#dynamics-with-sticky-identities",
-    "href": "APSA/ig-ecology.html#dynamics-with-sticky-identities",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "5. Dynamics with sticky identities",
-    "text": "5. Dynamics with sticky identities\nRelated to #4 and #5, it may also be costly for people in some regions of \\(y\\) to switch from L to H, but once they do, it persists.\n\n“The original show was fighting for tolerance. Our fight is for acceptance.” - Tan France, Queer Eye\n\nIf \\(u_i\\) in \\(t\\) is affected by whether \\(i\\) had group support in \\(t-1\\) (they had an identity group), then changes in \\(y\\) will cause incomplete responses in active support.\nIn the benchmark model, the dead hand of the past would exert a conservative force on group voice via available/mobilized identities (regions of \\(y\\) where engagement is normal or even just conceivable). Again, I think you would just need to show two states of \\(y\\) and three time periods, where a shift to some \\(y'\\) in \\(t_2\\) fails to achieve the same active support in \\(t_3\\) with this modification and thus will never do so.\nAgain, patron bias would compound over time and persist after patrons exit due to the identity groups they helped to form/activate."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#model-re-framingrealignment",
-    "href": "APSA/ig-ecology.html#model-re-framingrealignment",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "6 Model re-framing/realignment",
-    "text": "6 Model re-framing/realignment\nConsider a two dimension space \\(y\\) and \\(z\\), with each individual \\(i\\) at \\((y_i, z_i)\\)). Set patrons and endogeneity aside for a second, and model each alternative dimension of conflict as in the benchmark model. At entry, groups must decide which frame to adopt. They can locate only at \\((x_j, 0)\\) or \\((0, x_j')\\). The dimension with fewer groups at 0 defines the conflict. This may be hard to solve. Perhaps it gets easier to solve with patrons subsidizing entry on one dimension. Perhaps not. But, intuitively, patrons may also affect the conflict chosen.\n\nPolitical conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition.\n\n\nHe who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power. – E. E. Schattschneider"
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#social-movement-literature",
-    "href": "APSA/ig-ecology.html#social-movement-literature",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "Social movement literature",
-    "text": "Social movement literature\nThere is a lot of adjacent social movement scholarship, mostly in sociology, that may suggest further interpretations or extensions.\nFor example, the debate around resource mobilization theory vs. identity work and persuasion inspired some of my suggestions above.\nAlso see Forester on how groups affect preferences and Carpenter’s “Agenda Democracy” Annual Review on defining conflicts."
-  },
-  {
-    "objectID": "APSA/ig-ecology.html#smaller-notes",
-    "href": "APSA/ig-ecology.html#smaller-notes",
-    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
-    "section": "Smaller notes",
-    "text": "Smaller notes\n\nA totally irrelevant nitpicky complaint about “conservative-environmental”: While colloquial, in principle, conservation is small-c conservative and at odds with the progressive march of industry/development. Historically, the wilderness movement and environmentalism were reactions to the techno-optimism of the progressive movement. Today, the abundance environmentalist and conservationist may find themselves at odds. All that said, I’m unsure what to call people who don’t like the environment: “industry” perhaps?"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#interesting-questions-provocative-answers",
-    "href": "APSA/el-shaarawi.html#interesting-questions-provocative-answers",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Interesting questions, provocative answers",
-    "text": "Interesting questions, provocative answers\nWhy do petrostates attempt to reconstitute their image as leaders in the energy transition?\n\nwho or what is driving the change (or lack thereof) and for whom is the narrative constructed?\nHow does the state define transition?\n\n\n“the principal audience for this narrative is a domestic, regional, and primarily Arabic-speaking one.”"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#contribution",
-    "href": "APSA/el-shaarawi.html#contribution",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Contribution",
-    "text": "Contribution\nThere are always competing frames, even without competing media.\nDomestic politics of IR (Aklin and Mildenberger, 2020; Colgan and Hale, 2021; Colgan and Genovese, 2025; Green, 2025)\n\nAre the “political frames” domestic? Disaggregation?"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#is-it-really-earnest",
-    "href": "APSA/el-shaarawi.html#is-it-really-earnest",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Is it really earnest?",
-    "text": "Is it really earnest?\n\ndomestic and international symbolic capital that Emirati leadership deploy to legitimate power beyond the idea of the petrostate."
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#is-it-impactful",
-    "href": "APSA/el-shaarawi.html#is-it-impactful",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Is it impactful?",
-    "text": "Is it impactful?\n\nYour title implies no\nThe text implies yes"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#comparison-cases",
-    "href": "APSA/el-shaarawi.html#comparison-cases",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Comparison cases",
-    "text": "Comparison cases\nSaudi Arabia"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#the-frames",
-    "href": "APSA/el-shaarawi.html#the-frames",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "The frames",
-    "text": "The frames\n\nPolitical\nEconomic\nEnvironmental\nTechnological\nSocial"
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#next-steps",
-    "href": "APSA/el-shaarawi.html#next-steps",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Next steps",
-    "text": "Next steps\nCo-occurrence of frames with\n\nHow bad?\nWho decides?\nWhat to do?\n\nmitigation (taxes, subsidies)\nadaptation/resilience (green, grey, behavioral)\ncompensation (types of loss and damage)\nrelocation/migration (aid, restrict)\n\n\nThis will add richness & clarify what paradigms imply."
-  },
-  {
-    "objectID": "APSA/el-shaarawi.html#next-steps-1",
-    "href": "APSA/el-shaarawi.html#next-steps-1",
-    "title": "“Narratives of Change, More of the Same”",
-    "section": "Next steps",
-    "text": "Next steps\nCo-occurrence of frames with other frames\n\nCashore and Bernstein (2023) “commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)”\n“Deep green”\netc.\n\nThis will add richness & clarify what frames imply.\nIt will also help you speak to more scholarly and practitioner communities."
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#dictionaries-apis",
-    "href": "APSA/Green-Dumas-Nutley.html#dictionaries-apis",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "<3 Dictionaries & APIs!",
-    "text": "&lt;3 Dictionaries & APIs!\n\nKey public goods in the world of texts!\n\nWell written\nSeems like an appropriate and careful use of pretrained transformers (BERT)"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#paradigm-pluralism--",
-    "href": "APSA/Green-Dumas-Nutley.html#paradigm-pluralism--",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Paradigm Pluralism -",
-    "text": "Paradigm Pluralism -\nQualitative gut-check validation\n\nWhat are the documents that contain all three!?\nWhat were the first examples of post-growth in 2015?\nWhat were the “prototypical and boundary cases” fed to the LLM?\n\nWhat does it mean for policy?\nWhy do we care about policy coherence?\n\nIs “who benefits” consistent within paradigms? Does it not always depend on specific commitments?"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#methods---is-the-sample-decisive",
-    "href": "APSA/Green-Dumas-Nutley.html#methods---is-the-sample-decisive",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Methods - is the sample decisive?",
-    "text": "Methods - is the sample decisive?\n“substantively relevant to environmental policy”\n22,000 –&gt; 3,056 –&gt; 1,175 –&gt; 919 documents\nabove the 75% percentile of 109 keywords in 20/23 (100?) documents\n\nAt the standard threshold of 0.5, 99.2% of documents received at least one label, an implausible result given the administrative and procedural content of much of the corpus.\n\nRobustness checks with different inclusion criteria.\ntraining n = 636, test n = 80, evaluation n = 80"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#methods---llm-benchmarking",
-    "href": "APSA/Green-Dumas-Nutley.html#methods---llm-benchmarking",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Methods - LLM benchmarking",
-    "text": "Methods - LLM benchmarking\nLLMs are conventional wisdom generators. Like your ensemble, they should do better at neoclassical & green growth than post-growth (even humans are pretty fuzzy on both, especially the post/degrowth), right?\n\n\n\n\n\n\nCaution\n\n\n“run-to-run variance in GPT-4o output”"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#findings",
-    "href": "APSA/Green-Dumas-Nutley.html#findings",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Findings",
-    "text": "Findings\nGreen growth and Neoclassical only co-occur 6% of the time.\nNeoclassical falls from 50% in 1995 to 3% in 2019, and recovers to 8% by 2020\nPost-Growth becomes most common (25%)!"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#post-growth-or-conservation",
-    "href": "APSA/Green-Dumas-Nutley.html#post-growth-or-conservation",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Post-growth or conservation?",
-    "text": "Post-growth or conservation?\n\nCivil society organizations\nfisheries organizations, regional fisheries\nbest scientific evidence\nGreen Deal\nstore carbon in soil\nclimate neutrality"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#section",
-    "href": "APSA/Green-Dumas-Nutley.html#section",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "",
-    "text": "Holly Buck’s “Ending Fossil Fuels: Why Net Zero Is Not Enough”"
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#next-steps",
-    "href": "APSA/Green-Dumas-Nutley.html#next-steps",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Next steps",
-    "text": "Next steps\nCo-occurrence of paradigms with\n\nHow bad?\nWho decides?\nWhat to do?\n\nmitigation (taxes, subsidies)\nadaptation/resilience (green, grey, behavioral)\ncompensation (types of loss and damage)\nrelocation/migration (aid, restrict)\n\n\nThis will add richness & clarify what paradigms imply."
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#next-steps-1",
-    "href": "APSA/Green-Dumas-Nutley.html#next-steps-1",
-    "title": "“Climate Policy Paradigms at the European Commission”",
-    "section": "Next steps",
-    "text": "Next steps\nCo-occurrence of paradigms with other paradigms (Meckling and Allan’s is not the only one)\n\nCashore and Bernstein (2023) “commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)”\n“Deep green”\netc.\n\nThis will add richness & clarify what paradigms imply.\nIt will also help you speak to more scholarly and practitioner communities."
-  },
-  {
-    "objectID": "APSA/Green-Dumas-Nutley.html#small-notes",
-    "href": "APSA/Green-Dumas-Nutley.html#small-notes",
-    "title": "“Climate Policy Paradigms at the European Commission”",
+    "objectID": "APSA/van-rensselaer.html#small-notes",
+    "href": "APSA/van-rensselaer.html#small-notes",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
     "section": "Small notes",
-    "text": "Small notes\n\nTable 2 is hard to comprehend, since it is in percentage terms for the whole time period\n“an exact match rate of 0.64” among models or with humans?\nIf appendices are diluting the signal, why don’t you remove them (it’s only 1k documents; you can do a lot by hand)\nIf classification is at the paragraph-level, be careful about saying “document.” If classification is at the document level, why not paragraphs? This is confusing, especially the part about secondary tags.\n\n\n“Where a document exceeded 0.7 on at least one label, secondary and tertiary labels were assigned at a relaxed threshold of 0.6, on the grounds that confirmed paradigmatic content raises the prior probability of additional paradigmatic framing elsewhere in the same document.”"
+    "text": "Small notes\n\nBonds are not really an “alternative” for taxes; they are a way of expenditure smoothing to match revenue.\n36 months is a long time if you are looking for policy shocks\n“median locality-level spread” sounds like it could be geographic, but context suggests you are talking about local temporally here.\nCan you manually code the last 202? Or are they truly ambiguous, in which case, label them as ambiguous."
   },
   {
-    "objectID": "APSA/goehring.html#did-internal-influence-change-with-covid",
-    "href": "APSA/goehring.html#did-internal-influence-change-with-covid",
-    "title": "“Bureaucratic Influence” by Goehring & Rauh",
-    "section": "Did internal influence change with COVID?",
-    "text": "Did internal influence change with COVID?\n-&gt; No\nWhy?\n\nperceived importance did not change\nperceived importance changed, but did not affect response times\n\nperhaps email is all about the org chart, but policy is about expertise"
-  },
-  {
-    "objectID": "APSA/goehring.html#speed-rightsquigarrow-influence",
-    "href": "APSA/goehring.html#speed-rightsquigarrow-influence",
-    "title": "“Bureaucratic Influence” by Goehring & Rauh",
-    "section": "Speed \\(\\rightsquigarrow\\) influence",
-    "text": "Speed \\(\\rightsquigarrow\\) influence\n\nwithin-employee response rates are faster when emails are sent by senior and higher-earning employees\n\nInterpretation: influence over agency outputs\nMay not be true in all cases, but true enough that it’s probably a good measure.\nSpeed is related to kinds of importance that may be more or less related to power over outputs. For example, a boss may evaluate employees on how fast they write rules, but not their content."
-  },
-  {
-    "objectID": "APSA/goehring.html#validating-the-information-mechanism",
-    "href": "APSA/goehring.html#validating-the-information-mechanism",
-    "title": "“Bureaucratic Influence” by Goehring & Rauh",
-    "section": "Validating the information mechanism",
-    "text": "Validating the information mechanism\nCross-sectional: Baseline response expert rates?\nDid anything else happen?\nA comparable case of change in influence would help us believe this null reflects no change in influence."
-  },
-  {
-    "objectID": "APSA/goehring.html#networks",
-    "href": "APSA/goehring.html#networks",
-    "title": "“Bureaucratic Influence” by Goehring & Rauh",
-    "section": "Networks!",
-    "text": "Networks!\nNode centrality rather than edge speed\n\nAre senior people also central?\nChange over time? (influence and marginalization)"
-  },
-  {
-    "objectID": "APSA/index.html",
-    "href": "APSA/index.html",
-    "title": "APSA Discussant Remarks",
-    "section": "",
-    "text": "“Climate Policy Paradigms at the European Commission”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Narratives of Change, More of the Same”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“High Stakes, High Rhetoric”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Bureaucratic Influence” by Goehring & Rauh\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on “Patrons, Citizens, and the Locus of Organizational Bias”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Built to Be Controlled” by Beatriz Silva da Costa\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevolution’s Dilemma by Yufeng Liu\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederal Particularism & Local Capacity by Kyle Van Rensselaer\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\nNo matching items"
+    "objectID": "APSA/van-rensselaer.html#small-notes-on-figure-1",
+    "href": "APSA/van-rensselaer.html#small-notes-on-figure-1",
+    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "section": "Small notes on Figure 1",
+    "text": "Small notes on Figure 1\n\nWould probably be more interesting as a full time series average, unless you are going to show us multiple dates. The missingness makes it difficult.\nCan you explain the state-level variation? Tell us why TN, NC, and SC are so much better than AZ, MN, WI, and NY? You might be able to leverage adjacent counties across state lines for some kind of analysis, since state lines seem to affect bond yields (or is Tennessee a feature of your procedure)?\nIs there a highway project down Interstate 55 or some other explanation?"
   },
   {
     "objectID": "APSA/park-hahus.html#dictionaries",
@@ -1526,88 +1211,480 @@
     "text": "Smaller notes\n\nI don’t think it is totally consistent with your story to say “This shift results from the actual development of climate change and its effects as a global issue” — makes natural, a social process aided by changing facts on the ground.\nJust because a coefficient is small does not mean that it is a small substantive effect (tell use how many words per )"
   },
   {
-    "objectID": "APSA/van-rensselaer.html#default-risk-as-proxy-for-capacity",
-    "href": "APSA/van-rensselaer.html#default-risk-as-proxy-for-capacity",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "Default risk as proxy for capacity",
-    "text": "Default risk as proxy for capacity\nCapacity for what?\n\ncapital expenditure (clearly)\nfiscal management (clearly)\nfiscal solvency, i.e., revenue covering cost (clearly)\nlocal economic production and investment (likely)\nimplementation (of what? capital projects, yes. social programs, maybe not?)\nadministrative (unclear)\n\nAny bond trader model inputs or conventional wisdom?"
+    "objectID": "APSA/index.html",
+    "href": "APSA/index.html",
+    "title": "APSA Discussant Remarks",
+    "section": "",
+    "text": "“Climate Policy Paradigms at the European Commission”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Narratives of Change, More of the Same”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“High Stakes, High Rhetoric”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Bureaucratic Influence” by Goehring & Rauh\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on “Patrons, Citizens, and the Locus of Organizational Bias”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Built to Be Controlled” by Beatriz Silva da Costa\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevolution’s Dilemma by Yufeng Liu\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederal Particularism & Local Capacity by Kyle Van Rensselaer\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "APSA/van-rensselaer.html#high-local-state-capacity-can-encourage-targeted-federal-grants",
-    "href": "APSA/van-rensselaer.html#high-local-state-capacity-can-encourage-targeted-federal-grants",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "High local state capacity can encourage targeted federal grants",
-    "text": "High local state capacity can encourage targeted federal grants\n\nlocal economic fundamentals (contraindicated for some investments)\ncapacity to apply and administer grant\ngetting the job done (probably more important)"
+    "objectID": "APSA/goehring.html#did-internal-influence-change-with-covid",
+    "href": "APSA/goehring.html#did-internal-influence-change-with-covid",
+    "title": "“Bureaucratic Influence” by Goehring & Rauh",
+    "section": "Did internal influence change with COVID?",
+    "text": "Did internal influence change with COVID?\n-&gt; No\nWhy?\n\nperceived importance did not change\nperceived importance changed, but did not affect response times\n\nperhaps email is all about the org chart, but policy is about expertise"
   },
   {
-    "objectID": "APSA/van-rensselaer.html#ideas-for-analysis",
-    "href": "APSA/van-rensselaer.html#ideas-for-analysis",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "Ideas for analysis",
-    "text": "Ideas for analysis\nMatching"
+    "objectID": "APSA/goehring.html#speed-rightsquigarrow-influence",
+    "href": "APSA/goehring.html#speed-rightsquigarrow-influence",
+    "title": "“Bureaucratic Influence” by Goehring & Rauh",
+    "section": "Speed \\(\\rightsquigarrow\\) influence",
+    "text": "Speed \\(\\rightsquigarrow\\) influence\n\nwithin-employee response rates are faster when emails are sent by senior and higher-earning employees\n\nInterpretation: influence over agency outputs\nMay not be true in all cases, but true enough that it’s probably a good measure.\nSpeed is related to kinds of importance that may be more or less related to power over outputs. For example, a boss may evaluate employees on how fast they write rules, but not their content."
   },
   {
-    "objectID": "APSA/van-rensselaer.html#ideas-for-other-papers",
-    "href": "APSA/van-rensselaer.html#ideas-for-other-papers",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "Ideas for other papers",
-    "text": "Ideas for other papers\n\nHow do federal investment programs trade off impact vs confidence? Does a bias toward competence cause government investment to follow the bond market in singing with an upper-class accent?\nCan you disaggregate & match with federal programs?\n\n\nwater project bonds and water-related risk with climate vulnerability?\neconomic development bonds\n13k school districts."
+    "objectID": "APSA/goehring.html#validating-the-information-mechanism",
+    "href": "APSA/goehring.html#validating-the-information-mechanism",
+    "title": "“Bureaucratic Influence” by Goehring & Rauh",
+    "section": "Validating the information mechanism",
+    "text": "Validating the information mechanism\nCross-sectional: Baseline response expert rates?\nDid anything else happen?\nA comparable case of change in influence would help us believe this null reflects no change in influence."
   },
   {
-    "objectID": "APSA/van-rensselaer.html#robustness-checks",
-    "href": "APSA/van-rensselaer.html#robustness-checks",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "Robustness checks",
-    "text": "Robustness checks\nDo certain types of counties or cities use special districts more than others?"
+    "objectID": "APSA/goehring.html#networks",
+    "href": "APSA/goehring.html#networks",
+    "title": "“Bureaucratic Influence” by Goehring & Rauh",
+    "section": "Networks!",
+    "text": "Networks!\nNode centrality rather than edge speed\n\nAre senior people also central?\nChange over time? (influence and marginalization)"
   },
   {
-    "objectID": "APSA/van-rensselaer.html#small-notes",
-    "href": "APSA/van-rensselaer.html#small-notes",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
+    "objectID": "APSA/Green-Dumas-Nutley.html#dictionaries-apis",
+    "href": "APSA/Green-Dumas-Nutley.html#dictionaries-apis",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "<3 Dictionaries & APIs!",
+    "text": "&lt;3 Dictionaries & APIs!\n\nKey public goods in the world of texts!\n\nWell written\nSeems like an appropriate and careful use of pretrained transformers (BERT)"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#paradigm-pluralism--",
+    "href": "APSA/Green-Dumas-Nutley.html#paradigm-pluralism--",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Paradigm Pluralism -",
+    "text": "Paradigm Pluralism -\nQualitative gut-check validation\n\nWhat are the documents that contain all three!?\nWhat were the first examples of post-growth in 2015?\nWhat were the “prototypical and boundary cases” fed to the LLM?\n\nWhat does it mean for policy?\nWhy do we care about policy coherence?\n\nIs “who benefits” consistent within paradigms? Does it not always depend on specific commitments?"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#methods---is-the-sample-decisive",
+    "href": "APSA/Green-Dumas-Nutley.html#methods---is-the-sample-decisive",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Methods - is the sample decisive?",
+    "text": "Methods - is the sample decisive?\n“substantively relevant to environmental policy”\n22,000 –&gt; 3,056 –&gt; 1,175 –&gt; 919 documents\nabove the 75% percentile of 109 keywords in 20/23 (100?) documents\n\nAt the standard threshold of 0.5, 99.2% of documents received at least one label, an implausible result given the administrative and procedural content of much of the corpus.\n\nRobustness checks with different inclusion criteria.\ntraining n = 636, test n = 80, evaluation n = 80"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#methods---llm-benchmarking",
+    "href": "APSA/Green-Dumas-Nutley.html#methods---llm-benchmarking",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Methods - LLM benchmarking",
+    "text": "Methods - LLM benchmarking\nLLMs are conventional wisdom generators. Like your ensemble, they should do better at neoclassical & green growth than post-growth (even humans are pretty fuzzy on both, especially the post/degrowth), right?\n\n\n\n\n\n\nCaution\n\n\n“run-to-run variance in GPT-4o output”"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#findings",
+    "href": "APSA/Green-Dumas-Nutley.html#findings",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Findings",
+    "text": "Findings\nGreen growth and Neoclassical only co-occur 6% of the time.\nNeoclassical falls from 50% in 1995 to 3% in 2019, and recovers to 8% by 2020\nPost-Growth becomes most common (25%)!"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#post-growth-or-conservation",
+    "href": "APSA/Green-Dumas-Nutley.html#post-growth-or-conservation",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Post-growth or conservation?",
+    "text": "Post-growth or conservation?\n\nCivil society organizations\nfisheries organizations, regional fisheries\nbest scientific evidence\nGreen Deal\nstore carbon in soil\nclimate neutrality"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#section",
+    "href": "APSA/Green-Dumas-Nutley.html#section",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "",
+    "text": "Holly Buck’s “Ending Fossil Fuels: Why Net Zero Is Not Enough”"
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#next-steps",
+    "href": "APSA/Green-Dumas-Nutley.html#next-steps",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Next steps",
+    "text": "Next steps\nCo-occurrence of paradigms with\n\nHow bad?\nWho decides?\nWhat to do?\n\nmitigation (taxes, subsidies)\nadaptation/resilience (green, grey, behavioral)\ncompensation (types of loss and damage)\nrelocation/migration (aid, restrict)\n\n\nThis will add richness & clarify what paradigms imply."
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#next-steps-1",
+    "href": "APSA/Green-Dumas-Nutley.html#next-steps-1",
+    "title": "“Climate Policy Paradigms at the European Commission”",
+    "section": "Next steps",
+    "text": "Next steps\nCo-occurrence of paradigms with other paradigms (Meckling and Allan’s is not the only one)\n\nCashore and Bernstein (2023) “commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)”\n“Deep green”\netc.\n\nThis will add richness & clarify what paradigms imply.\nIt will also help you speak to more scholarly and practitioner communities."
+  },
+  {
+    "objectID": "APSA/Green-Dumas-Nutley.html#small-notes",
+    "href": "APSA/Green-Dumas-Nutley.html#small-notes",
+    "title": "“Climate Policy Paradigms at the European Commission”",
     "section": "Small notes",
-    "text": "Small notes\n\nBonds are not really an “alternative” for taxes; they are a way of expenditure smoothing to match revenue.\n36 months is a long time if you are looking for policy shocks\n“median locality-level spread” sounds like it could be geographic, but context suggests you are talking about local temporally here.\nCan you manually code the last 202? Or are they truly ambiguous, in which case, label them as ambiguous."
+    "text": "Small notes\n\nTable 2 is hard to comprehend, since it is in percentage terms for the whole time period\n“an exact match rate of 0.64” among models or with humans?\nIf appendices are diluting the signal, why don’t you remove them (it’s only 1k documents; you can do a lot by hand)\nIf classification is at the paragraph-level, be careful about saying “document.” If classification is at the document level, why not paragraphs? This is confusing, especially the part about secondary tags.\n\n\n“Where a document exceeded 0.7 on at least one label, secondary and tertiary labels were assigned at a relaxed threshold of 0.6, on the grounds that confirmed paradigmatic content raises the prior probability of additional paradigmatic framing elsewhere in the same document.”"
   },
   {
-    "objectID": "APSA/van-rensselaer.html#small-notes-on-figure-1",
-    "href": "APSA/van-rensselaer.html#small-notes-on-figure-1",
-    "title": "Federal Particularism & Local Capacity by Kyle Van Rensselaer",
-    "section": "Small notes on Figure 1",
-    "text": "Small notes on Figure 1\n\nWould probably be more interesting as a full time series average, unless you are going to show us multiple dates. The missingness makes it difficult.\nCan you explain the state-level variation? Tell us why TN, NC, and SC are so much better than AZ, MN, WI, and NY? You might be able to leverage adjacent counties across state lines for some kind of analysis, since state lines seem to affect bond yields (or is Tennessee a feature of your procedure)?\nIs there a highway project down Interstate 55 or some other explanation?"
+    "objectID": "APSA/el-shaarawi.html#interesting-questions-provocative-answers",
+    "href": "APSA/el-shaarawi.html#interesting-questions-provocative-answers",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Interesting questions, provocative answers",
+    "text": "Interesting questions, provocative answers\nWhy do petrostates attempt to reconstitute their image as leaders in the energy transition?\n\nwho or what is driving the change (or lack thereof) and for whom is the narrative constructed?\nHow does the state define transition?\n\n\n“the principal audience for this narrative is a domestic, regional, and primarily Arabic-speaking one.”"
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#contribution",
+    "href": "APSA/el-shaarawi.html#contribution",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Contribution",
+    "text": "Contribution\nThere are always competing frames, even without competing media.\nDomestic politics of IR (Aklin and Mildenberger, 2020; Colgan and Hale, 2021; Colgan and Genovese, 2025; Green, 2025)\n\nAre the “political frames” domestic? Disaggregation?"
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#is-it-really-earnest",
+    "href": "APSA/el-shaarawi.html#is-it-really-earnest",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Is it really earnest?",
+    "text": "Is it really earnest?\n\ndomestic and international symbolic capital that Emirati leadership deploy to legitimate power beyond the idea of the petrostate."
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#is-it-impactful",
+    "href": "APSA/el-shaarawi.html#is-it-impactful",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Is it impactful?",
+    "text": "Is it impactful?\n\nYour title implies no\nThe text implies yes"
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#comparison-cases",
+    "href": "APSA/el-shaarawi.html#comparison-cases",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Comparison cases",
+    "text": "Comparison cases\nSaudi Arabia"
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#the-frames",
+    "href": "APSA/el-shaarawi.html#the-frames",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "The frames",
+    "text": "The frames\n\nPolitical\nEconomic\nEnvironmental\nTechnological\nSocial"
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#next-steps",
+    "href": "APSA/el-shaarawi.html#next-steps",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Next steps",
+    "text": "Next steps\nCo-occurrence of frames with\n\nHow bad?\nWho decides?\nWhat to do?\n\nmitigation (taxes, subsidies)\nadaptation/resilience (green, grey, behavioral)\ncompensation (types of loss and damage)\nrelocation/migration (aid, restrict)\n\n\nThis will add richness & clarify what paradigms imply."
+  },
+  {
+    "objectID": "APSA/el-shaarawi.html#next-steps-1",
+    "href": "APSA/el-shaarawi.html#next-steps-1",
+    "title": "“Narratives of Change, More of the Same”",
+    "section": "Next steps",
+    "text": "Next steps\nCo-occurrence of frames with other frames\n\nCashore and Bernstein (2023) “commons (Type 1), economic optimization (Type 2), compromise (Type 3), and prioritization (Type 4)”\n“Deep green”\netc.\n\nThis will add richness & clarify what frames imply.\nIt will also help you speak to more scholarly and practitioner communities."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#the-contribution",
+    "href": "APSA/ig-ecology.html#the-contribution",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "The contribution",
+    "text": "The contribution\nThis paper beautifully captures the organization of bias AND the bias of organization.\nI would emphasize the contribution of the benchmark model. There are really two important contributions: (1) the benchmark model (without patrons) + (2) the model with patrons.\nConsider “The Organization of Bias and How Patrons Bias Organization” as a title."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#model-inequality-in-resources-and-political-efficacy",
+    "href": "APSA/ig-ecology.html#model-inequality-in-resources-and-political-efficacy",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "1. Model inequality in resources and political efficacy",
+    "text": "1. Model inequality in resources and political efficacy\nWhile true that the upper-class accent may be the signature of one-sided patrons “instead” of the voice of an already advantaged public (p. 29), your model easily extends to both.\nThe same membership fee may be easier for some people to pay than others; this increases their \\(c\\).\nPolitical efficacy makes some people more likely to be type H than L.\nBoth of these may be correlated with \\(y\\), likely reinforcing the asymmetry of patrons."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#model-repression",
+    "href": "APSA/ig-ecology.html#model-repression",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "2. Model repression",
+    "text": "2. Model repression\nThe patron model is a subsidy model. The mirror is one where some exogenous force imposes costs on group entry or citizen joining — for example, government repression, social stigma, scapegoating, or attacks from other groups.\nRepression that affects group entry increases \\(k\\) (or is added to \\(k\\) if it is helpful to distinguish operating costs from repression costs).\nRepression that affects joining (e.g., stigma) increases \\(c\\) (or is added to \\(c\\) if it is helpful to distinguish membership fees from social sanctions)\nBoth of these may be correlated with \\(y\\)."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#endogenize-citizen-ideology-engagement-to-group-density-in-t-1",
+    "href": "APSA/ig-ecology.html#endogenize-citizen-ideology-engagement-to-group-density-in-t-1",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "3. Endogenize citizen ideology & engagement to group density in \\(t-1\\)",
+    "text": "3. Endogenize citizen ideology & engagement to group density in \\(t-1\\)\n\nThe current model captures the organization of existing biases in preferences and engagement.\nEndogenizing both would capture the persuasion and mobilization functions of groups\nWith patrons, the dynamic game would show how patrons move public opinion and organize new constituencies into politics over time.\n\n\n[Politics is] a field of action that is, at once, practically bounded and potentially infinite… Unless we consider the changing and polysemous reality of meaning, social scientists run the risk of treating values and attitudes as antecedent, given and fixed. (Woodly 2015, p. 211)"
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#dynamics-with-startup-costs",
+    "href": "APSA/ig-ecology.html#dynamics-with-startup-costs",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "4. Dynamics with startup costs",
+    "text": "4. Dynamics with startup costs\n\\(k\\) is defined as operating costs. What about startup costs?\nIf it is cheaper for groups to enter if they entered in \\(t-1\\) (it’s easier to maintain a group than start one), then changes in \\(y\\) will cause only a lagged response in active support.\nIn the benchmark model, group voice would lag citizen preferences, potentially forever. For simplicity, I think you would just need to show two states of \\(y\\) and three time periods, where a shift to some \\(y'\\) in \\(t_2\\) fails to achieve the same active support in \\(t_3\\) with this modification and thus will never do so.\nPatron bias would compound over time and persist after patrons exit."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#dynamics-with-sticky-identities",
+    "href": "APSA/ig-ecology.html#dynamics-with-sticky-identities",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "5. Dynamics with sticky identities",
+    "text": "5. Dynamics with sticky identities\nRelated to #4 and #5, it may also be costly for people in some regions of \\(y\\) to switch from L to H, but once they do, it persists.\n\n“The original show was fighting for tolerance. Our fight is for acceptance.” - Tan France, Queer Eye\n\nIf \\(u_i\\) in \\(t\\) is affected by whether \\(i\\) had group support in \\(t-1\\) (they had an identity group), then changes in \\(y\\) will cause incomplete responses in active support.\nIn the benchmark model, the dead hand of the past would exert a conservative force on group voice via available/mobilized identities (regions of \\(y\\) where engagement is normal or even just conceivable). Again, I think you would just need to show two states of \\(y\\) and three time periods, where a shift to some \\(y'\\) in \\(t_2\\) fails to achieve the same active support in \\(t_3\\) with this modification and thus will never do so.\nAgain, patron bias would compound over time and persist after patrons exit due to the identity groups they helped to form/activate."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#model-re-framingrealignment",
+    "href": "APSA/ig-ecology.html#model-re-framingrealignment",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "6 Model re-framing/realignment",
+    "text": "6 Model re-framing/realignment\nConsider a two dimension space \\(y\\) and \\(z\\), with each individual \\(i\\) at \\((y_i, z_i)\\)). Set patrons and endogeneity aside for a second, and model each alternative dimension of conflict as in the benchmark model. At entry, groups must decide which frame to adopt. They can locate only at \\((x_j, 0)\\) or \\((0, x_j')\\). The dimension with fewer groups at 0 defines the conflict. This may be hard to solve. Perhaps it gets easier to solve with patrons subsidizing entry on one dimension. Perhaps not. But, intuitively, patrons may also affect the conflict chosen.\n\nPolitical conflict is not like an intercollegiate debate in which the opponents agree in advance on a definition of the issues. As a matter of fact, the definition of the alternatives is the supreme instrument of power; antagonists can rarely agree on what the issues are because power is involved in the definition.\n\n\nHe who determines what politics is about runs the country, because the definition of alternatives is the choice of conflicts, and the choice of conflicts allocates power. – E. E. Schattschneider"
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#social-movement-literature",
+    "href": "APSA/ig-ecology.html#social-movement-literature",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "Social movement literature",
+    "text": "Social movement literature\nThere is a lot of adjacent social movement scholarship, mostly in sociology, that may suggest further interpretations or extensions.\nFor example, the debate around resource mobilization theory vs. identity work and persuasion inspired some of my suggestions above.\nAlso see Forester on how groups affect preferences and Carpenter’s “Agenda Democracy” Annual Review on defining conflicts."
+  },
+  {
+    "objectID": "APSA/ig-ecology.html#smaller-notes",
+    "href": "APSA/ig-ecology.html#smaller-notes",
+    "title": "Notes on “Patrons, Citizens, and the Locus of Organizational Bias”",
+    "section": "Smaller notes",
+    "text": "Smaller notes\n\nA totally irrelevant nitpicky complaint about “conservative-environmental”: While colloquial, in principle, conservation is small-c conservative and at odds with the progressive march of industry/development. Historically, the wilderness movement and environmentalism were reactions to the techno-optimism of the progressive movement. Today, the abundance environmentalist and conservationist may find themselves at odds. All that said, I’m unsure what to call people who don’t like the environment: “industry” perhaps?"
+  },
+  {
+    "objectID": "APSA/liu.html#a-fun-read",
+    "href": "APSA/liu.html#a-fun-read",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "A fun read",
+    "text": "A fun read\n\nreally nice integration of prose, case history, formal theory, and empirical tests\nthe logic seems correct on the margin, though perhaps not the whole story of local autonomy\nclarify how centralized differs from federal regimes in practice (or do parts apply to federal systems too?)\nthe small examples early on are helpful; even more would be clarifying"
+  },
+  {
+    "objectID": "APSA/liu.html#why-do-central-governments-choose-partial-devolution",
+    "href": "APSA/liu.html#why-do-central-governments-choose-partial-devolution",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Why do central governments choose partial devolution?",
+    "text": "Why do central governments choose partial devolution?\n\nthey can’t commit to no bailouts, so they keep control of taxation\nthey don’t trust local governments to spend optimally because they don’t trust local voters will provide accountability because participation is low (because of no discretion — the circular dilemma)"
+  },
+  {
+    "objectID": "APSA/liu.html#key-assumptions",
+    "href": "APSA/liu.html#key-assumptions",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Key Assumptions",
+    "text": "Key Assumptions\n\nLocal governments spend on clientism/“demographically targeted”, not public goods, when voter participation is low. As participation increases, local spending decisions approach fiscally responsible, (nationally?) socially optimal, and efficient spending, avoiding the need for bailouts.\ncentral governments delegate discretion based on socially optimal and efficient spending, which they infer from voter participation rates (because of #1)\nvoter participation varies with discretionary spending (stakes)"
+  },
+  {
+    "objectID": "APSA/liu.html#result",
+    "href": "APSA/liu.html#result",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Result",
+    "text": "Result\nlimited delegation -&gt; limited stakes -&gt; limited participation -&gt; unaccountable spending -&gt; limited delegation"
+  },
+  {
+    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model",
+    "href": "APSA/liu.html#naive-questions-on-the-formal-model",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Naive questions on the formal model",
+    "text": "Naive questions on the formal model\nCan we also get trapped in a virtuous cycle?\nhigh delegation -&gt; high stakes -&gt; high participation -&gt; accountable spending -&gt; high delegation\nMaybe this is what “a settlement sized to cross the hardening threshold” and “rescue priced so that refusing it stays credible” (p. 40)\nWhat about the “onerous terms” English bailouts impose? (p. 26) Not a sufficiently high penalty solve the dilemma?"
+  },
+  {
+    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model-1",
+    "href": "APSA/liu.html#naive-questions-on-the-formal-model-1",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Naive questions on the formal model",
+    "text": "Naive questions on the formal model\nVoters care about stakes, stakes = discretion, so turnout = discretion\n\nTurnout responds to discretion rather than the budget size\n\n\nshouldn’t it be the joint product? It can’t be that I show up when $1 is at stake."
+  },
+  {
+    "objectID": "APSA/liu.html#naive-questions-on-the-formal-model-2",
+    "href": "APSA/liu.html#naive-questions-on-the-formal-model-2",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Naive questions on the formal model",
+    "text": "Naive questions on the formal model\n\n“how far each is checked depends on to what extent the residents can hold local government accountable.” (p. 8)\n\nWhy would residents hold local governments accountable for spending more locally than nationally socially optimal? Even if spending is clientistic, voters share any free rider problem, no?\nEmpirically, do deficits shrink (causally) with participation? Or do we have an omitted variable causing both?"
+  },
+  {
+    "objectID": "APSA/liu.html#other-comments-are-from-a-u.s.-perspective",
+    "href": "APSA/liu.html#other-comments-are-from-a-u.s.-perspective",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Other comments are from a U.S. perspective",
+    "text": "Other comments are from a U.S. perspective\nDoes some of the logic still apply with more federalism?\n\nno truly discretionary spending different.\nbut lots of “mandated spending” has a lot of discretion (e.g., a mandate to provide transportation for people with disabilities, but how is discretionary.) similar “ad hoc arrangements” (p. 6)\nlocal governments can borrow and go bankrupt (different key to this paper)"
+  },
+  {
+    "objectID": "APSA/liu.html#causes-of-local-underprovision",
+    "href": "APSA/liu.html#causes-of-local-underprovision",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Causes of local underprovision",
+    "text": "Causes of local underprovision\n\ncaps on own revenue (centralism’s key feature #1) \nlocal politics. In the U.S., local governments choose not to tax, either because they are poor or rich. Only the central government can redistribute. Thus, even under full discretion, we may see similar under-provision.\nnational politics Money is power. Under federalism, grants are purposive. Are unitary governments’ transfers that different in practice? (centralism’s key feature #2)"
+  },
+  {
+    "objectID": "APSA/liu.html#politics",
+    "href": "APSA/liu.html#politics",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Politics",
+    "text": "Politics\n\n“The problem facing today’s states is fundamentally the cost-benefit analysis of maintaining the desirable performance of local state capacity at an acceptable cost…[BUT] institutions are more often the outcomes of political struggles and compromises than the brainchild of maximizing planners” (p. 8)\n\nCentral governments are not performance or fiscal responsibility maximizes; they are partisan policy maximizes, increasingly industrial policy coordinators."
+  },
+  {
+    "objectID": "APSA/liu.html#politics---more-alternative-mechanisms",
+    "href": "APSA/liu.html#politics---more-alternative-mechanisms",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Politics - more alternative mechanisms",
+    "text": "Politics - more alternative mechanisms\n\nDelivery via local governments is more about discretion via small-government ideology than efficiency - i.e., local governments often make delivery worse\nDevolution not to partisan allies, but to impose partisan goals, e.g., Ds imposing medicaid expansion on R states\nBlame shifting (poor delivery, poor enforcement)"
+  },
+  {
+    "objectID": "APSA/liu.html#naive-empirical-questions",
+    "href": "APSA/liu.html#naive-empirical-questions",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Naive empirical questions",
+    "text": "Naive empirical questions\nHow does “tendency to over-spend” AND “under-provide public goods” (p. 8) manifest in practice?\nLiu notes the contradiction here. An example would help. Ostrom and others show that theorized tragedies of the commons don’t often occur in practice, and I’m not 100% clear on the theory here. If they can’t borrow, how do they spend more than allocated? If they are under-providing due to clientism, what does this look like?"
+  },
+  {
+    "objectID": "APSA/liu.html#causes-of-low-participationvoter-turnout",
+    "href": "APSA/liu.html#causes-of-low-participationvoter-turnout",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Causes of low participation/voter turnout",
+    "text": "Causes of low participation/voter turnout\n\nlack of stakes\n$ in politics\nnationalization of media/politics (lack of information)"
+  },
+  {
+    "objectID": "APSA/liu.html#power-beyond-the-devolved-purse",
+    "href": "APSA/liu.html#power-beyond-the-devolved-purse",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Power beyond the devolved purse",
+    "text": "Power beyond the devolved purse\nRegulation\n\nland use\npolicing (e.g., Marx on wood theft in Prussia)\n\nAd hoc arrangements regarding shared provision\n\nde facto discretion?\n\na site of political stakes\nbut a difficult, technocratically burdensome one\n\n\nAdministration (“the lifeblood of power”)\n\nadministrative burdens\nlayer of local priorities"
+  },
+  {
+    "objectID": "APSA/liu.html#smaller-notes",
+    "href": "APSA/liu.html#smaller-notes",
+    "title": "Devolution’s Dilemma by Yufeng Liu",
+    "section": "Smaller notes",
+    "text": "Smaller notes\n\nThe paper could be clearer on the harm in centralization. Justify the normative angle to someone outside this literature.\nLong for an article, approaching a short book? Or one formal theory paper and one empirical paper."
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#do-procurement-posts-lose-tenure-differentially-when-leadership-changes",
+    "href": "APSA/silva-da-costa.html#do-procurement-posts-lose-tenure-differentially-when-leadership-changes",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Do procurement posts lose tenure differentially when leadership changes?",
+    "text": "Do procurement posts lose tenure differentially when leadership changes?\nYes, more senior people in offices with more1 discretion (Procurement).\n\nvery cool within-ministry data design!\n\nShow us this is true."
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#difficult-inferential-problem",
+    "href": "APSA/silva-da-costa.html#difficult-inferential-problem",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Difficult inferential problem",
+    "text": "Difficult inferential problem\n\nDiscretion and removability therefore increase together as one ascends the hierarchy.\n\nBut not perfectly correlated in Brazil!"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#why-reason-room-ability",
+    "href": "APSA/silva-da-costa.html#why-reason-room-ability",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Why: Reason + Room + Ability",
+    "text": "Why: Reason + Room + Ability\nA theory of the boss\n\nCares about some decisions\nWorried discretion allows decisions they don’t like\nCan remove some officials"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#the-comparisons",
+    "href": "APSA/silva-da-costa.html#the-comparisons",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "The comparisons",
+    "text": "The comparisons\nSenior procurement staff (38% appointees, -3.5) vs. operational procurement staff (X% appointees, 0 change)\n\nProcurement vs. legal and budget (12%1 appointees, +2.5)\n\n“Procurement is thus the sole core office where reason, room, and ability coincide.”\n\nMore on the reasons and room would help. (Ability is directly modeled.)\n\nsenior and operational combined?"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#why-procurement",
+    "href": "APSA/silva-da-costa.html#why-procurement",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Why procurement",
+    "text": "Why procurement\n\nmore discretion enables preferences (p. 1)\n\npolicy preferences?\nelectioneering preferences? (Dahlström et al 2021)\ncorruption?\n\nmore lucrative for corruption?\nmore institutional knowledge? (p. 3)\nless expertise and thus less costly to replace (p.9)\n\nalso better for patronage?\n\nmore difficult to oversee? (principal-agent problem)"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#why-senior-staff",
+    "href": "APSA/silva-da-costa.html#why-senior-staff",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Why senior staff",
+    "text": "Why senior staff\n\nmore discretion (p. 1)\ncycle of violence due to lower trust (Lewis, 2008)\ntargeting staff with institutional knowledge (p. 3)\n\ncause or effect?\n\n\n\n“Replacing the operational cadre therefore transfers no authority” (p. 10)\n\nBut see street-level bureaucracy work.\n\nno power or less power?"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#model-suggestions",
+    "href": "APSA/silva-da-costa.html#model-suggestions",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Model suggestions",
+    "text": "Model suggestions\nEstimate \\(post_{pt}\\) terms for each of the 12 months — do we see a decaying effect we would expect?\n\nIf a reviewer comes at you saying that is not identified due to \\(\\delta_{rt}\\), email me."
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#questions",
+    "href": "APSA/silva-da-costa.html#questions",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Questions",
+    "text": "Questions\nWhy are legal and budget staff less likely to be replaced in a minister’s first 12 months? (Monthly estimates could be interesting.)\n\nIs the cost of losing their expertise higher in the first 12 months?"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#questions-1",
+    "href": "APSA/silva-da-costa.html#questions-1",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Questions",
+    "text": "Questions\nWhy different from mayoral elections, which affect both managers and frontline workers (Akhtari, Moreira, and Trucco, 2022)"
+  },
+  {
+    "objectID": "APSA/silva-da-costa.html#smaller-notes",
+    "href": "APSA/silva-da-costa.html#smaller-notes",
+    "title": "“Built to Be Controlled” by Beatriz Silva da Costa",
+    "section": "Smaller notes",
+    "text": "Smaller notes\n\nI would try to clarify H1 - as is, it sounds like you expect senior procurement positions to be less likely to turn over (conditional on tenure) - I think you mean the opposite?\nMove keyword measure to the appendix as a robustness check—just say it’s the same."
+  },
+  {
+    "objectID": "CAPE/gingrich.html",
+    "href": "CAPE/gingrich.html",
+    "title": "“Center-Left Parties and the Challenge of Adaptation” ",
+    "section": "",
+    "text": "The first section notes that mainstream parties in majoritarian systems have “captured” the class and geographic realignment. Is it equally or more accurate to say they “created” it? For example,\n\nDem consultants advise them to stop contesting rural districts\nDems (at least in Michigan) rarely knock on doors in low-income neighborhoods because it’s not seen as efficient\nIn Cramer’s telling, Republicans created rural resentment by pointing to urban Dem elitism and tying it to race. Rural identity existed, but really started to help republicans when they transformed it into resentment and the Dems abandoned the field.\n\nI like the way you summarized this later, in the second section, as the supply-side critique. The right is united on culture (white-hetero-patriarchy) and divided on economics; the left is united on economics and divided on culture. This seems right in some ways, but I’d be interested to explore and test this story. The right seems pretty divided on immigration and multiracial democracy, whereas the left is pretty united. Is it not a lot of working-class people support the right because they believe right populist economic rhetoric and don’t see the policy differences? If they were united on culture, shouldn’t they not be losing so many voters in the US right now?"
+  },
+  {
+    "objectID": "CAPE/gingrich.html#capturing-vs-creating-realignment",
+    "href": "CAPE/gingrich.html#capturing-vs-creating-realignment",
+    "title": "“Center-Left Parties and the Challenge of Adaptation” ",
+    "section": "",
+    "text": "The first section notes that mainstream parties in majoritarian systems have “captured” the class and geographic realignment. Is it equally or more accurate to say they “created” it? For example,\n\nDem consultants advise them to stop contesting rural districts\nDems (at least in Michigan) rarely knock on doors in low-income neighborhoods because it’s not seen as efficient\nIn Cramer’s telling, Republicans created rural resentment by pointing to urban Dem elitism and tying it to race. Rural identity existed, but really started to help republicans when they transformed it into resentment and the Dems abandoned the field.\n\nI like the way you summarized this later, in the second section, as the supply-side critique. The right is united on culture (white-hetero-patriarchy) and divided on economics; the left is united on economics and divided on culture. This seems right in some ways, but I’d be interested to explore and test this story. The right seems pretty divided on immigration and multiracial democracy, whereas the left is pretty united. Is it not a lot of working-class people support the right because they believe right populist economic rhetoric and don’t see the policy differences? If they were united on culture, shouldn’t they not be losing so many voters in the US right now?"
+  },
+  {
+    "objectID": "CAPE/gingrich.html#time-horizons",
+    "href": "CAPE/gingrich.html#time-horizons",
+    "title": "“Center-Left Parties and the Challenge of Adaptation” ",
+    "section": "Time horizons",
+    "text": "Time horizons\nI really like the point that vote maximization in the short run is not the same as coalition building in the medium run. This seems to explain a lot of strategists’ disagreements, including the supply and demand side debate."
+  },
+  {
+    "objectID": "CAPE/gingrich.html#the-argument-and-its-implications",
+    "href": "CAPE/gingrich.html#the-argument-and-its-implications",
+    "title": "“Center-Left Parties and the Challenge of Adaptation” ",
+    "section": "The argument and its implications",
+    "text": "The argument and its implications\nI like this a lot; a very clean contrast between the New Deal and third way, contrasting the instruments and their feedback effects.\nThe parallel and implication for Abundance politics is clear and insightful.\nThe credibility and legibility challenges are well put. I wonder how much each of these depends on how the other party positions and messages. For example, we see many Republicans running for office getting into the game of who can be more anti-data center. This seems to have both advantages and risks for the Democrats in adopting this strategy."
   },
   {
     "objectID": "CAPE/memo.html",
     "href": "CAPE/memo.html",
     "title": "Administrative Democracy",
     "section": "",
-    "text": "What institutional mechanisms advance administrative democracy (Feinstein and Walters 2025)? To be effective, must they be identity-conscious and ends-oriented? Carpenter (2023) points to the “democratic necessity of local political intermediaries, protest campaigns, social organizations, advocacy campaigns, grievance mechanisms, and other agenda-democratizing processes and institutions.” Policies don’t merely create mass politics; they also structure the inevitable and ongoing politics of “filling up the details” and adapting to change (Moynihan and Soss 2014). Neutral processes likely reproduce existing inequalities. Institutions that resist power are often brought about by social movements and are difficult to maintain when the movement ebbs (Wilson 1989).  With most policy still inevitably crafted by bureaucrats, understanding how institutional design makes bureaucratic policymaking responsive to different interests is key, both to understanding the effects of current disruptions and future rebuilding. Progressive policies will fail if the institutions that “implement” and revise them are responsive to a chorus with an upper-class accent."
+    "text": "What institutional mechanisms advance administrative democracy? To be effective, must they be identity-conscious and ends-oriented? Carpenter (2023) points to the “democratic necessity of local political intermediaries, protest campaigns, social organizations, advocacy campaigns, grievance mechanisms, and other agenda-democratizing processes and institutions.” Policies don’t merely create mass politics; they also structure the inevitable and ongoing politics of “filling up the details” and adapting to change (Moynihan and Soss 2014). Neutral processes likely reproduce existing inequalities. Institutions that resist power are often brought about by social movements and are difficult to maintain when the movement ebbs (Wilson 1989).  With most policy still inevitably crafted by bureaucrats, understanding how institutional design makes bureaucratic policymaking responsive to different interests is key, both to understanding the effects of current disruptions and future rebuilding. Redistributive policies will fail if the institutions that “implement” and revise them are responsive to a chorus with an upper-class accent."
   },
   {
     "objectID": "CAPE/memo.html#intermediary-institutions-as-mechanisms-of-administrative-democracy",
     "href": "CAPE/memo.html#intermediary-institutions-as-mechanisms-of-administrative-democracy",
     "title": "Administrative Democracy",
     "section": "Intermediary institutions as mechanisms of administrative democracy",
-    "text": "Intermediary institutions as mechanisms of administrative democracy\nAgency policymaking tilts toward business (Yackee and Yackee 2006), whose resources give them access to lawyers, experts, and powerful allies (Libgober and Carpenter 2024; Carpenter et al. 2024; Powell et al. 2023). As one agency official put it, “some groups don’t speak the King’s English”—intermediary institutions must translate. While centralizing control may shift the venue of conflict from agencies to the White House in some areas, the federal government is vast, and the White House bureaucracy has limited capacity. Where the White House is paying little attention, inequality in the ability to articulate claims and demands in ways that bureaucratic policymakers see as legitimate remains a key problem, and lawyers, experts, and allies will likely continue to matter.\nOn the inside, public advocates and offices of civil rights, environmental justice, and public participation translate internally, increasing responsiveness to these concerns, but they are marginalized within their institutions (Walton 1988; Harrison 2019). The second Trump administration has rapidly moved to dismantle many, but not all, of these offices, likely with long-term effects. The Federal Energy Regulatory Commission’s Office of Public Participation (OPP) persists. While plans to fund public advocates are on hold, the OPP continues outreach to affected communities and to help lower-resource groups navigate technical proceedings with major consequences for energy markets and infrastructure. Proactive outreach is impactful in theory but is rarely done (Hertel-Fernandez 2025), and research is thin.\nFrom the outside, high-capacity advocacy organizations partner with and thus give voice to low-capacity groups by translating demands into the King’s English, but these partnerships are unequal (Strolovitch 2006; Dwidar 2022). To the extent the White House is able to consolidate authority, the currency of influence may shift from legal and technical legitimacy to access and loyalty, which advocacy groups can only provide under aligned presidents. Protests and petitions can force issues into public discourse and alter the political context of agency decision-making, but they are often dismissed by policymakers who see themselves as expert administrators.\nHorizontally, congressional offices oversee executive-branch agencies and act as ombudsmen. A large share of congressional staff work on overseeing executive-branch policymaking and implementation as they route constituent problems to the correct agency, translate, and advocate for resolution. Using data from Judge-Lord et al. (2026), Figure 1 shows that congressional offices’ policy work (e.g., oversight investigations, commenting on rules) focuses on first-face agencies, while constituent casework is disproportionately with second-face agencies, dominated by helping constituents navigate immigration bureaucracies.1 But congressional offices are capacity constrained, and the design of the congressional bureaucracy is extremely ad hoc, leading some offices to do much more work to oversee and help their constituents deal with federal agencies than others. Moreover, some constituencies, like seniors, are better served than others, like SNAP recipients (Snyder et al. 2025). Efforts to control agency communication with members of Congress, centralize decision-making, use federal funds as a bargaining leverage, and reduce transparency may reduce the ability of congressional offices to encourage agency responsiveness.\n\n\n\n\n\n\n\n\nFigure 1: Congressional Office Attention to Two Faces of the Administrative State\n\n\n\n\n\nWhile Second Face institutions may have evaded transparency and participation requirements, there is demand for it in the streets and in local politics. For example, municipal cooperation with ICE is now a major flashpoint of local elections. Do second-face agencies demand different accountability institutions?"
+    "text": "Intermediary institutions as mechanisms of administrative democracy\nAgency policymaking tilts toward business (Yackee and Yackee 2006), whose resources give them access to lawyers, experts, and powerful allies (Libgober and Carpenter 2024; Carpenter et al. 2024; Powell et al. 2023). While centralizing control may shift the venue of conflict from agencies to the White House in some areas, the federal government is vast, and the White House bureaucracy has limited capacity. Where the White House is paying little attention, inequality in the ability to articulate claims and demands in ways that bureaucratic policymakers see as legitimate remains a key problem, and lawyers, experts, and allies will likely continue to matter. As one agency official put it, “some groups don’t speak the King’s English”—intermediary institutions must translate.\nOn the inside, public advocates and offices of civil rights, environmental justice, and public participation translate internally, increasing responsiveness to these concerns, but they are marginalized within their institutions (Walton 1988; Harrison 2019). The second Trump administration has rapidly moved to dismantle many, but not all, of these offices, likely with long-term effects. The Federal Energy Regulatory Commission’s Office of Public Participation (OPP) persists. While plans to fund public and consumer advocates are on hold, the OPP continues outreach to affected communities and to help lower-resource groups navigate technical proceedings with major consequences for energy markets and infrastructure. Proactive outreach is impactful in theory but is rarely done (Hertel-Fernandez 2025), and research is thin.\nFrom the outside, high-capacity advocacy organizations partner with and thus give voice to low-capacity groups by translating demands into the King’s English. But these partnerships are unequal (Strolovitch 2006; Dwidar 2022). To the extent the White House is able to consolidate authority, the currency of influence may shift from legal and technical legitimacy to access and loyalty, which advocacy groups can only provide under aligned presidents. In contrast, businesses can buy access and pivot loyalties. Protests and petitions can force issues into public discourse and alter the political context of agency decision-making, but they are often dismissed by policymakers who see themselves as expert administrators.\nFrom below, state and local governments are active participants in administrative policymaking, often joining coalitions (related to Lisa’s memo).\nHorizontally, congressional offices oversee executive-branch agencies and act as ombudsmen. A large share of congressional staff work on overseeing executive-branch policymaking and implementation as they route constituent problems to the correct agency, translate, and advocate for resolution. Using data from Judge-Lord et al. (2026), Figure 1 shows that congressional offices’ policy work (e.g., oversight investigations, commenting on rules) focuses on first-face agencies, while constituent casework is disproportionately with second-face agencies, dominated by helping constituents navigate immigration bureaucracies.1 But congressional offices are capacity constrained, and the design of the congressional bureaucracy is extremely ad hoc, leading some offices to do much more work to oversee and help their constituents deal with federal agencies than others. Moreover, the congressional bureaucracy is exceptionally White (Jones 2024) and some constituencies, like seniors, are better served than others, like SNAP recipients (Snyder et al. 2025), and work on behalf of business favors campaign donors (Powell et al. 2023). Efforts to control agency communication with members of Congress, centralize decision-making, use federal funds as a bargaining leverage, and reduce transparency may reduce the ability of congressional offices to facilitate agency responsiveness.\n\n\n\n\n\n\n\n\nFigure 1: Congressional Office Attention to Two Faces of the Administrative State\n\n\n\n\n\nSome famous intermediary institutions are missing from administrative democracy. Parties craft agendas and then rely on presidents and appointees to see them through. The only party-adjacent actors at table in bureaucratic policymaking are corporate donors. The party in government is the donor-consultant faction of the party (see Jake and Paul’s memos). Unions, with some exceptions, are narrowly present on issues that directly affect their workplace, often mobilized by employers. National Nurses United is one of the few I engaged more broadly (Ahlquist and Levi 2013). Some broad-based groups, like AARP are also absent.\nWhile Second Face institutions may have evaded transparency and participation requirements, there is demand for it in the streets and in local politics. For example, municipal cooperation with ICE is now a major flashpoint of local elections. Do second-face agencies demand different accountability institutions?"
   },
   {
     "objectID": "CAPE/memo.html#identity-conscious-administrative-law",
     "href": "CAPE/memo.html#identity-conscious-administrative-law",
     "title": "Administrative Democracy",
     "section": "Identity-conscious administrative law",
-    "text": "Identity-conscious administrative law\nFeinstein (2022) argues that identity-conscious institutional design can improve agency accountability by explicitly elevating certain groups that are disadvantaged by neutral processes. If institutions aim for “equitable and meaningful” participation — to mitigate rather than reproduce structural power — must they explicitly empower race- and class-subjugated communities? We have much more research on identity-targeted benefits and enforcement than identity-conscious participation. Even without elevating certain groups, addressing the identity of participants — about who is lobbying, who they represent, who funded it — could yield more informed decisions (Seifter 2016), incent better internal governance, and strengthen civil society infrastructure (Berger et al. 2026). Proposals to reform public participation are generally framed as neutrally increasing access, assuming that a more open process will lead to more diverse perspectives and higher quality information. Researchers should explore the limits of identity-neutral participatory institutions, the possibilities of identity-conscious ones, and possible tradeoffs.\nShaping identities and public discourse — disrupting one conventional wisdom and cementing another — is key to how social movements affect policy (Woodly 2015). Policy is shaped by and shapes common sense about what fairness and equal treatment entail. Unlike the first Trump administration, where bureaucrats and policy documents continued to talk about environmental justice and civil rights, efforts to shift the language of policymaking drove nearly all discussion of race, ethnicity, socioeconomic status, minority populations, underserved communities, cultural competency, disparate impact, civil rights, equity, inequality, disability, and tribal consultation to nearly zero in 2025 (Figure 2). How will these changes in policy discourse affect policy substance?\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Race in Policy Documents\n\n\n\n\n\n\n\n\n\n\n\n(b) “Civil Rights” in Policy Documents\n\n\n\n\n\n\n\nFigure 2: Big Changes in Policy Discourse in 2025"
+    "text": "Identity-conscious administrative law\nFeinstein (2022) argues that identity-conscious institutional design can improve agency accountability by explicitly elevating certain groups that are disadvantaged by neutral processes. If institutions aim for “equitable and meaningful” participation — to mitigate rather than reproduce structural power — must they explicitly empower race- and class-subjugated communities? We have much more research on identity-targeted benefits and enforcement than identity-conscious participation. Even without elevating certain groups, addressing the identity of participants — about who is lobbying, who they represent, who funded it — could yield more informed decisions (Seifter 2016), incent better internal governance, and strengthen civil society infrastructure (Berger et al. 2026). Despite much discussion about how participation builds legitimacy (Feinstein and Walters 2025), courts pay no attention to the democratic qualities of the policy process or who was excluded when upholding or striking down policy. Proposals to reform public participation are generally framed as neutrally increasing access, assuming that a more open process will lead to more diverse perspectives and higher quality information. What do we know about the limits of identity-neutral participatory institutions, the possibilities of identity-conscious ones, and possible tradeoffs?\nShaping identities and public discourse — disrupting one conventional wisdom and cementing another — is key to how social movements affect policy (Woodly 2015). Policy is shaped by and shapes common sense about what fairness and equal treatment entail. Unlike the first Trump administration, where bureaucrats and policy documents continued to talk about environmental justice and civil rights, efforts to shift the language of policymaking drove nearly all discussion of race, ethnicity, socioeconomic status, minority populations, underserved communities, cultural competency, disparate impact, civil rights, equity, inequality, disability, and tribal consultation to nearly zero in 2025 (e.g., Figure 2).2 How will these changes in policy discourse affect policy substance?\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Race in Policy Documents\n\n\n\n\n\n\n\n\n\n\n\n(b) “Civil Rights” in Policy Documents\n\n\n\n\n\n\n\nFigure 2: Big Changes in Policy Discourse in 2025"
   },
   {
-    "objectID": "CAPE/memo.html#what-distinguishes-the-first-and-second-faces",
-    "href": "CAPE/memo.html#what-distinguishes-the-first-and-second-faces",
+    "objectID": "CAPE/memo.html#what-distinguishes-the-first-and-second-faces-of-public-administration",
+    "href": "CAPE/memo.html#what-distinguishes-the-first-and-second-faces-of-public-administration",
     "title": "Administrative Democracy",
-    "section": "What distinguishes the first and second faces?",
-    "text": "What distinguishes the first and second faces?\nWhen critics of the administrative state exempt second-face agencies, are they exempting certain institutions, forms of state action, or policy goals? Some distinguish historically constructed policy domains (“domestic affairs” like education, health, and the environment versus “national security” issues like immigration, policing, and foreign affairs). Chertoff and Bulman-Pozen (2025) focus on means (regulation & benefits vs. surveillance and violence). Soss and Weaver (2017) focuses on similar means (“coercion, containment, repression, surveillance, regulation, predation, discipline, and violence”) and ends (“social control” of race- and class-subjugated communities). I attempted to classify all federal agencies for each dimension (comments welcome!).\n2025 saw 58% fewer rules (Figure 3 (a)) and 56% fewer other documents than the first year of the first Trump administration. This drop in normal policymaking has been somewhat concentrated in first-face agencies (b), not necessarily liberal agencies (c).2 Most significantly, the decrease is almost entirely concentrated in agencies mentioned in more than 10 paragraphs of the Heritage Foundation’s Mandate for Leadership report (d).\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Final Rules 2005-2025\n\n\n\n\n\n\n\n\n\n\n\n(b) by Perceived Agency Ideology\n\n\n\n\n\n\n\n\n\n\n\n(c) by Attention in Project 2025\n\n\n\n\n\n\n\n\n\n\n\n(d) by Face of the Admin. State\n\n\n\n\n\n\n\nFigure 3: A Historic Decrease in Rulemaking Among Targeted Agencies in 2025\n\n\n\n\nFigure 4 shows that second-face agencies are also the ones that survey respondents (Richardson et al. 2018) perceive as “conservative”; first-face agencies are more spread out, but generally perceived as “liberal,” with many agencies that don’t fit cleanly in the framework in the middle. Some have components doing different things depending on who is in power (e.g., DOJ). Some are odd fits in their larger institution (FEMA). The relationship with the share of rules that use racialized language on the y-axis (Magaña and Judge-Lord 2025) is less clear. It is unclear where public lands agencies, public services like USPS, and science agencies fit in the scheme. \n\n\n\n\n\n\n\n\nFigure 4: Two Faces of the Administrative State by Perceived Ideology and Racialization"
+    "section": "What distinguishes the first and second faces of public administration?",
+    "text": "What distinguishes the first and second faces of public administration?\nWhen critics of the administrative state exempt second-face agencies, are they exempting certain institutions, forms of state action, or policy goals? Some distinguish historically constructed policy domains (“domestic affairs” like education, health, and the environment versus “national security” issues like immigration, policing, and foreign affairs). Chertoff and Bulman-Pozen (2025) focus on means (regulation & benefits vs. surveillance & violence). Soss and Weaver (2017) focuses on similar means (coercion, containment, repression, surveillance, regulation, predation, discipline, and violence) and ends (social control of race- and class-subjugated communities). I attempted to classify all federal agencies for each dimension (comments welcome!).\n2025 saw 58% fewer rules (Figure 3 (a)) and 56% fewer other documents than the first year of the first Trump administration. This drop in normal policymaking has been somewhat concentrated in first-face agencies (b), not necessarily liberal agencies (c).3 Most significantly, the decrease is almost entirely concentrated in agencies mentioned in more than 10 paragraphs of the Heritage Foundation’s Mandate for Leadership report (d).\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Final Rules 2005-2025\n\n\n\n\n\n\n\n\n\n\n\n(b) by Perceived Agency Ideology\n\n\n\n\n\n\n\n\n\n\n\n(c) by Attention in Project 2025\n\n\n\n\n\n\n\n\n\n\n\n(d) by Face of the Admin. State\n\n\n\n\n\n\n\nFigure 3: A Historic Decrease in Rulemaking Among Targeted Agencies in 2025\n\n\n\n\nFigure 4 shows that second-face agencies are also the ones that survey respondents (Richardson et al. 2018) perceive as “conservative”; first-face agencies are more spread out, but generally perceived as “liberal,” with many agencies that don’t fit cleanly in the framework in the middle. Some have components doing different things depending on who is in power (e.g., DOJ). Some are odd fits in their larger institution (FEMA). The relationship between the face of power and the share of rules that use racialized language on the y-axis (Magaña and Judge-Lord 2025) is less clear. It is unclear where public lands agencies, public services like USPS, and science agencies fit in the scheme. \n\n\n\n\n\n\n\n\nFigure 4: Two Faces of the Administrative State by Perceived Ideology and Racialization"
   },
   {
     "objectID": "CAPE/memo.html#footnotes",
     "href": "CAPE/memo.html#footnotes",
     "title": "Administrative Democracy",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nDue to FOIA exemptions, most of the military and the State Department are missing from these data.↩︎\nThis is partially explained by offsetting effects where USCIS and ICE made more rules, but CPB made fewer. Likewise, more deregulatory rules from OSHA offset fewer rules from EPA, where deregulation was initially pursued by eliminating people and offices. This is rebounding in 2026, reflecting an initial approach of doing as much as possible outside official policymaking processes. EPA is now publishing deregulatory rules.↩︎"
+    "text": "Footnotes\n\n\nDue to FOIA exemptions, most of the military and the State Department are missing from these data.↩︎\n(b) shows trends for the Department of Labor Civil Rights Center (CRC), Department of Transportation (DOT), Environmental Protection Agency, ↩︎\nThis is partially explained by offsetting effects where USCIS and ICE made more rules, but CPB made fewer. Likewise, more deregulatory rules from OSHA offset fewer rules from EPA, where deregulation was initially pursued by eliminating people and offices. This is rebounding in 2026, reflecting an initial approach of doing as much as possible outside official policymaking processes. EPA is now publishing deregulatory rules.↩︎"
+  },
+  {
+    "objectID": "CAPE/pierson.html",
+    "href": "CAPE/pierson.html",
+    "title": "“Seven Propositions About the Contemporary Democratic Party” ",
+    "section": "",
+    "text": "Senate Brain, Lawyer Brain, small status-quo-biased thinking is not limited to the party.\nProminent observers talking about oversight investigations in 2027 regularly say that a committee can only take on 1-3 investigations, so the challenge, they say, is picking what to focus on. This presumes current levels of oversight staff capacity. Even those talking about increasing staffing are thinking on small scales, not proportional to the scale of the problem.\nBureaucrats are the embodiment of formed routine. This causes “not my job” thinking. For example, even the EPA’s Office of Air Resources resisted building climate change into its models of air pollutant formation because climate was somebody else’s job. This was what whole-of-government initiatives around climate and social justice in the Biden administration were intended to fix (growing from G.W. Bush’s faith-based initiatives). Anecdotally, these had interesting effects, forcing conversations in new places. For example, the Treasury Department’s Financial Crimes Enforcement Network, an agency stood up in the war on terror populated by lawyers, investigators, and a few economists, launched an initiative to explore how their compliance regulations and enforcement practices may advantage big banks.\nThe Second Trump administration articulated “whole-of-government” initiatives to support fossil fuels and persecute immigrants, which clearly had massive effects, but their opaque and messy execution through non-traditional channels may make them harder to study."
+  },
+  {
+    "objectID": "CAPE/pierson.html#narrow-thinking-tinkering",
+    "href": "CAPE/pierson.html#narrow-thinking-tinkering",
+    "title": "“Seven Propositions About the Contemporary Democratic Party” ",
+    "section": "",
+    "text": "Senate Brain, Lawyer Brain, small status-quo-biased thinking is not limited to the party.\nProminent observers talking about oversight investigations in 2027 regularly say that a committee can only take on 1-3 investigations, so the challenge, they say, is picking what to focus on. This presumes current levels of oversight staff capacity. Even those talking about increasing staffing are thinking on small scales, not proportional to the scale of the problem.\nBureaucrats are the embodiment of formed routine. This causes “not my job” thinking. For example, even the EPA’s Office of Air Resources resisted building climate change into its models of air pollutant formation because climate was somebody else’s job. This was what whole-of-government initiatives around climate and social justice in the Biden administration were intended to fix (growing from G.W. Bush’s faith-based initiatives). Anecdotally, these had interesting effects, forcing conversations in new places. For example, the Treasury Department’s Financial Crimes Enforcement Network, an agency stood up in the war on terror populated by lawyers, investigators, and a few economists, launched an initiative to explore how their compliance regulations and enforcement practices may advantage big banks.\nThe Second Trump administration articulated “whole-of-government” initiatives to support fossil fuels and persecute immigrants, which clearly had massive effects, but their opaque and messy execution through non-traditional channels may make them harder to study."
   },
   {
     "objectID": "FAIR2025-Dwidar-Richardson.html#summary-of-findings-1-huge-partisan-conflict-effects",
@@ -1768,7 +1845,7 @@
     "href": "index.html",
     "title": "Slides & Discussant Remarks",
     "section": "",
-    "text": "APSA Discussant Remarks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCAPE Remarks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025 Changes to U.S. Climate-Relevant Policy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPP000\n\n\nA Course Website Quarto Template\n\n\n\nDevin Judge-Lord\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking Policy About Distributive Justice\n\n\nThe Environmental Justice Movement’s Impact on Agency Rulemaking\n\n\n\nDevin Judge-Lord\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdministrative Democracy\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nOct 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Climate Policy Paradigms at the European Commission”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Narratives of Change, More of the Same”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“High Stakes, High Rhetoric”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Bureaucratic Influence” by Goehring & Rauh\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on “Patrons, Citizens, and the Locus of Organizational Bias”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Built to Be Controlled” by Beatriz Silva da Costa\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevolution’s Dilemma by Yufeng Liu\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederal Particularism & Local Capacity by Kyle Van Rensselaer\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDwidar and Richardson: Who Makes the Rules?\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLibgober: “Legitimacy Brokers”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWagner: “How Not to Design Expert Bureaucracy”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgencies and Stakeholders\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nDwidar and Richardson “Who Makes the Rules?”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\nMaking Policy in the Executive Branch: Money, Expertise, Issue Framing, and Public Pressure\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nNov 5, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "APSA Discussant Remarks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCAPE Remarks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025 Changes to U.S. Climate-Relevant Policy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPP000\n\n\nA Course Website Quarto Template\n\n\n\nDevin Judge-Lord\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking Policy About Distributive Justice\n\n\nThe Environmental Justice Movement’s Impact on Agency Rulemaking\n\n\n\nDevin Judge-Lord\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Center-Left Parties and the Challenge of Adaptation” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Immigration Enforcement, Social Welfare, and the Surveillance State” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Seven Propositions About the Contemporary Democratic Party” \n\n\n\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdministrative Democracy\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nOct 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Climate Policy Paradigms at the European Commission”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Narratives of Change, More of the Same”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“High Stakes, High Rhetoric”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Bureaucratic Influence” by Goehring & Rauh\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on “Patrons, Citizens, and the Locus of Organizational Bias”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n“Built to Be Controlled” by Beatriz Silva da Costa\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevolution’s Dilemma by Yufeng Liu\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederal Particularism & Local Capacity by Kyle Van Rensselaer\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nSep 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDwidar and Richardson: Who Makes the Rules?\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLibgober: “Legitimacy Brokers”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWagner: “How Not to Design Expert Bureaucracy”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgencies and Stakeholders\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nDwidar and Richardson “Who Makes the Rules?”\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\nMaking Policy in the Executive Branch: Money, Expertise, Issue Framing, and Public Pressure\n\n\n\n\n\n\nDevin Judge-Lord\n\n\nNov 5, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "policy.html#tldr",
