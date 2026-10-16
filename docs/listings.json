@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/CAPE/index.html",
-    "items": [
-      "/CAPE/gingrich.html",
-      "/CAPE/morgan.html",
-      "/CAPE/pierson.html",
-      "/CAPE/memo.html"
-    ]
-  },
-  {
     "listing": "/APSA/index.html",
     "items": [
       "/APSA/Green-Dumas-Nutley.html",
@@ -19,6 +10,16 @@
       "/APSA/silva-da-costa.html",
       "/APSA/liu.html",
       "/APSA/van-rensselaer.html"
+    ]
+  },
+  {
+    "listing": "/CAPE/index.html",
+    "items": [
+      "/CAPE/gingrich.html",
+      "/CAPE/morgan.html",
+      "/CAPE/pierson.html",
+      "/CAPE/sorelle.html",
+      "/CAPE/memo.html"
     ]
   },
   {
@@ -39,6 +40,7 @@
       "/CAPE/gingrich.html",
       "/CAPE/morgan.html",
       "/CAPE/pierson.html",
+      "/CAPE/sorelle.html",
       "/CAPE/memo.html",
       "/APSA/Green-Dumas-Nutley.html",
       "/APSA/el-shaarawi.html",
