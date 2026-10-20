@@ -1,10 +1,12 @@
 ---
-title: "Making Policy in the Executive Branch: Money, Expertise, Issue Framing, and Public Pressure"
+title: "ESE501 Lecture"
+subtitle: "Making Policy in the Executive Branch: Money, Expertise, Issue Framing, and Public Pressure"
 date: 11/5/2024
 format:
   revealjs:
     incremental: false   
     scrollable: true 
+    smaller: true
     theme: [default, michigan.scss]
     footer: "[judgelord.github.io/slides/ESE501](https://judgelord.github.io/slides/ESE501.html)"
 author:

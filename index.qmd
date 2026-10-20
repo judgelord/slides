@@ -2,10 +2,11 @@
 title: Slides & Discussant Remarks
 listing:
   contents:
-    - "*.qmd"
+    - "news.qmd"
+    - "policy.qmd"
+    - "ESE501.qmd"
+    - "**/index.qmd"
     - "external-slides.yml"
-    - "!water-talk.qmd"
-    - "!fun.qmd"
   type: grid
   sort: "date desc"
   date-format: medium

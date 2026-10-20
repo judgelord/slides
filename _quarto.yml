@@ -11,15 +11,15 @@ project:
 website:
   title: "Slides"
   image: ""
-  navbar:
-    left:
-      - href: CAPE  # Delete these two lines to remove the slides tab from the navigation bar.
-        text: CAPE  # Unless you delete slides/index.qmd, a slides page will still available by adding "/slides" to the course URL
+  # navbar:
+  #   left:
+  #     - href: APSA  # Delete these two lines to remove the slides tab from the navigation bar.
+  #       text: APSA  # Unless you delete slides/index.qmd, a slides page will still available by adding "/slides" to the course URL
 
 format:
  html:
-   toc: true
-   toc-location: left
+   # toc: true
+   # toc-location: left
    theme: michigan.scss
 
 execute:

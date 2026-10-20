@@ -7,7 +7,14 @@
 
 - title: "Making Policy About Distributive Justice"
   description: "The Environmental Justice Movement’s Impact on Agency Rulemaking"
-  #date: 2026-01-15
+  date: 2022-11-15
   author: "Devin Judge-Lord"
   path: "https://judgelord.github.io/dissertation/present/ej-pres.html"
   image: "https://judgelord.github.io/research/ej/featured_hu9e6d5ca34c2ddbadae88bac8da6328cc_173954_720x0_resize_lanczos_3.png"
+
+- title: "Interbranch Representation"
+  description: "How congressional offices advocate for their constituents to executive-branch agencies"
+  date: 2026-10-06
+  author: "Devin Judge-Lord"
+  path: "https://judgelord.github.io/cor-book/slides/interbranch"
+  image: "https://raw.githubusercontent.com/judgelord/correspondence/refs/heads/master/FERC.png"

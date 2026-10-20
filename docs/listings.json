@@ -16,6 +16,7 @@
     "listing": "/CAPE/index.html",
     "items": [
       "/CAPE/gingrich.html",
+      "/CAPE/hacker.html",
       "/CAPE/morgan.html",
       "/CAPE/pierson.html",
       "/CAPE/sorelle.html",
@@ -33,28 +34,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/APSA/index.html",
-      "/CAPE/index.html",
       "/news.html",
       "/policy.html",
-      "/CAPE/gingrich.html",
-      "/CAPE/morgan.html",
-      "/CAPE/pierson.html",
-      "/CAPE/sorelle.html",
-      "/CAPE/memo.html",
-      "/APSA/Green-Dumas-Nutley.html",
-      "/APSA/el-shaarawi.html",
-      "/APSA/park-hahus.html",
-      "/APSA/goehring.html",
-      "/APSA/ig-ecology.html",
-      "/APSA/silva-da-costa.html",
-      "/APSA/liu.html",
-      "/APSA/van-rensselaer.html",
-      "/JudgeLord_Session1B/Dwidar-Richardson.html",
-      "/JudgeLord_Session1B/Libgober.html",
-      "/JudgeLord_Session1B/Wagner.html",
+      "/APSA/index.html",
+      "/CAPE/index.html",
       "/JudgeLord_Session1B/index.html",
-      "/FAIR2025-Dwidar-Richardson.html",
       "/ESE501.html"
     ]
   }

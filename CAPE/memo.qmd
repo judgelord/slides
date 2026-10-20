@@ -5,33 +5,33 @@ affiliation: "University of Michigan"
 date: 2026-10-09
 format:
    html: default
-   pdf:
-    documentclass: article
-    geometry: margin=1in
-    fontsize: 11pt
-    number-sections: false
-    include-in-header:
-      text: |
-        \usepackage{setspace}
-        \usepackage{caption}
-        \usepackage{subcaption}
-        \usepackage{ragged2e}
-
-        \captionsetup[subfigure]{
-          justification=RaggedRight,
-          singlelinecheck=false
-        }
-
-        \AddToHook{begindocument/end}{
-          \renewcommand{\maketitle}{}
-        }
-
-        \AtBeginEnvironment{CSLReferences}{%
-          \footnotesize
-          \singlespacing
-          \setlength{\parskip}{0pt}
-          \setlength{\itemsep}{0pt plus 0.3ex}
-        }
+   # pdf:
+   #  documentclass: article
+   #  geometry: margin=1in
+   #  fontsize: 11pt
+   #  number-sections: false
+   #  include-in-header:
+   #    text: |
+   #      \usepackage{setspace}
+   #      \usepackage{caption}
+   #      \usepackage{subcaption}
+   #      \usepackage{ragged2e}
+   # 
+   #      \captionsetup[subfigure]{
+   #        justification=RaggedRight,
+   #        singlelinecheck=false
+   #      }
+   # 
+   #      \AddToHook{begindocument/end}{
+   #        \renewcommand{\maketitle}{}
+   #      }
+   # 
+   #      \AtBeginEnvironment{CSLReferences}{%
+   #        \footnotesize
+   #        \singlespacing
+   #        \setlength{\parskip}{0pt}
+   #        \setlength{\itemsep}{0pt plus 0.3ex}
+   #      }
 subtitle: ""
 image: "https://www.unitedexplanations.org/wp-content/uploads/2011/11/occupy-wall-street-cartoon-1170x731.jpg"
 image-alt: "Wall Street" 
@@ -197,57 +197,3 @@ here::here("docs", "figs", "ideo_v_rules_faces-2.png") |>
 \setlength{\parskip}{0pt}
 \setlength{\itemsep}{0pt plus 0.3ex}
 
-<!---
-My memo highlighted three genres of questions about the mechanisms by which the administrative state can be democratized. 
-- first I highlight three intermediary institutions that translate 
-- second --- what is it about some institiotns that leads the left to focus on accountability and the right to target for demoloition and others to to escape accountability and demoliation
-   - is it just a feature of our historical development that the military and police are exempt? 
-   - are the mechanisms for institutional accountability different? 
-- third I call for more research on institutions that empower certain groups via participation
-
-Observations that, if true, make these questions important 
-- obvously agencies will be involved in the implementing. However, the bureaucratic capacity to make details policy currently exists in the executive branch, so that is where most policy will be made and revised, regardless of how active Congress is. 
-- our professionalized bureacracy is biased towad legal and technical expertise. In part because we don't talk much about the bureaucrats role in democracy, they tend to see themselves as expert administators 
-- The second trump administation has tried to change this --- to centralize control, shifting the currency of influence from expertise to access, with uneven success. We think more about the places where changes have been dramatic than places that have been hurt by layoffs but largely overlooked in efforts to centralize control. This is because the WH bureaucracy is limited in its capacity.  With time and more loyalists, they may consolidate power, but they are also facing pressure to restore things that are broken and causing pain
-
-All of this is to say that the problems and solutions we've explored with administrative democracy are likely to continue to be relevant. There even be a window of opportunity to extend them to agencies that have been largely exempt. At the same time, some institutions have been badly broken and some whole-of-goverment efforts -- like eleminating civil rights offices ---0 have succeeded, and it will be interesting to see how much that reshapes power in agency decisionmaking 
-
-OK. Briefly, NUMBER 1 I highlite 3 intermediaty instititons that translate politics into the legal and technical language of bureaucratic policymaking
-- people on the inside
-- groups
-- congressional offices
-
-
-Number 2, I highlight a few dimensions of variation 
- - the means 
- - the ends 
- - ideology - maps pretty clearly on to the two faces, but much left in the middle. 
- - race 
- 
-FINALLY, I highlight 
-
-Reserved seats at the table may incentivize grouups to coaless or form 
-- labor may need to iron out a collective program 
-- 
-As Alex has discussed, 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-- One area where they have 
-
-
-
-
-
----> 

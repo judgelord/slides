@@ -1,6 +1,7 @@
 ---
 title: CAPE Remarks
-#date: 9-4-2026
+subtitle: The Evolving American Political Economy in the Trump Era
+date: 10-17-2026
 image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
 image-alt: "CAPE logo" 
 listing:

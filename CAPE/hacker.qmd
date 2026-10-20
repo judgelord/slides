@@ -1,0 +1,38 @@
+---
+title: ' "The Political Economy of Place" <br>'
+subtitle: ""
+# author: "Devin Judge-Lord"
+affiliation: ""
+date: 2026-10-16
+image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
+image-alt: "CAPE logo" 
+self-contained: true 
+format:
+  html:
+    toc: false
+#    toc-location: body
+#  revealjs: 
+#    theme: [../michigan.scss] 
+#    title-slide-attributes:
+#      data-background-image: "" 
+#      data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/CAPE](index.qmd)"
+bibliography: "../assets/the.bib"
+---
+
+
+## Knowledge economy workers 
+
+- See Sid Rothstein's work on tech workers. 
+
+
+## Loyalty politics 
+
+Neighborhooding - the creation of place 
+
+
+Translating into natoinal organization, mobilization, and party action 
+
+- Politicians do this 
+- groups and parties 
+

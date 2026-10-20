@@ -1,0 +1,72 @@
+---
+title: ' "Consumer Finance and Bottom-up Power Building" <br>'
+subtitle: ""
+# author: "Devin Judge-Lord"
+affiliation: ""
+date: 2026-10-16
+image: "https://logosandtypes.com/wp-content/uploads/2024/12/CAPE-Consortium.png"
+image-alt: "CAPE logo" 
+self-contained: true 
+format:
+  html:
+    toc: false
+#    toc-location: body
+#  revealjs: 
+#    theme: [../michigan.scss] 
+#    title-slide-attributes:
+#      data-background-image: "" 
+#      data-background-opacity: "0.5" 
+footer: "[judgelord.github.io/slides/CAPE](index.qmd)"
+bibliography: "../assets/the.bib"
+---
+
+All of the research questions posed by this memo are really important. 
+
+## Implications of the Financialization for Political Organizing
+
+Financialization means that the owners have:
+
+1. Different contacts with the state (connection to Daniel's memo)
+
+    a. levels (connection to Lisa's memo)
+    b. institutions (e.g., the SEC)
+    
+2. Deep pockets 
+
+    a. Pro: suggests liability as a strategy/policy instrument
+    b. Con: greater power in many venues via lawyers, experts, and money in politics (connection to Lev and Brian's memos)
+    
+3. Less concern for particular assets, only returns 
+   
+   a. Not place-based (connection to Jacob's memo)
+        - hard to control via location-bound politics (again, see Lisa's memo)
+        - not as powerful locally (unlike timber barons or other dominant local businesses/employers that control the local party machine)
+   b. Don't mind shifting modes of production (private equity doesn't care if they are profiting from cutting trees or not cutting trees, whereas vertically-integrated )
+
+## Is private equity more responsible than local elites?
+
+Perhaps 
+
+- Liability
+- dependence on the broader system 
+
+Perhaps not
+
+- Not place-based 
+
+## Is private equity more responsible than centabillionares? 
+
+Probably 
+
+- dependence on the broader system 
+
+Perhaps not 
+
+- powerful in both parties (sillicon vally may not be anymore?)
+
+## Institutions that encourage public interest engagement and organizing
+
+Include specific identities 
+
+Democratization does not need to be open participation -- it can operate via representatives. Indeed, participation is always mediated. 
+

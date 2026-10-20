@@ -23,6 +23,10 @@ bibliography: "../assets/the.bib"
 
 This memo asks interesting questions about the political economy of government information infrastructure.
 
+## Oversight via appropriations
+
+I've also been looking at approproations subcommittee reports as oversight (and agenda-setting) documents, but not yet for DHS. If you are interested in this as a more general phenonomon, I'd love to talk.
+
 ## Why haven't businesses done more? 
 
 The four reasons why businesses have not done more to stop the current round of ethnic cleansing are a helpful set of non-mutually exclusive hypotheses.
